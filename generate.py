@@ -29,8 +29,8 @@ import feedparser
 # ---- 設定（環境変数で上書き可） -------------------------------------------
 ROOT = Path(__file__).resolve().parent
 FEEDS_FILE = ROOT / "feeds.json"
-DATA_FILE = ROOT / "data" / "articles.json"
-OUT_HTML = ROOT / "public" / "index.html"
+DATA_FILE = ROOT / "articles.json"      # フラット構成：ルートに出力
+OUT_HTML = ROOT / "index.html"          # フラット構成：ルートに出力
 
 MAX_ITEMS = int(os.environ.get("MAX_ITEMS", "60"))            # サイトに残す最大件数
 MAX_NEW_SUMMARIES = int(os.environ.get("MAX_NEW_SUMMARIES", "15"))  # 1回の要約上限（課金制御）
