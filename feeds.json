@@ -1,0 +1,12 @@
+{
+  "_comment": "ここに購読したいRSSを追加・削除できます。Googleニュースのトピック検索RSSは無料・安定で、日本語の話題を絞り込めます。q= の中身を変えれば任意のテーマに変更可能です。",
+  "feeds": [
+    { "name": "Googleニュース｜エネルギー", "url": "https://news.google.com/rss/search?q=%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja" },
+    { "name": "Googleニュース｜原油・石油", "url": "https://news.google.com/rss/search?q=(%E5%8E%9F%E6%B2%B9%20OR%20%E7%9F%B3%E6%B2%B9)%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja" },
+    { "name": "Googleニュース｜電気料金・電力", "url": "https://news.google.com/rss/search?q=(%E9%9B%BB%E6%B0%97%E6%96%99%E9%87%91%20OR%20%E9%9B%BB%E5%8A%9B%E9%9C%80%E7%B5%A6)%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja" },
+    { "name": "Googleニュース｜為替・円相場", "url": "https://news.google.com/rss/search?q=(%E5%86%86%E7%9B%B8%E5%A0%B4%20OR%20%E7%82%BA%E6%9B%BF)%20when%3A2d&hl=ja&gl=JP&ceid=JP:ja" },
+    { "name": "Googleニュース｜LNG・天然ガス", "url": "https://news.google.com/rss/search?q=(LNG%20OR%20%E5%A4%A9%E7%84%B6%E3%82%AC%E3%82%B9)%20when%3A3d&hl=ja&gl=JP&ceid=JP:ja" },
+    { "name": "EIA Today in Energy (米エネルギー情報局)", "url": "https://www.eia.gov/rss/todayinenergy.xml" },
+    { "name": "OilPrice.com", "url": "https://oilprice.com/rss/main" }
+  ]
+}
