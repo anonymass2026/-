@@ -1,5 +1,445 @@
 [
   {
+    "id": "d207c4f035249c19",
+    "title": "Has Iraq Finally Run Out of Road in Its Double-Dealings with the West?",
+    "link": "https://oilprice.com/Energy/Energy-General/Has-Iraq-Finally-Run-Out-of-Road-in-Its-Double-Dealings-with-the-West.html",
+    "source": "OilPrice.com",
+    "published": "2026-07-08T07:00:00+09:00",
+    "summary": "Late June/early July normally brings twin events from Iraq for the global oil industry: an announcement that it intends to increase its crud"
+  },
+  {
+    "id": "ce2b2ddafee22c62",
+    "title": "米WTI先物が一時約6%上昇、米がイラン産原油への制裁緩和撤回で(Bloomberg) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdVJqWkFiWV9IdFdDb2w1OE9DNU5yc3dwQnVVWVUtRlZmWkZmTHhoT3hnbmJVMnEzamVkbGVEYU0xNWo2TWpkWGVZRzA0ZjZEYU5oOEtleUZudFpYdjlPaWZ3UWx1SFBoZ1NYOUkxTTlHWnVFbkw1RElvMWg0ajB3RXVpMVJNYjA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:50:34+09:00",
+    "summary": "米WTI先物が一時約6%上昇、米がイラン産原油への制裁緩和撤回で(Bloomberg) Yahoo!ファイナンス"
+  },
+  {
+    "id": "16c93721553ba6e8",
+    "title": "ＮＹ原油、７２ドル台に上昇＝２週間ぶり、中東の不透明感で - 時事通信ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5oZV9rbkZrSmtMdGlzWHFBYW96aGUxNXNKcmtfNUFmRXpHWmVXdXhEbFVDQnp0cUduTGVuNURCQUkycXFRb1hqbHZDcVFReVNsZGRIRA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:50:00+09:00",
+    "summary": "ＮＹ原油、７２ドル台に上昇＝２週間ぶり、中東の不透明感で 時事通信ニュース"
+  },
+  {
+    "id": "5833839b54fe085e",
+    "title": "NY株反落、130ドル安 原油高に伴うインフレ警戒で売り優勢 - 産経ニュース",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBDWGcySGtQc3J2TUsxZ09ZYzRTSXZhOU51azZDcGZwU2o0dnBqMUZldzUtUVRpemZLU0V4OEhCb3ljMW55VEhYajFUVTV6V3ctSks5dVJ4blJpeDd0ZkhVQk1IMWMwUU1LOW12NWVHdkYxeEhzdWc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:36:54+09:00",
+    "summary": "NY株反落、130ドル安 原油高に伴うインフレ警戒で売り優勢 産経ニュース"
+  },
+  {
+    "id": "ea09a28802e3fa6a",
+    "title": "攻撃を受けたカタールのLNGタンカー「アル・レカイヤット」号、爆発の恐れ：ロイター - arabnews.jp",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE41NUF3ZHZDUzk0LU15UmVrWUtpTHg5ektCTFA2cmo3U1FlQkRfdlZiUDNfRG0xYWhIVURqRUpNM01qUzJ1amVCMDVQQ0JvLWJuUDNwT0pDV3I2bFRicjFHeWxWcXc3TVlSWXE4?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-07-08T06:33:31+09:00",
+    "summary": "攻撃を受けたカタールのLNGタンカー「アル・レカイヤット」号、爆発の恐れ：ロイター arabnews.jp"
+  },
+  {
+    "id": "ba4b7ba55e4b4658",
+    "title": "補助金削減が再生可能エネルギーを直撃、電力価格と供給が揺らぐ - Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBWRGgyVjlPS1hTdUtpdk5FX1hnWFFsam5YbXNVbDVTNUtxMEhsM3B2SGNOS1ZLelRkQmt2M3ZRVVlVc25MM0JIUUxnT1lDTkRqQ1JXLXJVZ2YtNkw1UXJvOVZQQ2FOOHJCazB3VFhGQQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T06:27:34+09:00",
+    "summary": "補助金削減が再生可能エネルギーを直撃、電力価格と供給が揺らぐ Межа. Новини України."
+  },
+  {
+    "id": "599bc8c52b2151f3",
+    "title": "米、イラン産原油の販売認可を取り消し | The Wall Street Journal発 - ダイヤモンド・オンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE4tel96TE1xcVBvcXpzaTIzU0JIa25tLU54RDRSekF4VjFMT29nUk9vY24wX19XTW8wSWluaGlJOHdsUlZ1NXpYQXUxUS0?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:27:00+09:00",
+    "summary": "米、イラン産原油の販売認可を取り消し | The Wall Street Journal発 ダイヤモンド・オンライン"
+  },
+  {
+    "id": "58c8a9eb26f2d6cb",
+    "title": "｢アメリカの石油に依存｣すると日本は破滅する…米国で高まる｢日本に石油を輸出するな｣論の脅威（プレジデントオンライン） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNWVdjVEF2OXA0MWkzNmZzaFUtcFp3eEtINGNFOTdMMkNxb2FHal9MNV83LXpsbjg2VEc2N3ctV0UxZm5jQ3U5WkM1UmZKTUFJNzBmWTBfclBDTTgwLTBLS25pZ0FFeVAySmdWOTd5am5EMktEcU80MkJvNHdMM2s?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:20:39+09:00",
+    "summary": "｢アメリカの石油に依存｣すると日本は破滅する…米国で高まる｢日本に石油を輸出するな｣論の脅威（プレジデントオンライン） Yahoo!ニュース"
+  },
+  {
+    "id": "e48dc338c98abd43",
+    "title": "米国がイランの原油輸出に再制裁を課しホルムズ海峡での攻撃を非難 - Межа. Новини України.",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAtYmo2VGl1MVFmRTdUeEItRUptdjhRMjdSWkhNdEhUVDVCajUtbzhTZE5pdmRkZGhRQ1lPMkU0NnFabWY5VGpYR05NVFJYbzM5LTRmN2FnckZVVV82UFFRNXpMWEtTOVoxLThn?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:19:31+09:00",
+    "summary": "米国がイランの原油輸出に再制裁を課しホルムズ海峡での攻撃を非難 Межа. Новини України."
+  },
+  {
+    "id": "3d85cbf88de14437",
+    "title": "AIデータセンターがラストベルトの工場の電気料金を過去最高に押し上げる - Cryptopolitan",
+    "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTk84czhfVjU2dTliMnV2WkJmckZCb0ZOZDBlOXVKSGsxcVBYcWFObkY4TnRaaDhLQ1JKcEw3R0pjaUtHYldQTzZ5Rm4xN3cxUW43M0lXWm1oYjNtanpHNmpYOE43WUFWMW9JTGJURkFUUWhsdWtRRl9ucnJHM0xtVzlR?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-07-08T06:09:46+09:00",
+    "summary": "AIデータセンターがラストベルトの工場の電気料金を過去最高に押し上げる Cryptopolitan"
+  },
+  {
+    "id": "fce965334f49bc9c",
+    "title": "大坂なおみ、初の4強逃し準々決勝敗退「エネルギーが全くなかった」 連戦の疲労蓄積が影響[ウィンブルドン]【テニス】 - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1nNUYzX09vZDdKM19mazNrWmRhaGx1OFpBV0tFUE56dUtBbG0zOEtUX0tZZEhMamo1TTlqaWxad1hGbHEwbTYwNDJrMFB6M0VjSXlhRlJDbDV6VXlpdEdQWlhXMGhjckJ1T01KdDc2Q25LYlowY1VRX2ZmZk1wbWM?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T06:05:53+09:00",
+    "summary": "大坂なおみ、初の4強逃し準々決勝敗退「エネルギーが全くなかった」 連戦の疲労蓄積が影響[ウィンブルドン]【テニス】 Yahoo!ニュース"
+  },
+  {
+    "id": "aabe5e72baf09878",
+    "title": "米国がイラン産原油を再び禁輸 ホルムズ海峡の商船攻撃受け方針転換 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9zLTlhbkk3R3VTS3I3dVM1TWFkN0FQYnhLbFVsaDJwd0F2UGVaUnh4eTBJdUxoSEgwanNpT2t3MDBnYlFYcmQwY2xZMmJLMGhEcU1iOW0xcGJFczU2V3d2ZzVtY29JNGM2d3BWeA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:03:20+09:00",
+    "summary": "米国がイラン産原油を再び禁輸 ホルムズ海峡の商船攻撃受け方針転換 日本経済新聞"
+  },
+  {
+    "id": "415c71b0d433e021",
+    "title": "原油調達の多角化 出光社長「簡単な話ではない。コストかかる」（毎日新聞） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBBQkhmWUk3ZFp5SDQ4d1UwMWhTRTJld25xdkt2T1RSU2VIaExpd3ZOQWxJcXN4bHVPZThKdzRxaHZyZTlsc25uNGJsUnZlanRpQnZNa0M5WGpfaXNTdWk2V0czTGlzTHlfTWs0YUhEc2pHZ0M5QjNudkg1U3NnTnc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:03:15+09:00",
+    "summary": "原油調達の多角化 出光社長「簡単な話ではない。コストかかる」（毎日新聞） Yahoo!ニュース"
+  },
+  {
+    "id": "ca9f1d0716bf14dc",
+    "title": "INPEX、UAEからLNG - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNbl9oNDF2eVpkaFh4TEJrd1poN29xNDJNSHVRaW9XYUxGN1o3X3pZZGxPbXBjdTBMRFFVd1dYV0tjQm1Qd1RfOFlsUVVLSXNRRHhsMkRvWlMyRUpQWGdhNGpYMnVwOXkwQl9BWEgwRnBYcElOR2pJdUprWG80NjNKZGlsOTdoNTJBSXcxVHlwa043T0N2cHExSkt2SXJKS1VHcFE?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-07-08T06:01:42+09:00",
+    "summary": "INPEX、UAEからLNG 日本経済新聞"
+  },
+  {
+    "id": "349d12458266689c",
+    "title": "東北電力、ＺＥＢ化支援で初案件／幸楽苑の省エネ協力 – - 電気新聞ウェブサイト",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9EczNlekg2T2tnZ0pBWVd3NWV5R1IybFBIQ3ZOVFQ2N29UUUwySkNTTjBCOTkzSlU2YXVnc0pwa3B3Wk9nc0ZNcjJKYWpEczJjQmZ5c2l2NA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T06:01:15+09:00",
+    "summary": "東北電力、ＺＥＢ化支援で初案件／幸楽苑の省エネ協力 – 電気新聞ウェブサイト"
+  },
+  {
+    "id": "c70afa2db7795e72",
+    "title": "ＬＮＧで目立つ事業集約／アブダビ石油が販売統合、迅速な意思決定へ – - 電気新聞ウェブサイト",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9GbENyaU0xb3J4VEczVGl3WjFaMTFPUktkR3BIdVZybTBsODhxcV9LemhuNTdueDRBMkJpU2JKazlTMU9kNDc4bGFuOE1EYXdUVEJLR2t0SQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:01:15+09:00",
+    "summary": "ＬＮＧで目立つ事業集約／アブダビ石油が販売統合、迅速な意思決定へ – 電気新聞ウェブサイト"
+  },
+  {
+    "id": "930e0439b33166e1",
+    "title": "｢アメリカの石油に依存｣すると日本は破滅する…米国で高まる｢日本に石油を輸出するな｣論の脅威 - PRESIDENT Online（プレジデントオンライン）",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBGM05VN082MWtIeGMtZUVVM2ZkeVNlcTlEdE9yTE5ENkh0RnhqWFk3dm90WjFTd0NPZGM2R0FaUk4wSUw5ZEo3WkxWRG9iTHc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:01:13+09:00",
+    "summary": "｢アメリカの石油に依存｣すると日本は破滅する…米国で高まる｢日本に石油を輸出するな｣論の脅威 PRESIDENT Online（プレジデントオンライン）"
+  },
+  {
+    "id": "0b1fc0c12b6969d1",
+    "title": "SKテレコムAIデータセンター15GW計画 電力確保と費用が成否左右 - CHOSUNBIZ - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92US11YVFYYWN1b1MzMUZneC1STzBIT0xwT3ZvWXVzMG9ldEdvVHlsbERXcU9NcDFRb1VpWFNvU3oteS1keVpZbG80bzlUTXBXUGdkR0hMN2ZqUnBDcXcwZXFDRGtSbEJ2Smk3bnN0WDlaQUd0NjlvZlN30gGOAUFVX3lxTE9FUjRRenlnRDBLbG96U3BPLWp5TVNTN3dvbW9zazNCQUdkVDdZempvOGl2TUtFUWI5Qm9nbkc1R1FXcEtUb3plWk1ob2RObzBwamZwVU1aaTlMUlZpZHJNWGZWSV9lRFozTEZDSzJabXEybFFJMlVyOXp4TmVqU0RkSE50RnRjdjFGNGxGalE?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-07-08T06:01:00+09:00",
+    "summary": "SKテレコムAIデータセンター15GW計画 電力確保と費用が成否左右 - CHOSUNBIZ Chosunbiz"
+  },
+  {
+    "id": "c22aa532adbccd2f",
+    "title": "サンシャイン政策、中国企業を追い出すドナルド・トランプ、技術は米国内に囲い込み(1/4) - JBpress",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTdXZiQkh4dW9vTTdaQ3JZZ05Icnh4Z3g3UjhLbkQ3RDNWS293QjhfSVJGWUh3QVk3X1hsa09RaXB2VEx3WUVJZ21TczVlUU1nd21iLWpR?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T06:00:00+09:00",
+    "summary": "サンシャイン政策、中国企業を追い出すドナルド・トランプ、技術は米国内に囲い込み(1/4) JBpress"
+  },
+  {
+    "id": "19a0ad0c499a440a",
+    "title": "ナフサ危機は去ったのか――サプライチェーン強靭化から読む石油化学の今後 - MONOist",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE80bXl5clczNVBWVnFQY0NHNXo1ejJsT2F6a0l4QXZiT19ZTzd0YXRoMUI2T3RKQUJMX3l6em5OR0VITFhIOWVJd0cwNEo2aXRNTGVsVElkaVl5MGpsNWtPbXI4Smw3OW42cWFuMXlWbw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T06:00:00+09:00",
+    "summary": "ナフサ危機は去ったのか――サプライチェーン強靭化から読む石油化学の今後 MONOist"
+  },
+  {
+    "id": "462d570da2977dfe",
+    "title": "Trump's Nuclear Loan Program Won't Fix What's Really Broken",
+    "link": "https://oilprice.com/Alternative-Energy/Nuclear-Power/Trumps-Nuclear-Loan-Program-Wont-Fix-Whats-Really-Broken.html",
+    "source": "OilPrice.com",
+    "published": "2026-07-08T06:00:00+09:00",
+    "summary": "Donald Trump is trying to push forward a nuclear power renaissance in the United States as the AI boom presents the country with a major loo"
+  },
+  {
+    "id": "9aef247741837ade",
+    "title": "ドル円、１６２円台を回復 米財務省がイラン石油に関する制裁緩和措置を撤回＝ＮＹ為替概況 - みんかぶ",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE93bF9IRXY0ZURFM2llTl96VkdMenpBRllLWXpCM0VFR1djNW10WUdlcWRKSGtPeHZIVEQ2TzlDYW9GUmRhSGhCdg?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:50:00+09:00",
+    "summary": "ドル円、１６２円台を回復 米財務省がイラン石油に関する制裁緩和措置を撤回＝ＮＹ為替概況 みんかぶ"
+  },
+  {
+    "id": "c1d705fbfad30bc3",
+    "title": "US Crude Oil, Product Inventories Fall Even As Hormuz Traffic Begins to Flow",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/US-Crude-Oil-Product-Inventories-Fall-Even-As-Hormuz-Traffic-Begins-to-Flow.html",
+    "source": "OilPrice.com",
+    "published": "2026-07-08T05:48:00+09:00",
+    "summary": "The American Petroleum Institute (API) estimated that crude oil inventories in the United States fell by 399,000 barrels in the week ending "
+  },
+  {
+    "id": "59c0b76911ac25b3",
+    "title": "「エアコン消して窓開けろ！」電気代は自己負担なのに…韓国・新社会人を襲う大家の理不尽な暴言 - AFPBB News",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBQem5FS1B0RGptRks5ZE82V2Z2QWc1bkszSnUydHdKdXFyZ3NFYk85U2FJV2pXeHJiWEJ2eUYxUUUxYUQtbzhBNE9ZdzNtWVdOb2RMbTIxUExfQjk2eEtNS2k1YWw0SUhjOTVhaFlhYkstUdIBVEFVX3lxTE5hXzFhd0plcmx1bDVwVjhuNDQ4YnM2a2R0M0l2VEtrLXJnUzlHU0paSnJtRjZKQVZ4TS1yYmxXMWl1azhPYV9RYnNvZFhaR3J0YXBRWQ?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-07-08T05:45:26+09:00",
+    "summary": "「エアコン消して窓開けろ！」電気代は自己負担なのに…韓国・新社会人を襲う大家の理不尽な暴言 AFPBB News"
+  },
+  {
+    "id": "639435790c5e3efc",
+    "title": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表 - NHKニュース",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42SC1GM0xkMEhRRkYwemtDZ0xEMVFjbGxXWDgyenQ5Ym9wWWFzRlR3aDdxQnQ2ZlhMaV9CSEszMVhjams3bHRUX2RMZlRMMm1zcTZzZE1nVlNReXhpWEM0?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:42:03+09:00",
+    "summary": "トランプ政権 イラン産原油の生産・販売認可を取り消しと発表 NHKニュース"
+  },
+  {
+    "id": "038569d4e970d7fb",
+    "title": "米 イラン産石油販売の容認を取り消し ホルムズ海峡でのタンカー攻撃を受けて - テレ朝NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wRU5QUENBTjZKTjVZV2QtWExfLU5wM3NtN3ZEZ29jZndaTjlNM3owYlpOSWkzdV83VzRweGhEbC1PRGRwX2Q3UnBaMGM1dGdET1Eta2RCNGtMYjhVQ0lfU3kxdnRyT21NQ0FoQmk2Q2swY1ByQUt5eXV3?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:38:10+09:00",
+    "summary": "米 イラン産石油販売の容認を取り消し ホルムズ海峡でのタンカー攻撃を受けて テレ朝NEWS"
+  },
+  {
+    "id": "d21fd186f9ee2704",
+    "title": "NY原油反発、終値70ドル台 供給増加見通し後退で買い - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPMlRjMUxzZFpQam51dGZpS1JtZTBXVTIxYU1uTEUyd3NDSTlYWXJPbE15XzktUklMMC1zLU9QdU5aQzNNdGdDRl9iS1FwQlRqaE5pUUxERVpiMEZjNGlUdWVfXzUyUFZRVFNJRHMyOUZ0QWZHT1BjbTZ2RW1CU2dSOGtpNmVOWnJuV1ZidlAxMkZuNnZPbUxnOVZZSGthaFFv0gGTAUFVX3lxTE1xUUtsU1BCQ2U4OEpmMUwzZlBGVnBPcWtXUEd5anBjYjlnSG40ZVFmbXNDUlRGV0hkLWlGTE9iZnNaSVNYU1p6NTlBZ0F1dzBBOXk1czVMcU5lTU1ZOHVrVWV4VWRxaS1uXzNVTTlCSWc5OUI3MmFFa016WnhlTDAwZnB4V2szbXVodDd1LVFNWkViYw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:37:18+09:00",
+    "summary": "NY原油反発、終値70ドル台 供給増加見通し後退で買い ｄメニューニュース"
+  },
+  {
+    "id": "8092674e66cbb7b2",
+    "title": "NYダウは反落 AIや半導体に売り、原油相場上昇も重荷 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9pekJOQWdoOExXcXRxVm9DQnBweEFKMGdmczhnR0pjcXVjcC01dklmQUhDXzZtWnVJbXA2UEZiS3BmRXJvV3NtdXhlbUw1Zk42VEdYa1poclhvbWt0WVZoR2tBanVvWHlDVzNJXw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:34:56+09:00",
+    "summary": "NYダウは反落 AIや半導体に売り、原油相場上昇も重荷 日本経済新聞"
+  },
+  {
+    "id": "9ae44d87149e3a21",
+    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJR2c2cVFlUTJqNTNpeFpHRmhlaWM1aEYwZ04xYV9VNlpBMW9PdWNmY3JXMHRmY1kxaG0xdHNZYzk1WjN4UTBTSV9NdW8zOHh0R2c?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:33:08+09:00",
+    "summary": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス"
+  },
+  {
+    "id": "ec65a8cf87af9f37",
+    "title": "NY原油反発、終値70ドル台 供給増加見通し後退で買い - nippon.com",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNQ181SmVlRG9XSEZMendyYjF3NXNNVFg4TW9OaDdRVkRndW9fQkxzQ3JYbVUxa0RuWTQ0aHBXMnNtaW9VeFZJeFNjbHcyTTRtd3hRRVRyWTNXVGVnc2diamdkbw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:32:34+09:00",
+    "summary": "NY原油反発、終値70ドル台 供給増加見通し後退で買い nippon.com"
+  },
+  {
+    "id": "d93354532d61014f",
+    "title": "ＮＹ原油反発、終値７０ドル台 - OANDA証券",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1lZ0c2ZktJdjAtRzU3b1d3dVAza2VkSE5OYnFKWFNBczkxd0ptdWtDTEl1YjhEd0ZWRmlVd09ubFZSZEtfTDc3V0U0NXJSVHozMHduSXFNaTJyTk90elpWZ184OUVzYmdNaWxuS1NVS04wa3YyMEE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:32:13+09:00",
+    "summary": "ＮＹ原油反発、終値７０ドル台 OANDA証券"
+  },
+  {
+    "id": "85f93bf7c7bba313",
+    "title": "ＮＹ原油反発、終値７０ドル台 - 中国新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1QNWVSWTdxU3AtbTl6YkpBNWNnTmZZNXMycHpIbmE0VWFucXA2bnhjNFhNclNFaTVTT0ZITG8yVTBMSS1uR1FzQWQ2QmtncndKaEdWZlhaWHFoUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:32:11+09:00",
+    "summary": "ＮＹ原油反発、終値７０ドル台 中国新聞デジタル"
+  },
+  {
+    "id": "b057eef5fb9165f7",
+    "title": "ＮＹ原油反発、終値７０ドル台 - 京都新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9IcHZ6SmRtYnM0VUNpSU1tNUE1c2Q3aEtXd0YySVkwSjBiSWp5NjlyN2FNN2kxSkZRaHNBQm5zZXlSdWZHNEY0MHVuWFBXeHdtWlJEQzlzSEU2VEE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:32:10+09:00",
+    "summary": "ＮＹ原油反発、終値７０ドル台 京都新聞デジタル"
+  },
+  {
+    "id": "0bf710aa6998c724",
+    "title": "ＮＹ原油反発、終値７０ドル台 供給増加見通し後退で買い | | 全国のニュース - 佐賀新聞",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04VnV0dUN1RzZMUGtqM3ZKNGFlb3RhSWU1MHliRTRKSDN5OVF1ZzI5NmQ1eWs4Tm12RXdReTdUVFNHNnEzNEl1TUlmZ0Q4X3VrUURYN3dR?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:32:00+09:00",
+    "summary": "ＮＹ原油反発、終値７０ドル台 供給増加見通し後退で買い | | 全国のニュース 佐賀新聞"
+  },
+  {
+    "id": "bb764db5c43f826b",
+    "title": "「エアコン消して窓開けろ！」電気代は自己負担なのに…韓国・新社会人を襲う大家の理不尽な暴言 - KOREA WAVE",
+    "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNRTFad2tXWDhGSzZEUU1RNHNPUjJGbnM4UG5sMmZ1dFcySFQzblhiQWkxSlVOdGNUdXQ5dFh0Smx1cENieUZ6MGVzdDhpY2E3RTRyUEZubzRUNjNGb3hxMDVhTS1JcjdqSXRuTWhtanpRWUNBRHRyeEgxUm1OYzlJbkREcUNZYWxXQ1J5TU05WjAxcFlaSWtraThZdDNOSUdZb1hZWF9ySWFaUDlIRVZoMEkxeFpLOWlHRFV2TWlEekh5U3JWeVE5S1ZQelQ3TWNDV1I1NlZFT1ZBdnR1a3pwdjF3ck80cGJ6UlVfSEMtdm9zX3RYM20tUlJkUkdBMmhnNGc4OENhRDVVdTRCVWdjbGVVWmhYLTNpV0lheVEtZDhkSGhoM0gxdHdVZXkyOHVpMFJsc1JfQ0FYa1BodnN5VHpB?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-07-08T05:30:59+09:00",
+    "summary": "「エアコン消して窓開けろ！」電気代は自己負担なのに…韓国・新社会人を襲う大家の理不尽な暴言 KOREA WAVE"
+  },
+  {
+    "id": "98bbe55bde01f6de",
+    "title": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大（ロイター） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5mR3o5aGJWRDRwaXNJbnl4enFtVWNKWUMtVm1EUjZia3hvcVR5UTJUZFBNUDZPbEZod3dXUk1IUkZyWWJvSmdnb0FRemxsdXBTcVcycDJmSmlhb1Bqc3VLcWVwbTJfUUh6WnVpX0JaVEY3eDIxMjFDSmxMc3R2bFE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:16:00+09:00",
+    "summary": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大（ロイター） Yahoo!ニュース"
+  },
+  {
+    "id": "647b7e4dcc620d92",
+    "title": "【ミャンマー】燃料・肥料輸入の免税措置、７月末まで延長［資源］ - MSN",
+    "link": "https://news.google.com/rss/articles/CBMiswNBVV95cUxPbjRqUTZjYXZKdVhaLXkxbnFkel93NUFheks0QUg2T3VPWjlDZXo0NjV5M2NWbmg5RGl4WEJYUVdQd3VId2ZueG4takdkeklKNGc2LXZvdFBXaFlpVTMzSDEwQVYxWEpvY21aak43NHFXMElVTFAtLWRkUV9XQnF1QmZYYmlYV3JaTVEwOFRtUjBPbEQtdFNuQmtWRjl6Zlc4WHNiaEpReENra0o0ZEtzb2FEZ2UwakYyYzM5Sm1IOG9paFM3SFZKN0xUcE1YdjJ5NlVlOWFkOFU2MWhhcjdpTjdyNTNScWJJcXdjS1VzU3V1UW9XMW5zSFJqbk5MaWh1WVdmOTJ0Uy1iSUNwSFA1TmhwWVV6WW1rSE9sdGsxanlEUi12eGYwdkpMazBXVDRvMFFjOWthbmNfcVpES09renR6NGYwRVlLcTkyWHpHOGduNkh4QzFid255OE9ERHJTR1B5OVJFOXlsb3JQVHVWZVA4OW5ZanZSclBfXzRYdHJNUlFlZklEMXJkQkwtaTFsSnVLUGZMaXY0dHRsWFFORnM4R2MxNUJ5SmFvc2dydUJfZms?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-07-08T05:14:48+09:00",
+    "summary": "【ミャンマー】燃料・肥料輸入の免税措置、７月末まで延長［資源］ MSN"
+  },
+  {
+    "id": "4b87cf030f2d8779",
+    "title": "豊田市 定置用蓄電池 実証へ トヨタや中部電力ミライズと - chukei-news.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE0zN3FBWW1ZWExKT0FsS2VtNk1seGVxN3dlZ0dKOG5LQ0pUMkRfRHZyVnpVZ2c1emJLekFDcFlreXYyLTB2b0pidFpYQTdPLUpLX1h4LV9KdnQtMEtyb2VzaWVlWVItZm5FUnJtdGNJWEdETjA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T05:14:24+09:00",
+    "summary": "豊田市 定置用蓄電池 実証へ トヨタや中部電力ミライズと chukei-news.co.jp"
+  },
+  {
+    "id": "1be40230712b57d9",
+    "title": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大 - ロイター",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41SEFUY0lYOVFLZWhlT09MQktTc0ZiZlpla3NYMktaVUFzUHk4WjJqTlBobUJZS3U1Wk8tdFVMRUZwWGttS3M0N29NQ2tTMkRoYW5ZeUxQUkVPTEpiMUQtQmxjZHF1WTFoZ2x3Ul9jVmgwMWxmVFFZN2owTlZOQQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:08:09+09:00",
+    "summary": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大 ロイター"
+  },
+  {
+    "id": "f0c6fe7e06885f1d",
+    "title": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大 - ニューズウィーク日本版",
+    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE41MUg1MDJBWnFQR0NlOGNaRXd2WVhQVURkM19lLU9Yai04a3VHZWF3LWtQRkpvTjBESmlYcUNXbC1XTTJ3eDFTTDZVS25CT1k5ajhXMHhUeGFhUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:07:00+09:00",
+    "summary": "原油先物3％高、米がイラン産原油販売ライセンス撤回 清算後も上げ幅拡大 ニューズウィーク日本版"
+  },
+  {
+    "id": "230a901e8e1e5139",
+    "title": "(ニュースの焦点を聞く)中東情勢に伴う物価高 今秋まで続くのは確実 エネルギー経済社会研究所 松尾豪代表取締役 - 公明新聞電子版プラス",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1RUXdmLWFwTlJQZGVPcDBwd3ptR0FoelRqUzdzMGVZMmtBSndYRWFiQ1htazdUODlWSEN4SDhlb3B2TllxeU9lMjRSSUJBRjNudVRjYkRzZzFuQ0RvZzZ1aUN3ektHbTkxUlZaN3hR?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T05:03:44+09:00",
+    "summary": "(ニュースの焦点を聞く)中東情勢に伴う物価高 今秋まで続くのは確実 エネルギー経済社会研究所 松尾豪代表取締役 公明新聞電子版プラス"
+  },
+  {
+    "id": "0ab61b12aa553fcc",
+    "title": "「脱原発」の台湾、風力発電が西岸で加速 - 日経クロステック",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1teWJBNHQtdy1oU0djRWZPOTNuVy1nZUVaY01PZlFjNFZ3Sml5QUhjVWVQSWl3S3pZTE1rbkkwRDJweWVOeDQ5Q05sMm5kTlFPT2J5QWZFYnowN0lRU0JnUjVLRWdtODlITi0wTA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T05:00:00+09:00",
+    "summary": "「脱原発」の台湾、風力発電が西岸で加速 日経クロステック"
+  },
+  {
+    "id": "6c7a374a152f9e2f",
+    "title": "サウジ原油、異例の値引き販売 8月調整金はコロナ禍以来のマイナス - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBZWGtwOEplZ2tBd0l2QnU0S1pmd0JRWGNNZmQxQlY3bzhqRkpCOW9ZTWlFd3QycHhwTlNCYUdzVTRwNUctUUE5Qy1PazVyOVZlNGwtbGpocnRUa0FFeXFHRUlRclZwYUk5aHZPYw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T05:00:00+09:00",
+    "summary": "サウジ原油、異例の値引き販売 8月調整金はコロナ禍以来のマイナス 日本経済新聞"
+  },
+  {
+    "id": "05ed678f444ddb48",
+    "title": "Big Oil's Windfall Earnings Threaten to Reignite Trump's Price-Gouging Push",
+    "link": "https://oilprice.com/Energy/Crude-Oil/Big-Oils-Windfall-Earnings-Threaten-to-Reignite-Trumps-Price-Gouging-Push.html",
+    "source": "OilPrice.com",
+    "published": "2026-07-08T05:00:00+09:00",
+    "summary": "Chevron and Exxon are expected to report their best quarter since 2022 this month, as the war that the United States and Israel started agai"
+  },
+  {
+    "id": "01e4dc4c151fb02b",
+    "title": "イラン産原油購入許可を撤回＝米 - 時事通信ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmMDBRWGhNa01rWkZkN245QkQyZm5YS242RmZqb1RJSGk5VkNVNG5pVXN4Q1NiRXh0MVRhUlJYNGctcVVvdVJvaFFaVEJZTlZyelRzag?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:57:00+09:00",
+    "summary": "イラン産原油購入許可を撤回＝米 時事通信ニュース"
+  },
+  {
+    "id": "7e816e7687936352",
+    "title": "米財務省、イラン産石油に関する6月21日の猶予措置を取り消し（Bloomberg） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAwNGY5XzVJZzVxb3dKZU91azNOOUlteTdMWE56S081cW1tRjB0MU40N0FOTDVEZUl6anNkRDBiTUpjczRPM1pGaXp2WWpkZ2cxWFVfOHRyQnZQcWRib0FpZnFaNkN6NXYyYlZGendIYVlqbjdpUEhZRHVUdWRwTHc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:53:21+09:00",
+    "summary": "米財務省、イラン産石油に関する6月21日の猶予措置を取り消し（Bloomberg） Yahoo!ニュース"
+  },
+  {
+    "id": "1a7da2178bac02c3",
+    "title": "【速報】米当局者は、イラン産原油の購入を認める制裁緩和を取り消すと明らかにした - 時事ドットコム",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1VZE9iUHdiMWxFVlo1UmRiV3ZtTEhRbmVwemRMTm1talA3YzZTdDBjS3YzY2d2b3hPMEN3RXdZYjlQblRfU09VcTBhN2lHRlNLTVNwaUJnWkZMRFVKWm9Ncm56UkVaQQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:46:00+09:00",
+    "summary": "【速報】米当局者は、イラン産原油の購入を認める制裁緩和を取り消すと明らかにした 時事ドットコム"
+  },
+  {
+    "id": "03e006958ed48807",
+    "title": "米財務省、イラン産石油に関する６月２１日の猶予措置を取り消し - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE41VVNVSUdsV3Z2cUp4UGF0UUJ5RFVITm1VTWNEbndYU2dweks4NHlpV0lQTDBWYktBVlhmMEgyelVRRnRxSkFFY0xsNS1CMjE2ZXdlS0ZnaEhobmxfQWVRN2N3?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:44:00+09:00",
+    "summary": "米財務省、イラン産石油に関する６月２１日の猶予措置を取り消し 株探"
+  },
+  {
+    "id": "2ae8504642d0fab0",
+    "title": "日米韓、次世代原発の第三国導入で協力覚書 エネルギー危機受け - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBVM0RBelF3eWZJcHk0TGZrM3N1RGRNTW5FNXc4a1BTeEtwa1FLTFpGV29TUDJqLUxGYVhtbFpBX1pmVmpVSC13TzZteUpfUnhaWHZkNzZNdm9tSHZZdDdfX3gxRkNCbGo4dUt2Ug?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T04:41:12+09:00",
+    "summary": "日米韓、次世代原発の第三国導入で協力覚書 エネルギー危機受け 日本経済新聞"
+  },
+  {
+    "id": "028a416ad23098ce",
+    "title": "7月7日のNY為替・原油概況｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAzRkV3UmFEYmlOb21yUVhiSUpfRHRLNmtsMk5QcXVLTzIySklqRzhZUWVIdXJOX0Y5cnNyei01dFVoMUxaSm1GUmR6VGVsT0xWMlE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:40:00+09:00",
+    "summary": "7月7日のNY為替・原油概況｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "19e4d9d9d5c782c4",
+    "title": "米、イラン産原油販売容認措置を取り消し - 下野新聞社",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9YNWppRDNYQnBodENaekdERG42LUtBcFQxbklod0o3ZHR2YVg2ZEM5WGJoQ1ZvZndRV0lYcm9OcVNuXy1ISWtRNmV4TW1aWWRzczAwa0dBUm1ZWDl6Sy1xcU5YejVrLWFOdEJBcDMzbw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:39:36+09:00",
+    "summary": "米、イラン産原油販売容認措置を取り消し 下野新聞社"
+  },
+  {
+    "id": "02b7ad5e7119e73f",
+    "title": "シェイク・モハメッド・ビン・ハリド・アル・ナヒヤーン私設部門、ミッドオーシャン・エナジーに出資――EIGと戦略的パートナーシップを締結 - 時事ドットコム",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1hcHNnRmxDUEo4S3ZRQm5pbkF4TGdvVVRManRSNzJORG5GNFE5eUdReXFsamJwNXIwMy1NdGJNSkxPYUVhdjlycXZxUGFPOXNOSGh3X0t6dHo1bTBDeTd1X3A4RQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T04:39:00+09:00",
+    "summary": "シェイク・モハメッド・ビン・ハリド・アル・ナヒヤーン私設部門、ミッドオーシャン・エナジーに出資――EIGと戦略的パートナーシップを締結 時事ドットコム"
+  },
+  {
+    "id": "070d52c452b91e9b",
+    "title": "シェイク・モハメッド・ビン・ハリド・アル・ナヒヤーン私設部門、ミッドオーシャン・エナジーに出資――EIGと戦略的パートナーシップを締結 - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1R0NUY3I2Q1JkRFhOV1gyTUZMbHNKWmFtTjVObEVsamdXMXlBX2sybU5Qd2tYZVVHMzk2R0hVLWRXczdlbHRXQVBsSUtBSGlsbmNldFJ3Rm5vMjhHVDlJSGFTSTk1LVk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-07-08T04:39:00+09:00",
+    "summary": "シェイク・モハメッド・ビン・ハリド・アル・ナヒヤーン私設部門、ミッドオーシャン・エナジーに出資――EIGと戦略的パートナーシップを締結 Business Wire"
+  },
+  {
+    "id": "66dcc654fbf3e4e3",
+    "title": "PVオイル、出光興産出資のギーソン製油所への原油供給を承認［会員限定］ - VIETJOベトナムニュース",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBNcGw0bWJaT2VtaTV3UTQwdmxxZTJld1dWemxfNnVBQ0xlUFhLRHBiWGFDa0U3dEEwTXZMaGFZeFFYNHB1b1N4Tm1kb3RRSnU4czhXNmpVWHRMU19RQ0JvRWlCUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:39:00+09:00",
+    "summary": "PVオイル、出光興産出資のギーソン製油所への原油供給を承認［会員限定］ VIETJOベトナムニュース"
+  },
+  {
+    "id": "3e13cc7cfd0b947e",
+    "title": "米、イラン産原油販売容認措置を取り消し（共同通信） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA2azZuZzRJT1Eyd01VSzMtcFpScXBPWFo3a2otR3A1YnV3aTFCUXFiX0JvY0c1ZlBzb1ppelBuQkM5OUEyQk1wcUJKZVN0X1VxWVFZZE43aFQxNkpHWEtxUG1iYUlOMVAxY2lNdkNzbURzamlSSHR6LXJmODRGLVk?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-07-08T04:30:05+09:00",
+    "summary": "米、イラン産原油販売容認措置を取り消し（共同通信） Yahoo!ニュース"
+  },
+  {
     "id": "2ca6e8554db5259b",
     "title": "米、イラン産原油販売容認措置を取り消し - 沖縄タイムス社",
     "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9OemNTdUczTk05bFEyWXFPYTRhQWVxN05RWUYyZ1JzUnQyVVoxX0g2djhxemlnZ3ZOMTZQdTA3bmtteDQ1d08xZjhlcjh3MUdUODJ5UHdLbXQtRmFKbWc?oc=5",
@@ -16,467 +456,27 @@
     "summary": "米、イラン産原油販売容認措置を取り消し｜全国のニュース｜Web東奥 東奥日報社"
   },
   {
-    "id": "13b0e65631acc360",
-    "title": "米、イラン産原油販売ライセンス取り消し＝当局者 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQdXdrcEJtdkNJSm00R1l6Z2lTYjNUZDh5akRVRkxsbjJlNThQWnJ2eFVWUzlwQ1pnWUpXUlJUNFRaaG1qcjZ4U2FnUEpyQ2tWWmVudlgzRzZkRDJGTEppN0tRWnVVM1hNb3Uxa2hiUzhLaDNESHhhYzRRZHlYaXhsQmU2QWxWN0lqLXpHUTBsVmk2Q0JyZzFsLWRSd2tXWEN3Q1c3NW9WT3FhYUhzWWlfMm9MY2xSbWJackc5bjBYZTJFck1lclBiSldKSjZ4UFpoTkZB0gGDAUFVX3lxTFBjcVgzcTlIakoySnVJb1FjZURlazgwLWRkZlhTb0Z0c3VUMi1rTU1sVEtqQjlCZWt2T01sc3lxYUo0T0U4VGU0b3JUcFZuQkcxazFqWjI0UlJYZ1Z6Nko3SjhjZndtTEwwcW50by15NmRiYmthSGVUeXlIeWlMamRBTGZr?oc=5",
+    "id": "bf04b185d506321c",
+    "title": "米、イラン産原油販売容認措置を取り消し - 京都新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE50RHBsNlRMamt6dXFNNi01VGFGUzNIcU00YmFsSEtQanlSRFhjYTFFWWVrbm9kOEdGZnd3RGpiQl9PbHZhMFB2NG5lN0JKbE82MW1WNmlCUl8?oc=5",
     "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T04:12:48+09:00",
-    "summary": "米、イラン産原油販売ライセンス取り消し＝当局者 ｄメニューニュース"
+    "published": "2026-07-08T04:27:34+09:00",
+    "summary": "米、イラン産原油販売容認措置を取り消し 京都新聞デジタル"
   },
   {
-    "id": "2d2a284b691f63ae",
-    "title": "ニューヨーク外国為替市場概況･4時 ドル円 もみ合い続く(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUTBOb0d1cXlUODhoZWNVNVpQaWhNUzNXUmE5N0liZkd0cVJ5UWVrc2RjaHI1SHVKaGNlVnJCb0VPLVppQklra0g3ODlVQ2o0NTBLdEwzTnFXTTZFdGZBczR6a1lwNEw2RVBUU0x2UmI0eUIyRUF0SlY3M0FVc0tPWVRGWDlwRXM?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T04:09:08+09:00",
-    "summary": "ニューヨーク外国為替市場概況･4時 ドル円 もみ合い続く(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "6b79dd9186f725e6",
-    "title": "7月7日のNY為替概況(フィスコ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWHBWUWhYa0d5WDExbjFGU0xvWjUzRDVDc1NiOVVUSjZhX0VHS3JVaEI1OGxtRGZsX1llbWhvS2ZvQXVkU0tuMVlNVEhDVkhpZm51cDVkcjJzVUllWW4wRTZLejRlV0R5anBKNk03ZXFHLVRXV0hVTE94c1h3X3pCTEprRjdjNHc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T04:04:41+09:00",
-    "summary": "7月7日のNY為替概況(フィスコ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "314521c8527e2442",
-    "title": "米、イラン産原油販売ライセンス取り消し＝当局者 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00UFdCdDh3OUJZZ3RhTWhRRVZOWDJMQ21fTUZ1cHVGOXhWVzF3cHNmaGZCRWQ2dGtSX3JTR2FfcTZVaGk2Vm91VTAzOUs5cmowZXJwSjlSWWozWnNWRW4zVnhibTlTOXc4TzVJNlcxZzluZk9fWHR0ODl3?oc=5",
+    "id": "4bc69c8bc7bea8fc",
+    "title": "米、イラン産原油販売容認措置を取り消し - 日本海新聞 NetNihonkai",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1HRjg5c0h2MUdLR29SdWQwS3BHTG1QaWplWGVqSTZKNFJvRjRGY0pmMktuanhmbXZXVzNGN0phcEFyLXRkNFdHbXFQZ3lFcnRL?oc=5",
     "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T04:02:25+09:00",
-    "summary": "米、イラン産原油販売ライセンス取り消し＝当局者 Reuters"
+    "published": "2026-07-08T04:27:34+09:00",
+    "summary": "米、イラン産原油販売容認措置を取り消し 日本海新聞 NetNihonkai"
   },
   {
-    "id": "16735fc3fb4cb2c3",
-    "title": "米、イラン産原油販売ライセンス取り消し＝当局者 - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFYlpjaDNDTjB6NURYNjh4c2V1cWtjTGc0N0NFaG5PdGo4aU9TRElEQjl0STNGTWg3NVNQZWl5R1gweThlZzQ2MlZ3cGp2RzA5dGl6RWNPRkwyZw?oc=5",
+    "id": "df3c7f76bb85e620",
+    "title": "米財務省、イラン石油に関する６月２１日の制裁緩和取り決めを撤回 原油高・ドル高の反応＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE92UjBYRFc4Szl6aktGM01uMk54UWVxZkJYWlRFRmJNaXRjbHBxaVZnN0MtclBJQ1llVjBJS1NVc21nXzZ2Y2ZJeA?oc=5",
     "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T04:02:00+09:00",
-    "summary": "米、イラン産原油販売ライセンス取り消し＝当局者 ニューズウィーク日本版"
-  },
-  {
-    "id": "4ac904dc9c5f2f54",
-    "title": "【独自】北海道大、洋上風力人材育成へ新課程 関連分野総合的に 北海道電力なども協力 - 北海道新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1wOWhhcXpQYWI2cUh1TzltQ3BpU1RnYUl5SWFOaDVOcmlpbVpNTWtOeE12eElDanJnN2FVWTZGWVpkNTJxMjA1UkQxTi1oVkQ5UDBZTjY2dGRIZw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T04:00:00+09:00",
-    "summary": "【独自】北海道大、洋上風力人材育成へ新課程 関連分野総合的に 北海道電力なども協力 北海道新聞デジタル"
-  },
-  {
-    "id": "505c1b00841befe6",
-    "title": "7月7日のNY為替概況 - 株探",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1jV0lwY0lMY0FPLU1QNlpNRDA1Sy1mZUNvMGFLNWJCSjBpSzNtQXpZcW5wNlh4UDZDM3JMMTh4T3N2WkNvc3pucmpkR0JCdnRXVUE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T04:00:00+09:00",
-    "summary": "7月7日のNY為替概況 株探"
-  },
-  {
-    "id": "3f4cce42c4b1c245",
-    "title": "為替相場 8日（日本時間 4時） - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9OdGNBT1JQU3hwUXVsM2JPMjhpbXFuSXZTTWh5bTNkQThwOU9JaGduZ05NQUVlWW5fRVo2aE9tRDR3dE9hU2tNZjlFbw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T04:00:00+09:00",
-    "summary": "為替相場 8日（日本時間 4時） 47NEWS"
-  },
-  {
-    "id": "10624199f5a6ff76",
-    "title": "Oil Market Swings From Glut Fears to Hormuz Toll Concerns",
-    "link": "https://oilprice.com/Energy/Crude-Oil/Oil-Market-Swings-From-Glut-Fears-to-Hormuz-Toll-Concerns.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T04:00:00+09:00",
-    "summary": "Despite a lull in peace talks progress between Iran and the United States, analysts have once again started to talk about oversupply as tank"
-  },
-  {
-    "id": "2b7b09c9f6e39aac",
-    "title": "［大久保寛司の人と経営みらい塾2026］AI時代 勝負は人間力 働き方を見直す 職場に正のエネルギーを - 沖縄タイムス社",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9mSl9BS2NoZWJ6elY2STV2RFRJTlR6NVdQeHRpR1lMOHBVLW93ekI2cUI4cTg2SmhpYnprM3ZnWnBVYmU1ZDhfNkppbDI4U1FuV0dGM25zb0JzUFk4V3c?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T03:59:00+09:00",
-    "summary": "［大久保寛司の人と経営みらい塾2026］AI時代 勝負は人間力 働き方を見直す 職場に正のエネルギーを 沖縄タイムス社"
-  },
-  {
-    "id": "0cb05b497dc95f5c",
-    "title": "ポンド、英金融安定報告への反応限定的＝ＮＹ為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1DZjNSdGFRV1ZGcU5VclNKQzhjdmt5OWpUeGVBWHRnVVlGcXoxU0VJcjJrNjl5TTZhUmZuSEJHMXB3R2lWOE5Gbg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:58:40+09:00",
-    "summary": "ポンド、英金融安定報告への反応限定的＝ＮＹ為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "86cab4aeb019c18c",
-    "title": "ホルムズ海峡で船舶3隻に攻撃、米イラン合意後で最多－なお混乱続く - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xa1BibVREcGE4UXJaZzZ4VVoyWnBRVVFBbGVmNnNyOEtOT1ZNU25lMktNRWVaVFZtNDVoWVlLZ0NEME40aTl4SnpkY29pLXljNGZOS2VHRzlKWVFUSm4zOExBQ1A5dWNIWEo2bE9VdVFXTDVYdGw4?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-07-08T03:57:41+09:00",
-    "summary": "ホルムズ海峡で船舶3隻に攻撃、米イラン合意後で最多－なお混乱続く Bloomberg.com"
-  },
-  {
-    "id": "62fb92604f093e89",
-    "title": "原油は２．７６％高＝ＮＹ原油終値 - みんかぶ",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5ERUp3alFBRmVrOWtpRFJ6Wk1Ec3l1Y1pvZHc2ekl3QU5hVWRCZXl3ekk0UXFNd1pENXFKRkhEQTNMdFhjNlE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T03:53:00+09:00",
-    "summary": "原油は２．７６％高＝ＮＹ原油終値 みんかぶ"
-  },
-  {
-    "id": "7ff79d95bb50205d",
-    "title": "米国がイランの石油販売ライセンスを取り消し、タンカー攻撃を受け原油価格が3%超上昇 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1HZk9MY1Nya1NiSzJvSFVqV3lITkEtNmx3cTdJT2hCOUxJUFZOSGI1TFFDZnpIVHN3dmNiZXRSSlg4LWY0T252SXlnTkdKX2xJcUZWYzZiWm1VVWVjUjQ2SktzRnZKMDFfVXc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T03:53:00+09:00",
-    "summary": "米国がイランの石油販売ライセンスを取り消し、タンカー攻撃を受け原油価格が3%超上昇 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "c373abe8ddd2fe52",
-    "title": "NY市場動向（午後2時台）：ダウ113ドル安、原油先物1.92ドル高｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE53NW4wUjU3R2tvMUxRNFdGSzFWNklOTmdLRDZXX0RXOUg4UGYwUC12R2VpaEF6UThEUE1reFpzM1N0STRzS01oVTNPRTh2UldPMHc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T03:46:00+09:00",
-    "summary": "NY市場動向（午後2時台）：ダウ113ドル安、原油先物1.92ドル高｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "a4a11b844076c72d",
-    "title": "[通貨オプション]OP売り、レンジ相場｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBZZjlGRUNXT2tyOWxaUGlJSTl4bWlvS1dBbFBCUUVkc3htQWpmdXJpUERMcXI2WERYbUl3M2s0QjdzZG55QUxTZDR3NWxjN0xPTGc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:40:00+09:00",
-    "summary": "[通貨オプション]OP売り、レンジ相場｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "7a3a7fdd193927f9",
-    "title": "中東情勢の緊張再燃と原油高を受け、米国債利回りとドルが上昇＝ＮＹ為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE40dmRGNFFVQTZraS1vdG9UYTBLU1diVWJQTGI1U3JXQlc5X05fQmViX042OTBmLV9zZktvcGZRMXR1dlc5dDNaZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T03:25:40+09:00",
-    "summary": "中東情勢の緊張再燃と原油高を受け、米国債利回りとドルが上昇＝ＮＹ為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "0c584b1c14472799",
-    "title": "為替相場 ８日（日本時間 ３時） - 下野新聞社",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9jTFY4VmdCRWhUczBkVUxWZUNXenYyVC1HT0h0TnZmdU51UXY3R1A0OXNUUnVaeWI3U3NlTWtPZ2hkckxzTzl2WmdjLVZFclNOc2ZVcmRUazBJeUNVODY3X0VWOGRlclpCRmo5Wi1KMA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:09:28+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 下野新聞社"
-  },
-  {
-    "id": "cec7d12829dfe8da",
-    "title": "為替相場 8日（日本時間 4時）（共同通信） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9HQkpUaGJVLVhmZ0lTT0dNQ2otUDN0a2tqOW1zVGYtWko1aEg5SjNSSnN3LV9obllzTU9Td3F4OXloRHRjaHE5TlBjNW5jN29rRGZkY1ZMbDY3bzBZbXMyV1Z0di1SZ1BGU1d4bGZhYTRHcUVyVm9oM055T0VVaTA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:07:07+09:00",
-    "summary": "為替相場 8日（日本時間 4時）（共同通信） Yahoo!ニュース"
-  },
-  {
-    "id": "35f283eeb4b70b71",
-    "title": "為替相場 8日（日本時間 3時） - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQOTVRVlZrTm96QnlHYzFqb2k1X2dvLXBxMWh5ZmY0NTM2U3I2NVBaYW84RFJBYzlXUEo0V2NyOEg3SGRhakRzdXpCSUZneGxfRTdHX0EtMXBzcTZnaTdDWXNUTUdmZmtsLUVSTkU3TEl2Z0EtYzhzcEdLQzlEUUtwd1JJd2lrR3lUMzR4Z0VGSEdkME5zR0hfNTQtcFY1bjBi0gGTAUFVX3lxTFA0UGh5bXhPREE2UnEyVnJTZE5zVG5HZXZxbGFvUnJRT2tQUHRtSTVhYUFGR040WmgtWDB1SFNkbEdQUWF0TkRSOUpMLTVITFJMcndoWnVXdjliRjNoMm9SaDZmSkhGNkdxQkpOYkFCX2dhXzNVTlVmeVhnMWxFRi1IZEpXajJobERxWFRpdFUtVG1kZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:06:34+09:00",
-    "summary": "為替相場 8日（日本時間 3時） ｄメニューニュース"
-  },
-  {
-    "id": "1180e7823a289e87",
-    "title": "為替相場 ８日（日本時間３時） - oita-press.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1RRmJyT1Y3Nm9tRXhMYXlOaFRRMHVIb1lqMngxaXN5ai1sTlJJZE1PS1hUejFXM2NzcllGVWpRYXpaVVB4UEIyNk5Kai1SWk1NblBNNUtrMUFMbFo4a2hWTEpXcjBvN01yR3gyd04wRFBMWDlzVkwydtIBhAFBVV95cUxQaDRTTFg3Mjg2LXp6bWNzQ19La2NmdFR1eXg2dHlXYVhhOU5ROUk3RzRLcG80WF9VT1FWcXJCVS1HS19GbEw2eWpuN1ZES3lUS2hXanYyTmNPQWE4VW9iU29sUUxXcEVJLW5WakFyb3E3cWFZLWFrRlRpc1VxYlJ5aUd5OEY?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:06:00+09:00",
-    "summary": "為替相場 ８日（日本時間３時） oita-press.co.jp"
-  },
-  {
-    "id": "1a5b2eeda871d65d",
-    "title": "為替相場 8日（日本時間 3時） - nippon.com",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5SSFhCUk1ETDJPX0NSXzh3SjNFNzI2X0ZMOENFbHdtU01zOWZsZURlN21iMmw3eHVteVZHMUhsbk1CQ0FCc3lZRTE3THFrdHJDWl9CMFFsTTFPa3dkVDF6a3BQQQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:01:33+09:00",
-    "summary": "為替相場 8日（日本時間 3時） nippon.com"
-  },
-  {
-    "id": "976861094970341d",
-    "title": "為替相場 ８日（日本時間 ３時） - 沖縄タイムス社",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1rbnhGaS1PLXZQUDQ5bmlaZkNObk1LZW9ZazJLTjI3aEdqX2VMUC1VV1lqOEJ0a29fZ0RyU196Q3pobkFaTkFENzlDekZTTW5NUmN5bUFhNXJsdmxhcVE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 沖縄タイムス社"
-  },
-  {
-    "id": "37f78f8428d79b13",
-    "title": "為替相場 ８日（日本時間 ３時） - 福井新聞社",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE81LTdBVzQ2Z0RKUjhIcEtQd016dnEzeml5MFlPZTJETEFxdGZDS0dDSzJlOElCZVlLN2ZYT3g2dm50RVRFZmp0SGoxcjNtQ0xYci1VWlI1ZUQtWXZ2Z3c?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 福井新聞社"
-  },
-  {
-    "id": "42c44ea453812270",
-    "title": "為替相場 ８日（日本時間 ３時） - 中日新聞Web",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YQ3k0LW9qcF83cnNTQlRqRXdhRF9EdUVWcTBORjE5Ym8tdHRQLUQ2MFk3aXhNWVJ2d3gxNENBNy1sMkVRUnpDOEhrT0lWNGNkb3hNbw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 中日新聞Web"
-  },
-  {
-    "id": "594a5a671579b06c",
-    "title": "為替相場 ８日（日本時間 ３時） - 日本海新聞 NetNihonkai",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1mM3dnLU1SdHcza3pDcnZuN2NQcGVGdDhmbHJ4MkZ0dWVuR1hxRTBZT1Z0M1E2QW05c0hCaWNTVEthSDEwRlNhUXNDSHZ0c1BR?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 日本海新聞 NetNihonkai"
-  },
-  {
-    "id": "a137978c9df21dc1",
-    "title": "為替相場 ８日（日本時間 ３時） - 中日新聞Web",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBhVUJ0U1d0cFdJMHNZNDVrLUZPRnBqQ2JrWGs1dXZ4UXoyNUEtR3ROTV9SNEQyY1J0aDY3S2ZRbG8weXBaZVp5X0prcGEweXdfamdMdDMtTV8wQW5YQm5NbUg5eE5IeG8?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 中日新聞Web"
-  },
-  {
-    "id": "19d90baf5dab4006",
-    "title": "為替相場 ８日（日本時間 ３時） - 中国新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE12cHhaOHRFZjI0bWRFd0pubGx2TDA4OWxZZFEzbGZqZkpCQTUySVF3Z2RJLXg1VGFXaDcybkxTZW0tOUN0Y2ZBV1doeTlpbEVwRWptcGp2aHZnQQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:47+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 中国新聞デジタル"
-  },
-  {
-    "id": "bfec1364b9821b4d",
-    "title": "為替相場 ８日（日本時間 ３時） - 佐賀新聞",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5HTjBoRTJOZWE5NmJ5WEJ0VmFURFlyUUp4aHpPd0xXN0dpVHl2cXc3ckVtY1V5Z0pCTUJaclIxZ3pRNm9seTdOdjJKN1JqaFBOY1lzT2NR?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T03:00:00+09:00",
-    "summary": "為替相場 ８日（日本時間 ３時） 佐賀新聞"
-  },
-  {
-    "id": "4ad9b38ef29d88c5",
-    "title": "Kazakhstan Bets on Iran Port Despite Regional Tensions",
-    "link": "https://oilprice.com/Energy/Energy-General/Kazakhstan-Bets-on-Iran-Port-Despite-Regional-Tensions.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T03:00:00+09:00",
-    "summary": "Despite lingering tension between the United States and Iran, Kazakhstan is planning to build a terminal at the Iranian port of Bandar Abbas"
-  },
-  {
-    "id": "a7e3449cb8a5b39c",
-    "title": "SANY、同社初となるラテンアメリカの風力発電プロジェクト向けに中核設備を出荷、世界のエネルギー転換を推進 - 北海道新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTVZYMFBSMktaSkZSZUd5TU96b2dVamRKMjBYNENielRnTFh1ZmhNLWVoRW1MTlEzQnZqRlczUWpFc3dVTzVNNGVXbUdSN0c5ZzFUN25KRUIyNlNHQzdoYUphSUNjRDVNS2YwbEVuMmRIOUQyM0hRODh5TEtpTU95MEtJTjFIa1VE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T02:43:15+09:00",
-    "summary": "SANY、同社初となるラテンアメリカの風力発電プロジェクト向けに中核設備を出荷、世界のエネルギー転換を推進 北海道新聞デジタル"
-  },
-  {
-    "id": "6c62dd5b5db06ce3",
-    "title": "Drone Strike Shuts Russia's Largest Refinery as Fuel Shortages Worsen",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Drone-Strike-Shuts-Russias-Largest-Refinery-as-Fuel-Shortages-Worsen.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T02:30:00+09:00",
-    "summary": "Ukraine has landed one of its most consequential blows yet against Russia's energy sector, knocking out the country's largest oil refinery j"
-  },
-  {
-    "id": "7a8edb067482d571",
-    "title": "【米3年債入札】｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJeW0wNmVycUtBLXJEcHZzdXB1clc0V3VreFFRTEtDTGVlX05WVy1wYTZzOGk1NUtsVk5HMktlREp5MmRGVWFaVVBCbFc1R0Q4a1E?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T02:20:00+09:00",
-    "summary": "【米3年債入札】｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "81c62c2fcb724136",
-    "title": "ニューヨーク外国為替市場概況･2時 ユーロドル じり安｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJZ3FRUFBLZi1qRVZYSEtVOUd4LWJHRW5WRUI1anFWY0thcHEtTnlpMkpvREhJWkIyR2NzcEFmb1NCTEVneHZGa01oVi1ROGVlcnc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T02:06:00+09:00",
-    "summary": "ニューヨーク外国為替市場概況･2時 ユーロドル じり安｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "bca921fdf2d35fc4",
-    "title": "ホルムズ海峡再開通を受け、EIAが石油生産見通しを上方修正 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBVME5EMjlBQjBRQzNxOU1PVzc3V09nZmU2dTJiYnh1enV0M05zZ1I3dnAyTzdYaDhEdkxtTS1nUFI4SEFYOHdNUjROUHI3SWlwQlFOd2lHZ2RFTkFmUDlGa0ZFaEtXdkVybVVzdFVMY3hkODZoOUE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T02:04:00+09:00",
-    "summary": "ホルムズ海峡再開通を受け、EIAが石油生産見通しを上方修正 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "31293b1c0ac980c8",
-    "title": "原油安定調達、相応のコスト 脱ホルムズ、国民負担の現実 出光興産・酒井則明社長 - 毎日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5OalA3WmpxelI3TGZPZHUtcmpISS0zN2Vwb0syQWJpdFdaX1JNN0dIdFktbnZZSjRTeEZQNGR6VVY5Q1gwOFlzSTJ0bWI5OFNXVGd2TVVhdmQwMWFJRW91dEM3eDRWZC1J?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T02:01:17+09:00",
-    "summary": "原油安定調達、相応のコスト 脱ホルムズ、国民負担の現実 出光興産・酒井則明社長 毎日新聞"
-  },
-  {
-    "id": "b40c18e79d8fb004",
-    "title": "欧州主要株式指数、まちまち｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5KY3N4VUpUdkJwd3FsMHFxSnRQTnl3ekVXQ0tzemdyWm9QcDlTbXZBUFZ2MVY4RUN3Qmo1VzVfemtZSzVJV2VYbjFFYjMyUnNBOXc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T02:01:00+09:00",
-    "summary": "欧州主要株式指数、まちまち｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "011db7a06dc24080",
-    "title": "Super El Niño Could Push Colombia Into an Energy Crisis",
-    "link": "https://oilprice.com/Energy/Energy-General/Super-El-Nio-Could-Push-Colombia-Into-an-Energy-Crisis.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T02:00:00+09:00",
-    "summary": "Scientists predict 2026 will bring a devastating Super El Niño weather event, with rising temperatures and economically damaging droughts ex"
-  },
-  {
-    "id": "493070c292e52d13",
-    "title": "為替相場 8日（日本時間 2時） - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBnaTFhQkhiMmlNdk1sSjdtREdqQ3V1ZFFXamRxbXhIUko5VTBXUGZ1MDZDNDNRMmZKcUJtN184cnBOcWY0Y29kaHYtYw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T02:00:00+09:00",
-    "summary": "為替相場 8日（日本時間 2時） 47NEWS"
-  },
-  {
-    "id": "2e666ead03d2ba2e",
-    "title": "世界の原油生産、年末までに戦前水準に回復へ＝米EIA 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12RENrZW01VG1FdF93WXN3QWpUbzEwY0FXNW1pdTlFX1pGLU1WZlpXbHRBajhWY0JRU0xJeHVYX0xXUFFXSXFfMWppNjJBNHJXVkRKelE4VmVOZzRKRDNiSFBjb1AzV2xPSnI2ZEdSdEc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T01:51:00+09:00",
-    "summary": "世界の原油生産、年末までに戦前水準に回復へ＝米EIA 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "cbc1aac5f063de77",
-    "title": "ＮＹ各市場 １時台 ダウ平均は１５８ドル安 ナスダックもマイナス圏での推移 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAzbHM4RUtlS0FfY1VpU29mQjRJcmFqNVJIajI2Y1YwdWpWTEFhbldNMGJ0QWk4VVBqejJpazBZOHlUcll5YkxORQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T01:43:40+09:00",
-    "summary": "ＮＹ各市場 １時台 ダウ平均は１５８ドル安 ナスダックもマイナス圏での推移 みんかぶ FX/為替"
-  },
-  {
-    "id": "3e134533d94c0f3c",
-    "title": "欧州株 終値 まちまち - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBmZ09ZU1VRSEJNZjJ0akoyWVVyR3hNcVBtOVRmUzUxNDd0Qi1OeFo3dlJURk9NTVBvU3BjbVpDNmZoSzZFNnhDaQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T01:42:39+09:00",
-    "summary": "欧州株 終値 まちまち みんかぶ FX/為替"
-  },
-  {
-    "id": "8dc13f026aa567f3",
-    "title": "Saudi Arabia Eyes Major Red Sea Pipeline Expansion to Bypass Hormuz",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Eyes-Major-Red-Sea-Pipeline-Expansion-to-Bypass-Hormuz.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T01:30:00+09:00",
-    "summary": "Saudi Arabia is looking beyond the Strait of Hormuz. The kingdom is considering expanding the capacity of its East-West crude pipeline by as"
-  },
-  {
-    "id": "e2b4c0cccc22f947",
-    "title": "中東紛争：ホルムズ海峡で石油タンカー3隻が攻撃される。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQY1V1SDA2d09Gd1VReVU3OFRsMlhOSEFpc1FKOG1seVFmb0tBZm9XSXA3ZUZyRmVPRmNITEw2WnN3Q0hjUERVak40TFVENHFHZEtkYi0yQXRMREFTWUwzYTBJX1BNb21haEw0T3Zham1MRDVNaFA2cWIwbVNSTUlrX2xzdlJnSjFJb0NTTFJRQ3kwV3NkUUFMYlpVdw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T00:55:36+09:00",
-    "summary": "中東紛争：ホルムズ海峡で石油タンカー3隻が攻撃される。 Vietnam.vn"
-  },
-  {
-    "id": "592de610c1f7bd30",
-    "title": "ユーロドル、ボラティリティが低下 サマーラルを見込む声も＝ＮＹ為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFY3FVeFU4SEt4TTZVNHg2Tl9HNVZLWUZVUFNnLUZMTnVPZEdVclBkZG9QZGQ1ZmdMTVRmZUVkT1Y0TG9sUlNXVw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T00:41:39+09:00",
-    "summary": "ユーロドル、ボラティリティが低下 サマーラルを見込む声も＝ＮＹ為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "6f79337df0e84417",
-    "title": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zckZSdHVvbExXV2xBc3Qtdk51MGlVVU9UNHZWeVRPMnRTNFJ6RTlfMjByUlZ6UEc4WGhvVURYd2RIRW5Oa0hXeXVMd0xETDdqamdPZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T00:41:19+09:00",
-    "summary": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "a29546a8a39d5f2d",
-    "title": "【画像】郵便ポスト開かず電気代滞納か、遺棄の冷凍庫停止で異臭に - ライブドアニュース",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5JT0g2MVhXWWFzbnZBM1I0NUF2cUczeUhvUGdsNWxSMU04M25LbDNQOU1yM2pxSjZqbldvZ3VCcmdnQnZrZUlTcmo0Z1FUbEZZMFRQdjRfZmg1UzlmeVNHVHN5Slg4Sy1rYXViNmRMNmVqdmxvY3NQZnNLZ0I?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-07-08T00:40:15+09:00",
-    "summary": "【画像】郵便ポスト開かず電気代滞納か、遺棄の冷凍庫停止で異臭に ライブドアニュース"
-  },
-  {
-    "id": "c6cdd65a575b0938",
-    "title": "Geopolitical Risk Returns as Drone Strikes Hit Hormuz Shipping",
-    "link": "https://oilprice.com/Energy/Energy-General/Geopolitical-Risk-Returns-as-Drone-Strikes-Hit-Hormuz-Shipping.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T00:38:00+09:00",
-    "summary": "Drone strikes in the Strait of Hormuz lifted oil prices as geopolitical risks resurfaced, even as weak physical crude markets continue to we"
-  },
-  {
-    "id": "49a9534a1b3f646b",
-    "title": "ホルムズ海峡でカタール船被弾、爆発の恐れも サウジ原油船も損傷 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE8wY2ZfYUpCUGdlcG5aZ3lmUi14Tm9XMW85TThzZ3hkQmNVcThncHZ0YXNsOG9UT29DLXJyaXB1SUFJWFE5aV9PeUtvd1lYbWdKbDBFRXhYUW81UVE3NzRPZlptSVE2bU1VTWxEY1NJbEt1VjNXYkViVzdB?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T00:33:22+09:00",
-    "summary": "ホルムズ海峡でカタール船被弾、爆発の恐れも サウジ原油船も損傷 Reuters"
-  },
-  {
-    "id": "e57d8bfc7f15cfa1",
-    "title": "東京応化工業、地熱発電を用いたオフサイトコーポレートPPAを導入 - ニコニコニュース",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5XNFNHLW5pR1IxemtlUVZIN2hPOXhOYVRzRkhhaTZHTjNMUksxYkVBNno4ek9Kd0pTUWJmb29ydzZ6VDVTR2pzUlFqVUE2dXd0dmxxaEhFeUxET3hTaFR4aHlGbV9ETUN4dnlRTFVlSldvYVJScmc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T00:30:12+09:00",
-    "summary": "東京応化工業、地熱発電を用いたオフサイトコーポレートPPAを導入 ニコニコニュース"
-  },
-  {
-    "id": "6d6c9a8de6ea7e37",
-    "title": "Ugandan Farmers Sue to Block $5 Billion East Africa Oil Pipeline",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Ugandan-Farmers-Sue-to-Block-5-Billion-East-Africa-Oil-Pipeline.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T00:30:00+09:00",
-    "summary": "A group of Ugandan farmers on Tuesday filed a case in the UK High Court against the developer of a $5-billion oil pipeline in East Africa, s"
-  },
-  {
-    "id": "19838aa6d182a9e0",
-    "title": "ピーボディ、レアアース元素プロジェクトでエネルギー省から資金援助を獲得 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QSTlMU09WZVFqWEtrYnRmOUZYS1pZdXBFN0gxQlFCZ0VIVUdpTENMajN0QWNVdmw1V1NhZUtQMW9iREladW0ycjBQSTFZVVh0b3A3UEJ3VlBfcjBSLVZnT1ZaSzJTUHMyeHVnS0pralA?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T00:17:00+09:00",
-    "summary": "ピーボディ、レアアース元素プロジェクトでエネルギー省から資金援助を獲得 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "2ff663d53bf48dfa",
-    "title": "ＮＹ各市場 ０時台 ダウ平均は２５８ドル安 ナスダックは１．４％の大幅安 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE13cmFUWWREWVJhQzVNdVloZWttV1dJT0dIaHluWkZpT25lUnFBY0ljdU5NQUZhMkRYREJSa0R3X1R6MHBhQnVHSw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T00:16:39+09:00",
-    "summary": "ＮＹ各市場 ０時台 ダウ平均は２５８ドル安 ナスダックは１．４％の大幅安 みんかぶ FX/為替"
-  },
-  {
-    "id": "43ab77227311c84a",
-    "title": "キューバのエネルギー危機の中で予期せず誕生した4匹のベンガルトラの子 - gamereactor.jp",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbHpDRl9NbTVIa290RVEyLWt5eUdHdUpqek5YMmc2NXBkQkhNVDZvWEhvaFRvaEdRQ1hoUkctV1hDeWtIWmd0R3JSY0lIMnBGSVNpUElzd0QxV0pUY1hPREpxeGxBeW92dGxWUlZ6eVZfUXZlRnBlU1VyRnpPR2ljdGdGcDNVREZnM29zcTlhTGR4ckVQdHRhdWd4TzlRamg1OGVv?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-07-08T00:13:23+09:00",
-    "summary": "キューバのエネルギー危機の中で予期せず誕生した4匹のベンガルトラの子 gamereactor.jp"
-  },
-  {
-    "id": "4c8ec4198834617f",
-    "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、もみ合い｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HVHliWmMxY3FMdFBCMkpENGxUUl91a3ItYnVLVXVjTnNCVDJBam0tXzNEYlZqVVJDdFVUMzVCQnhtSTFsNVcybHBpS3pISUYxTEE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-07-08T00:06:00+09:00",
-    "summary": "ニューヨーク外国為替市場概況・24時 ユーロドル、もみ合い｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "5dcaddf384f1adb0",
-    "title": "ウクライナ、ロシアの石油施設を「前例なき」ペースで攻撃 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1jNGxiQVV6Z05vOERmQ1RYY3Z5dWl3RkVjN3JkOFJweWVKRkV1UVJ4Rk9QNnU4c3ZzR0FRaE10RkxFUldqUlZWdDZmWkZLcVJadG1TdzhQZzh3T3h5YTZ5cjhvbDc1QUYwRGQtdmY5SjBMMk8tOF9n?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-07-08T00:00:00+09:00",
-    "summary": "ウクライナ、ロシアの石油施設を「前例なき」ペースで攻撃 日本経済新聞"
-  },
-  {
-    "id": "df88fee17cfe3e39",
-    "title": "Six Key Issues to Watch at NATO’s Ankara Summit",
-    "link": "https://oilprice.com/Geopolitics/Europe/Six-Key-Issues-to-Watch-at-NATOs-Ankara-Summit.html",
-    "source": "OilPrice.com",
-    "published": "2026-07-08T00:00:00+09:00",
-    "summary": "NATO leaders are meeting in the Turkish capital, Ankara, for the alliance’s annual summit on July 7-8 in the shadow of the Iran war and Amer"
-  },
-  {
-    "id": "2ccbf53eedc9d3c7",
-    "title": "産業貿易省は、一般家庭向け電気料金を時間単位で課金する提案についてコメントを発表した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSG0yNnNFTGo1Mi1GeExyLUNSN0NQRE9vQ3RUTlplSUNpNVd2Q1UwSGNsRVRLdFowQlR5VHNfV19hMUQtN1JYeVV6dF91c0E2VUZCT1o2Z2RWNWk4b3dpVXpIYTBfX20zd21DWlNKMnl6R3RtdmlqeW16ZUF3enVRbXh0NmpZNW0wdTNzX29nd1NFb2YtWHdpN1RQYw?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-07-07T23:51:13+09:00",
-    "summary": "産業貿易省は、一般家庭向け電気料金を時間単位で課金する提案についてコメントを発表した。 Vietnam.vn"
+    "published": "2026-07-08T04:23:39+09:00",
+    "summary": "米財務省、イラン石油に関する６月２１日の制裁緩和取り決めを撤回 原油高・ドル高の反応＝ＮＹ為替 みんかぶ FX/為替"
   }
 ]
