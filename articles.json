@@ -1,11 +1,283 @@
 [
   {
+    "id": "c36524de388c8752",
+    "title": "Heat Waves Could Cost the EU 1% of GDP, Dutch Bank Says",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Heat-Waves-Could-Cost-the-EU-1-of-GDP-Dutch-Bank-Says.html",
+    "source": "OilPrice.com",
+    "published": "2026-08-10T21:30:00+09:00",
+    "summary": "This year’s heat waves and related productivity declines and lower agricultural output could erase as much as 1% of the gross domestic produ"
+  },
+  {
+    "id": "aa0b7f00c0db63fc",
+    "title": "【若者はエネルギー問題をどう考える？】火力にも原発再稼働にも積極的でない女子 ―日本財団「18歳意識調査」: 新技術への関心も低調（nippon.com） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByMXBVN1RrYnZoR19NeEdwaHE0MTA1RWZvU2YzS19YMU5EZUVWd056MVM0Tk5ZTVFqb25ZZzVuTE5SUjdiVTA1ZlE2blVneEY2ZmNzaG04elVUS05fYU1tdm9fbmV3N2RUSDFXcThVTkp2N2tEdWl0SDRhNXRwQU0?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T21:23:02+09:00",
+    "summary": "【若者はエネルギー問題をどう考える？】火力にも原発再稼働にも積極的でない女子 ―日本財団「18歳意識調査」: 新技術への関心も低調（nippon.com） Yahoo!ニュース"
+  },
+  {
+    "id": "3b6c0d3c4c4884e8",
+    "title": "ドル円、小緩む 158.71円付近で推移｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1yeGFKZ1BqS01zY002SkxlX3I0SmRJSWpGV3kxY192LWJCS1V6eEY5MHNtWHhuckM1RFFKVVhWNTFJWWhVSTBWYW8yWEZRNVNzYVE?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T21:19:00+09:00",
+    "summary": "ドル円、小緩む 158.71円付近で推移｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "2011acf4609cfbb7",
+    "title": "円買いに反応、米国は日銀の9月利上げ示唆で介入との報道で＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE83VWFJbm1Rc093bzZYY3V4TXVIVHdvc2dwa2NOQ0hhSUVtX29ybTRwYk92S0ZQb3pvRDd4Rl82dGZSejlBdTFPVw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T21:16:39+09:00",
+    "summary": "円買いに反応、米国は日銀の9月利上げ示唆で介入との報道で＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "0da554b095864044",
+    "title": "日銀の9月利上げ示唆で介入 米国、植田総裁発言を評価＝共同 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1xaFRiZ2tsU1FmZ2dFX29jaDhkQzNrZFVFMTJ2cENJTTlPNC10SFlqNEIzNmlJaFBHdjlVSzZ4cUc3bldSOTBSYQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T21:13:39+09:00",
+    "summary": "日銀の9月利上げ示唆で介入 米国、植田総裁発言を評価＝共同 みんかぶ FX/為替"
+  },
+  {
+    "id": "2bd8444564b3913f",
+    "title": "【ＮＹ市場の経済指標とイベ ン ト】｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1rZnZCMDBDOHNOaEQtRGhlSm9Vdnh1SmhhVFRLakxXMFh0ajVFaENZQzhVOGl5WlJ6Mm85RHVhQlhMM2ZSUW5Sb1hnOHpKOXVYblE?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T21:10:00+09:00",
+    "summary": "【ＮＹ市場の経済指標とイベ ン ト】｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "06e29372fc869b0b",
+    "title": "ロシア中部の共和国にウクライナがドローン攻撃 子ども1人含む13人死亡75人けが ヨーロッパ最大級の石油化学工場か - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE05c1haSnhpdy1vWExDUkVkaTBpM19qXy1vVHdlREQyMmtMZ0NVcTE3cDdBTUZ2UjZ2YTdLREVaSGRSNTlCZzdsVGJzNzkzNGkwRHBKZjhEWTl1cGlyZzhCdXJ0TE5HYUhQdHVRZWdsWnhsRFM4VEVrcGxUX1dqMDA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T21:08:21+09:00",
+    "summary": "ロシア中部の共和国にウクライナがドローン攻撃 子ども1人含む13人死亡75人けが ヨーロッパ最大級の石油化学工場か Yahoo!ニュース"
+  },
+  {
+    "id": "75bbb302161d2e47",
+    "title": "ロシア中部への攻撃で13人死亡 ウクライナ軍がドローン攻撃 石油施設が標的か - テレ朝NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE93VEpWSzlwdnVxbTBlZ2dhdUJQWm13b21jM2l6YnVTUWF3U0JHYUZ5SDFKcWJpcXROVDNvMkozaTRhcG9DRkxJajJrcUtEcWR6QTJjQWdVM25mbks2SUdobFJSZ05DWm9FNklyci1fWUFPYkxiTmF6YTJB?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T21:06:31+09:00",
+    "summary": "ロシア中部への攻撃で13人死亡 ウクライナ軍がドローン攻撃 石油施設が標的か テレ朝NEWS"
+  },
+  {
+    "id": "dd5b65796e6471b5",
+    "title": "ドル円１５８．８０近辺、ユーロドル１．１５５０近辺＝ロンドン為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ESWE4MUdQR3FxT2dWaGNpcnZfbDBLRGJ4YVVDcVJ2N20yZ1UzSTdrSG9FNk83ZHhvamxzUXJFMXNVazUybEdteQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T21:05:40+09:00",
+    "summary": "ドル円１５８．８０近辺、ユーロドル１．１５５０近辺＝ロンドン為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "4c1caeb218d83cd6",
+    "title": "無人機攻撃で１３人死亡＝ウクライナ軍、石油企業標的か―ロシア中部 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5td2ZJSWZIM2hwTnB0emQ3d0sxQ1V4RXZjMXJvbkUyV3o4TWtVVWY3YVpPZEtGci02T0p5ZWNRd2cyZGR6bFp0Y1hZMUVDbHhlQWlGbnhqUUVZcFFfWEVmSjJoU2g2MElIek1vZU93OFl4VHJuVnlGStIBfkFVX3lxTE02aFNfX3RLd0hkWVJ4OV9nWDFySGFzVGhfN1VnVjh1TWx2b1hlSFVzM25FVUtYUG5PWW9Da1pXVFU4M0U5a1FWVWdHZUxXTnRIZ2hLUy00cUpEZjM2T3F2ZTg3N1YyQTJsR0RQNDNKMWhjMXpBSDR4UGhFNFVqQQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T20:53:00+09:00",
+    "summary": "無人機攻撃で１３人死亡＝ウクライナ軍、石油企業標的か―ロシア中部 ｄメニューニュース"
+  },
+  {
+    "id": "4e8f8453a62edbe3",
+    "title": "8月10日の株式市場：エネルギー株と銀行株が上昇を牽引し、VN指数は9ポイント近く上昇した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTVVxdkxwNzUwOEc5eE02TXVxanU5cmdOZE8yYzNPSjdCcEU5STBuTThtTjRSa0U1RTd2UFBZQURMTS1odEo3dnNVNW9MVWRyZWxEVHZ2eDI2WW1LNUxZdF9zU3ktNFJLWTdTZmVWQVRXblRGQ0VqM1lkQnZFQkhHWkg4TXZ3V0hPNG1ZOTlVakRXRzNhaldrUTYySm9JVi1Od21PTkFFVVZVd0M0NFcxRVk4VGc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T20:42:27+09:00",
+    "summary": "8月10日の株式市場：エネルギー株と銀行株が上昇を牽引し、VN指数は9ポイント近く上昇した。 Vietnam.vn"
+  },
+  {
+    "id": "e9dffe94c6dc9f59",
+    "title": "本日のＮＹオプション期限・主要行使価格と規模 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ob2dxSjUxZF9Kb0NxQUtJWEhncEpOMzJZeVdHR2hBbkFSVm52RlV1OVMzbGpEYkNDd0s3SHpUQ0xHSmZYclozdw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:30:39+09:00",
+    "summary": "本日のＮＹオプション期限・主要行使価格と規模 みんかぶ FX/為替"
+  },
+  {
+    "id": "47e3898bdc46068e",
+    "title": "Kazakhstan Weighs New Routes as Drone Strikes Squeeze Black Sea Oil Exports",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Kazakhstan-Weighs-New-Routes-as-Drone-Strikes-Squeeze-Black-Sea-Oil-Exports.html",
+    "source": "OilPrice.com",
+    "published": "2026-08-10T20:30:00+09:00",
+    "summary": "Kazakhstan is looking to re-route part of its crude oil exports away from its Black Sea export terminal and on pipelines through Azerbaijan,"
+  },
+  {
+    "id": "1908299fb3f37880",
+    "title": "円相場 小幅な値動き - NHKニュース",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5nVW5ZdXNYUWoyejhzY29TVVFHblgyRVFvOW83M1VNamdqYnRSejctTTRLOGpuSllfLVl3T0FKY05JYjhxVFZHUnluRWZCZ2ctZGJRM25QaFJYN0llcU5Z?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:18:05+09:00",
+    "summary": "円相場 小幅な値動き NHKニュース"
+  },
+  {
+    "id": "bdaf9882f77c3c50",
+    "title": "欧州為替：ドル・円は失速、節目の水準を意識 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NNm1NbmRQVjhzQW5Xd0c5T1VkUXgyYVdPQXEwNTZ1Y0loNjg3ekZUNm96M2U3Mks3STVhTnZSYUt4aEN5RnYwNUFDUjZZSGJ5RTM0VkhpQWY2TDBIWU9ZUUxqZ1hyQ0U?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:15:00+09:00",
+    "summary": "欧州為替：ドル・円は失速、節目の水準を意識 執筆： Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+  },
+  {
+    "id": "eb0bd9e93fc852e4",
+    "title": "欧州外国為替市場概況・20時 ドル円、買い継続(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWWZPMXYwTEJUS2o4OFVzY0Q4NWowSWNYY0NTOE5JMlpuYWtRdVFza3F6bEEtZVZ0THVKbFhra3FZOUkwUWRuODdxbkZLOFRST1gzbGRJVnh2bHdpSC1IeGZnZTJ1NEtJcHRxZkJEUWZWT0ZPeFVja1NDSVo2YmRHaFJ1aVJ5TzA?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:06:00+09:00",
+    "summary": "欧州外国為替市場概況・20時 ドル円、買い継続(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "88100c8947cda4f1",
+    "title": "欧州為替：ドル・円は失速、節目の水準を意識(フィスコ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNeF9lSXNXZHdEVVBHOGh3U1VoQXNzUWVEeUpEWjR5cXBpeDFaeG5rOVJEMW43MlhEclJuSUswbnNYamFxblJMVkt6bkNCd3k4cVhqemhQaTdCWHJEcTBFR243M2liVWF0NzFtRnhBYjZZY3ZpSjYtQU1TQzJJOERHOUVxZ1BiODA?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:02:00+09:00",
+    "summary": "欧州為替：ドル・円は失速、節目の水準を意識(フィスコ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "b3a242d5dd1eba77",
+    "title": "欧州為替：ドル・円は失速、節目の水準を意識 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONXV1MG9aTUpUUndqdi1rUzJlQ0Y5NENnT29VMkFYRzJMMWtkaUFGOUdEWmtkQ0tPekJLQ0lYUkQ0aVI4U04yT0ZvdS1NbDhVdS1TYjlsVnVvaU5TamhoTndSbEQ1SmZNa181UjhZZkxVTG5tSnQ2dzFZcUlwSk9GMWhZVDVlejNqTXU4MkswdTIydVEtWHRFS19R0gGMAUFVX3lxTE92SkxfZkZuTnF0LW53cmRfNVVIb3dNTnUtTklfTG9PUEk4VUp6a0dsZHd4RVNLZkJkUVByU3M5c1JwM1RpcXZ4SWdIc2pDZWZ2b2tOd3B6OXlDMlVMNVpFQ1R5V3BGQ0hPYWFQTVNUbHd3SXlPclpzVUs1WVE5LVNwN1NCU01yeUJQUWZY?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T20:02:00+09:00",
+    "summary": "欧州為替：ドル・円は失速、節目の水準を意識 ｄメニューニュース"
+  },
+  {
+    "id": "8ab0f850413ef39e",
+    "title": "石油価格上昇、イランがホルムズ海峡開放前に制裁緩和を要請 - VOI.ID",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1yQ3l1dV9HSlhaVm8xWXRPREl6QjkzQVNOcExsWjdXUmdRNUlFczFqQmxZckRKV25UdVh5MndRRjVjLThnbEHSAUJBVV95cUxNQmYwaUVOanZGbGoxSnU0Z0dVelVRMHZYYVhmZGpxOGFSX3BYUzB4NVFQM3FfSFdXU2xKWjMzNlY0cXc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:51:09+09:00",
+    "summary": "石油価格上昇、イランがホルムズ海峡開放前に制裁緩和を要請 VOI.ID"
+  },
+  {
+    "id": "6a3f1320e74d05e6",
+    "title": "10日外国為替市況（日銀公表分）(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQbmprR043YTI0OFc1YWQ5UmRWbUpwU2k5NDJIYS1TaXV4WWlfN3JBRElJWEZORDRlVlNPUHg0NmlnM1NXLWVjQ1NKb0J1dWhteUtZZ3puX2hDUGJsNUsxNWFCeFVPRkpXTnpSYzBaSk9QWjVoY1U1dFNQTjJRNkFqNVhxVVlVc0k?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:50:00+09:00",
+    "summary": "10日外国為替市況（日銀公表分）(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "c195f33b3c72e37e",
+    "title": "カナダ産原油のタンカー、12日にも日本到着 中東情勢緊迫後初 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE90dUdhNkRqZDM4cFNUVHNlQm42Nk1iNHZseklacndmOG1zNXZBaGdydTVRNGVvQl9CRTY2ak9TTDNxNmlVLUxHZjFfdWV5bHlyV09QTGVOMldBbzJ4QUhQbV9udFFIUjR5OXJZOQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:45:00+09:00",
+    "summary": "カナダ産原油のタンカー、12日にも日本到着 中東情勢緊迫後初 日本経済新聞"
+  },
+  {
+    "id": "bdb00f9886aeebc8",
+    "title": "カナダ産原油、12日にも日本に初到着 エネオスが代替調達、鹿児島・喜入基地へ - 産経ニュース",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBKVVBCT2g2SVhMSUNuUGdaWF9ndWZOWFl4VE5xZmh1SEU2MldXam14cnlIaWxxLXAxcmRqdFFSSGxrSE9DZTZlVENOYzFyRmRfbEs1RzI2TzQtVm9xSWFucU95Z3FKSkdqOUtXUnRYZloyUXhRWGc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:42:53+09:00",
+    "summary": "カナダ産原油、12日にも日本に初到着 エネオスが代替調達、鹿児島・喜入基地へ 産経ニュース"
+  },
+  {
+    "id": "620662c2fde94668",
+    "title": "中東情勢の緊張緩和への期待が高まったことを受け、原油価格は8％近く下落した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPYXFPZDhLSDVDdW1hekdTTUFpMkttZXRNRkZwS1VIR0NMZ3p1cTNrOGZOeXBjZGxvVzJhbVhCS3o2cEVER2tKTmFhNW9aUERjZDZqb3Y3Wmc1MHhJQWZ2ajJhS2pkOHY4V2ZHeXRuOUFRallqMjFydUE5WlBiTU45Z0pVRnZDcFliSEtvX2RZQUc?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:41:34+09:00",
+    "summary": "中東情勢の緊張緩和への期待が高まったことを受け、原油価格は8％近く下落した。 Vietnam.vn"
+  },
+  {
+    "id": "1fce64fe9256e40e",
+    "title": "円売り優勢、ドル円は一時１５８．８９レベル＝ロンドン為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9BUWdacFgwa1RLbkJwSnJXOGh3eXlkVDJQYkc5MkJPSlM3djZhVHBJRnNfYXF1WDVVOUVFa3FXeDBPSlJ0bjVjMg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:38:40+09:00",
+    "summary": "円売り優勢、ドル円は一時１５８．８９レベル＝ロンドン為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "7fca458dfe00344b",
+    "title": "ドル・円はじり高、ドル買い継続｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1NNDd5QW9fQmp2V2M3aS1SR2Y4Q3VwSTJrZUNtUWlQSWZwUEJEZm5JRXFSbW9XZlFFNllJVTlyZXdzeDE3ZlIyMTlfZ19lTzMtb3c?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:32:00+09:00",
+    "summary": "ドル・円はじり高、ドル買い継続｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "6ce0e2f178263f44",
+    "title": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5idkR6QllhSjNVOEJRSy1VTUkzNFpzRWZveWRYSXNMRENndXB3R0V3M0xxbjVFMm1hXzFnQmpxWERib19sV3M2dmlUSEl4LUlBTkE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:31:00+09:00",
+    "summary": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か ザイFX！"
+  },
+  {
+    "id": "94e6cfe110984a51",
+    "title": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxONloyb1hpVXhJZ3RqSnhIQXlfdjFiTWhtcURCYUl6TW0yY3A2MlR5emEzVE1hcER3Q3VQcTZEQ1dTUjZCbVVxRllYNU1oWVpjdjQzb2R1TjRXU1N6VmwtZ21pWF8ySkY3MWQ0eHJ1SWZ0U2ptc1ZFN3JpWHJ5cmxRczh2NnY5ZWs?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:31:00+09:00",
+    "summary": "NY為替見通し＝ドル円、イラン情勢や原油価格動向を睨みながらの展開か(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "d37f0296539ee0d5",
+    "title": "Hungary’s Nuclear Power Returns as Rain Lifts Danube Water Levels",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Hungarys-Nuclear-Power-Returns-as-Rain-Lifts-Danube-Water-Levels.html",
+    "source": "OilPrice.com",
+    "published": "2026-08-10T19:30:00+09:00",
+    "summary": "Hungary expects its only nuclear power plant to resume producing electricity as early as Monday evening after one of the turbines at the Pak"
+  },
+  {
+    "id": "ac6b8aa57b3fae83",
+    "title": "欧州為替：ドル・円はじり高、ドル買い継続 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5KRE1uY2Z0UmEzRDU2WUl5Y3FjQjljNW41Y29JVUcyQzIyeFJvUFFJQkVMemd2eDc4eVJBbE9BNnRVbl9ZTHVDYUNWZHdQVXpQYzBzcFRORkluc2tsOG1VN2FJRGZ2Wk0?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:22:00+09:00",
+    "summary": "欧州為替：ドル・円はじり高、ドル買い継続 執筆： Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+  },
+  {
+    "id": "20c7cdfc8b208b8e",
+    "title": "欧州為替：ドル・円はじり高、ドル買い継続 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQYjhWYUdITkZDc2ppMXhCa28yQjRHRGhQZ04zRTkzSzQxakh2Si1LekFJU1dFaWtvcHpEQ1ZEU0lXQmxVQ0FEd0wwNm1kUDJtb2tNTnNXLXQ1XzFSVFl0TE5iMGVjTWw4NEVXZ2tOazlidjV2OVFSZ0pxVVpaVEExM1FFZFA0RmpQdGVvMtIBjAFBVV95cUxQYjhWYUdITkZDc2ppMXhCa28yQjRHRGhQZ04zRTkzSzQxakh2Si1LekFJU1dFaWtvcHpEQ1ZEU0lXQmxVQ0FEd0wwNm1kUDJtb2tNTnNXLXQ1XzFSVFl0TE5iMGVjTWw4NEVXZ2tOazlidjV2OVFSZ0pxVVpaVEExM1FFZFA0RmpQdGVvMg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T19:22:00+09:00",
+    "summary": "欧州為替：ドル・円はじり高、ドル買い継続 ｄメニューニュース"
+  },
+  {
+    "id": "914d2f18dd2a2757",
+    "title": "ブレント原油価格は週初めに1バレルあたり84ドルを超えた。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE43SnJqVE90N2UxWF90dl9FODZZeklzTmhyQmE0SW4yN3hNcThla29NRkFFRG1uUkJIQlRxbHplT284NGIyYTFxZGxueWYzTzYxRDdBNUJ1cERGV2l2TWVnOG9BbE5fREVNWkR3a1o1THU3aldiX1MxYVMyZms?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:09:55+09:00",
+    "summary": "ブレント原油価格は週初めに1バレルあたり84ドルを超えた。 Vietnam.vn"
+  },
+  {
     "id": "c4140d6fd3cd389c",
     "title": "米国のガソリン価格は高止まりすると予測されている。 - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE05b0czcjBhdF9qUzBQUllLR1BvMTl4ZzRSQ2Z0SkY1R25FRmFGRWNkck9fT3BFN2I5QkNuY0tqZEFybHVQcmxUVkVRbDZLNTBaRXRWYTNUcTRzeFNzYlpGT1lXNS1PSFloYlhySDZacHNiR3Fk?oc=5",
     "source": "Googleニュース｜原油・石油",
     "published": "2026-08-10T19:05:24+09:00",
     "summary": "米国のガソリン価格は高止まりすると予測されている。 vietnam.vn"
+  },
+  {
+    "id": "9d7d5f99767cd61d",
+    "title": "【速レポ】＜LuckyFes’26＞ウルフルズ、大草原に広がるポジティブエネルギー - BARKS",
+    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE81X0lSaGw1YS1rc0VuNXZRLW8yNFJZUnE0ZDZCMTRrUUdiZl91NWstRTNWVWIwZlhiVEgwODNFRm1Rakk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T19:05:00+09:00",
+    "summary": "【速レポ】＜LuckyFes’26＞ウルフルズ、大草原に広がるポジティブエネルギー BARKS"
+  },
+  {
+    "id": "8c45d49094b51866",
+    "title": "エネオス調達のカナダ原油が初到着へ 経済産業省発表（写真・画像 1/1） - サンスポ",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQRWNZazM0VmJaczR6OTcwZU9jTk9UQUFXM01Qa192aUpLVnI5UTNvMkhndUtiTnAyVEhqZFNCNkpkMXFLSVE0cmhDelA0aElaLXZLLXIyUzdBXzlGQjd5dkZSd2ROOEVCdU0xZWJkU3l1UUE5SXE4U1JMVUlyR3lGcUJ5ZlZoLVVXQ2djR09QWGx5OEg1Z19fUGhvSl9zMzQz?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:02:13+09:00",
+    "summary": "エネオス調達のカナダ原油が初到着へ 経済産業省発表（写真・画像 1/1） サンスポ"
+  },
+  {
+    "id": "db36477f97d24afd",
+    "title": "エネオス調達のカナダ原油が初到着へ 経済産業省発表 - サンスポ",
+    "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLWs1MEowTlpFYTRUcDBHVjVWNko4RTFlNHNXX1ViT1RTbmF5NEJZZVdQZWNuaTJtNkl2MTNzRFRMMFpTOFhWMjVqQVVUVjRjclhBXzdXdGFnWmtsWGtvWlZiSXFEUXl6NG9YdnZCRXlVaDlvLVVpUDl5SEEtUGFzeUVxSUk2bnBKRFHSAYoBQVVfeXFMTi1rNTBKME5aRWE0VHAwR1Y1VjZKOEUxZTRzV19VYk9UU25heTRCWWVXUGVjbmkybTZJdjEzc0RUTDBaUzhYVjI1akFVVFY0Y3JYQV83V3RhZ1prbFhrb1pWYklxRFF5ejRvWHZ2QkV5VWg5by1VaVA5eUhBLVBhc3lFcUlJNm5wSkRR?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T19:02:13+09:00",
+    "summary": "エネオス調達のカナダ原油が初到着へ 経済産業省発表 サンスポ"
   },
   {
     "id": "be3114c58f6a6d54",
@@ -32,12 +304,44 @@
     "summary": "VN指数は銀行およびエネルギーセクターの好調により、約9ポイント上昇した。 vietnam.vn"
   },
   {
+    "id": "7ff3f42db95af234",
+    "title": "オーストラリア ドル / 日本 円【AUDJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9ZNnNQU0VuNWo4LTdyaS1Ybng4dm55OTBYcGtfVmhrbHRRSGNUUmV5MUt2dDBDOHR4NnlleUZOWGtubEpMY2xaYnpVTXBlRE53MlRvVQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:43:37+09:00",
+    "summary": "オーストラリア ドル / 日本 円【AUDJPY=X】：為替レート・相場 Yahoo!ファイナンス"
+  },
+  {
     "id": "05d9e6df349aad48",
     "title": "ＭＡＸＩＳ米国国債７－１０年上場投信（為替ヘッジなし）[2838]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPNWhzQWoyb0lKOEJ3MGI1ZnFsNnM5SzhKNDVnVVRCb2todHhPQjBoZnRXSzlLOTRzSk9senh3cFZxakVQSGw1bW04LS1mcGRBcksxd3p6ckgwbVlzVDdZOXROX2gtT2dudE1iQVdjZDI2MFdaS1E3QUlUdEpyVzMyX2xkZ2NyWENNaUJUQmZIc1A3TjdSZndkVjk4NnJRZTA5WmlnTndwbG9WQlRNalMzSzNmeHJhUjNWZW9VYTN6T3VBMTJqNFVzVVVuUmc?oc=5",
     "source": "Googleニュース｜為替・円相場",
     "published": "2026-08-10T18:40:00+09:00",
     "summary": "ＭＡＸＩＳ米国国債７－１０年上場投信（為替ヘッジなし）[2838]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+  },
+  {
+    "id": "6a61ec5e2b2c96ba",
+    "title": "ＭＡＸＩＳ米国国債７－１０年上場投信（為替ヘッジあり）[2839]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQWVVwelZWcGlmSTBadFNGUC1TbnN2aF9vRFFfc3phckxfVC1vbVU4UnJUZFNDM0FFN2Fab1lUcEVQXy1wZHRWQXdJRHo4WmU3ekd5ZDZ4aDAtLWlSSWg5MWJ3S01PVC1FY3ZWYXlDMVk1M0lTUV9Qby12ZEVxb1A2Ry12c180TlAyUGxKa1hmQjBWSFNaX1gtUnM1S0dQSkZmOUVVcEhoWF9rZ0NXUDMxbVpTa29aTkVEdzNrLVh2OTN5Nk9Wd0dQcnNsclg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:40:00+09:00",
+    "summary": "ＭＡＸＩＳ米国国債７－１０年上場投信（為替ヘッジあり）[2839]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+  },
+  {
+    "id": "53de7fc2a3b10528",
+    "title": "ＭＡＸＩＳ Ｊリート・コア上場投信[2517]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB3VEEtdUFGN192NlpwWFBFSmxNdnBhRnhydlRwNlN2c3E3UUZnQ1k2VW5ueldSellPX2JreV9MQ3NLMzJmUEdwS3lkTndoVTVzOENHVXhnN2d1NW92NTdoRXA4SzlDSzNBS0E?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:40:00+09:00",
+    "summary": "ＭＡＸＩＳ Ｊリート・コア上場投信[2517]：ＭＡＸＩＳ ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+  },
+  {
+    "id": "8073a3399189ad65",
+    "title": "ヴィンロン商工省：産業、輸出、エネルギーが成長を牽引する。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNWG1xM05yMXZobldKTXJ0S0luY2dQSTdFZFp3TG5WMHZiU0NBT2N2T0c4MW00WnVVanBxdDB4LUFpdGx1My00eERjMkxMUWh3T0Z1MGZ1ZkZScUxrR2JFbkxIaEZzanVnZkdITktmZy10VmcxNmtEQ0NBNG9xVzNGaUY4a3lTUmVacmRrcFpVeXdDQjV6OFd3TWpVWDFjSnNHdFA0X1BOUFVqWnlw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T18:37:25+09:00",
+    "summary": "ヴィンロン商工省：産業、輸出、エネルギーが成長を牽引する。 Vietnam.vn"
   },
   {
     "id": "b80cb42f552579ff",
@@ -56,6 +360,14 @@
     "summary": "上場米債０ラ 日本経済新聞"
   },
   {
+    "id": "5d859ffd99cc49e8",
+    "title": "上場インデックスファンド豪州国債（為替ヘッジあり）[2843]：ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQ1lPZnNMTm5Rai1EXzNlNThDZ2F0ZTYzUUNtRkNzQ1Bfc29UNDhQYnR3bndfdFhBdzl0QjczRVFJYkpIYTJYOVlDbm9reGl3MVM3aXBITEJ3TDY2d2o0SFFsNVJRWXZsQ1J4YlAwN18wN1Bfd3FpcmhWOU5zTVNGTUVHSlVVanlnWEhST0xUQkozellWWnZjUmgzbS1lS3JiQmpOb2RJWnlzSFBWNnphaVd4WXNLdHZ4bnRxeVE4TWkwVDFyU3BjWjJ0Snc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:35:00+09:00",
+    "summary": "上場インデックスファンド豪州国債（為替ヘッジあり）[2843]：ＥＴＦの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+  },
+  {
     "id": "67249506f29332da",
     "title": "雇用統計の下振れでFED利上げ観測後退、アジア株高・ホルムズ海峡膠着で原油堅調 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9XZ3cyenE3MTV0MVByUC1yRkp0RDJvZHpTMW1IcEVKRnJvNEZUS24yejRzc2dyOWlTYUJXeV9CZm11cmVjMUlzZDZpRncta0FjQnRjRVRZVS14Tk1XVFd6amlJekxFTlg2cHhTUE5NdVZYeFlMMG9F?oc=5",
@@ -72,12 +384,28 @@
     "summary": "県内輸入額大幅増 中東情勢影響で原油・租油に伸び 26年上半期 愛媛新聞"
   },
   {
+    "id": "357d964c5f417af5",
+    "title": "ユーロ圏 １０年債利回り格差 仏７９、伊７６ｂｐとやや縮小 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9JTXAwRlIyNUdlR21zalFaUXNXaVJWb0VnbUwxcEFaak8wT3AwczQyZmNkRjVZWU9weW94WnlFMUVJUXZ4NUNOSQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:26:39+09:00",
+    "summary": "ユーロ圏 １０年債利回り格差 仏７９、伊７６ｂｐとやや縮小 みんかぶ FX/為替"
+  },
+  {
     "id": "472ff5ae1f41de55",
     "title": "ｉＦｒｅｅＥＴＦ 米国国債３－５年（為替ヘッジなし）[381A]：iFreeETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
     "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9wTTY4cDhwdlRhLWxmZEJqdk9SNlpLTTRabUVLVkdTa1JHTGIxMGZ3NU1vQXFUZGNHLTFfdFhaUW5MMlFFR3YtSnFMUFl1a1pOMHJNSVlLNU5paHZ2bDhtSEpkQWl1TFB5a1E?oc=5",
     "source": "Googleニュース｜為替・円相場",
     "published": "2026-08-10T18:25:00+09:00",
     "summary": "ｉＦｒｅｅＥＴＦ 米国国債３－５年（為替ヘッジなし）[381A]：iFreeETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
+  },
+  {
+    "id": "b329b566c9b3fc52",
+    "title": "欧州為替：ドル・円は小じっかり、クロス円は堅調 - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFByVzh6NWFSZUVTRmhJNFI3VG5HSUVGd2xnMjl0VThTei1VVlRWaVpMMlBCVDFTZ3k1QmZ4TzUzamtfWGpsMXNJZTBsQTMzcGRQN2l3VkVhQlVETjdVQ0VpZjhn?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:23:18+09:00",
+    "summary": "欧州為替：ドル・円は小じっかり、クロス円は堅調 株探"
   },
   {
     "id": "7e8fe997a58c8cf1",
@@ -96,6 +424,46 @@
     "summary": "欧州為替：ドル・円は小じっかり、クロス円は堅調(フィスコ) Yahoo!ファイナンス"
   },
   {
+    "id": "10c22b51fdbf3cb3",
+    "title": "無人機攻撃で１３人死亡 ウクライナ軍、石油企業標的か―ロシア中部 - 時事ドットコム",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE02U05Zck5YRU1EZnVLbjlQRFAtbEw2WkhYcHh3QVh3OXprT0VjYjNwOTJBMFh0SDQzTlMtNkFIRUdVTHh3S3BhLWpjM0Y0X2k3NGhheFVUTVVJVllUOXhMdVhOaw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-08-10T18:23:00+09:00",
+    "summary": "無人機攻撃で１３人死亡 ウクライナ軍、石油企業標的か―ロシア中部 時事ドットコム"
+  },
+  {
+    "id": "8c21ffd0fccea86b",
+    "title": "欧州為替：ドル・円は小じっかり、クロス円は堅調 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9iTFVFWG1JRF92Q3dRM1cxTTEzTVljTnU0WVp0bTBjX1I2UGFkMzI4U2VyMFVySkxzLVlGdXdSR0l4bmFSVmUzeHhzaTIyYXRFcE9YbWlubENpc2YyeEtoaG1IcWc5UmM?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-08-10T18:23:00+09:00",
+    "summary": "欧州為替：ドル・円は小じっかり、クロス円は堅調 執筆： Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+  },
+  {
+    "id": "b400d32d9a34169c",
+    "title": "Envision、ウランチャブ市に「ギャラクシー・キャンパス」を稼働させ、ギガワット規模のAIインフラの新たなモデルを確立 - acrofan.com",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1VTERNSHR1a0ZlNWhQRk4xWEhuX2RRVXlERUZPTGtjcmwyMDBDMjRPSzdDMW1Zb3BkYkhvbjQzdEZWTkpxSzlLdDZsUXNzU3FnLVFCcUJKSTBnTmc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T18:16:38+09:00",
+    "summary": "Envision、ウランチャブ市に「ギャラクシー・キャンパス」を稼働させ、ギガワット規模のAIインフラの新たなモデルを確立 acrofan.com"
+  },
+  {
+    "id": "9930baf0f08d3e78",
+    "title": "アブダビ、ホルムズ迂回探る－海峡の外側にLNG輸出施設建設を検討 - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBqMW1abnhycEpOMkh3Ukxudm9tbDY0RUl0LTJKNnAwUDdHTUFVa0ZvX0lma3Z3LUo1d3k3eUd2ZGhWcWVtdHEwVmo2UW9FLS1hZGtoTVhKOU96eTNJa0VIckJ0U25fb25rdmhKZEJMRkN6LVhxNEJF?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-08-10T18:15:03+09:00",
+    "summary": "アブダビ、ホルムズ迂回探る－海峡の外側にLNG輸出施設建設を検討 Bloomberg.com"
+  },
+  {
+    "id": "ef39c238d1b92d57",
+    "title": "UAE、エネルギー・航空分野を標的としたサイバー攻撃を阻止 - arabnews.jp",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wcExWZ2NveTJjemVwX2FXSjM2LUJpVjEweGRZSzM4aEpKNDF6dFpkOU9Hc0d5YTlrUklMQ0laX2JLbkc3S09iY3VXeS15WnFKRDVqZEVXTkRydEVTR3Bva3B2RGpWNzNOenpz?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-08-10T18:08:19+09:00",
+    "summary": "UAE、エネルギー・航空分野を標的としたサイバー攻撃を阻止 arabnews.jp"
+  },
+  {
     "id": "fc34318d18e5aae6",
     "title": "エネルギー節約と効率化に関する一連の全国的な展示会やセミナーがまもなく開催される。 - vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcUtWMjlhWkRrVzIwQm9WRnI5MDhSWHdNWHozeUlPckg5RkVqRVFSSTVTdENDU3E0LVR2LVU5MXlDSFFwQ05NQkxpWl9RMUtJVy1ueFc3WmtDa3RaaFdJLVR1UFJTeEFBX2drVnJaUG9XbkxOZW9aZHctRFJPX0RyQ21EV2h1dFUtVVBmVEswOHI5RVFldDl0MU93UXFXa1B0ZlVSN2UwZUR4RENmdGZNMW4yaE9iaWFKUks3WTJaMGJNaTFiT1E?oc=5",
@@ -110,373 +478,5 @@
     "source": "Googleニュース｜為替・円相場",
     "published": "2026-08-10T18:07:00+09:00",
     "summary": "東京為替概況：ドル・円は堅調、夕方に一段高｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "468d1b0a31070933",
-    "title": "日本銀行 ７日の外為市場出来高 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCZzg4OWg0bDJRSTVHYUl0MnZCMHFjYkQ5WkEzcF85Tjd2R0c4WDZULWhtTkNWR3B2OWpsQW1JNVE1Nl9pOFBqeA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T18:05:39+09:00",
-    "summary": "日本銀行 ７日の外為市場出来高 みんかぶ FX/為替"
-  },
-  {
-    "id": "ac6debb02a3f806b",
-    "title": "産業用浮体式太陽光発電システムの世界市場（2026年～2032年）、市場規模（ポンツーン式浮体式太陽光発電システム、モジュール式浮体式太陽光発電システム、係留式浮体式太陽... - アットプレス",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBlMlJVME84Y2Jva212aWYya0ZVZEl0NWJBRFhuRlYtdkVLMjRPdDFPVDJmMWVHMU9BQ1FwMWlEa2Rza1lUOEVMbExERlA3VDg?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "産業用浮体式太陽光発電システムの世界市場（2026年～2032年）、市場規模（ポンツーン式浮体式太陽光発電システム、モジュール式浮体式太陽光発電システム、係留式浮体式太陽... アットプレス"
-  },
-  {
-    "id": "11008fa45d2136e4",
-    "title": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗 - nomura.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBFRmdVMnUxSVFUSEgwTlRScllIaHVveXhEQ09rVmpzQlg2X2JCRlFEY090ZXk2ZktQbUlIWXJvcHNpbGRGdGx4TTQ3V3FFcHNEd25xMllxblVadXpGV0pz?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "日米が協調為替介入、円安抑止には3つの当局対応か 追加介入、日銀利上げ加速、債券市場安定化策 野村證券・後藤祐二朗 nomura.co.jp"
-  },
-  {
-    "id": "028235118b98c28c",
-    "title": "円相場、158円48～50銭＝10日午後5時現在(時事通信) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRDJIN2R4bmg0VE8xMXloUW1HdGxBaVViVVBTY2JYcEpnOVJYWFd6NzRjVzItUjBZTjZCU2RYY0tMcWpfaEcyUUZ3aHRCTkZOcGJvY1NpWVBUbUhmcWc5OThnSUkwc3hEVWlETFJ1aG13LVU1S25nWHowNS1STjVweUhncUtPNkk?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "円相場、158円48～50銭＝10日午後5時現在(時事通信) Yahoo!ファイナンス"
-  },
-  {
-    "id": "4a931336dd59ffb7",
-    "title": "為替相場 10日（日本時間18時） - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE93SnA4N3UwVWdSbEJZSmdiOUZSejhyUUhEOURja1RMQVBEVnlMYmRNNlljREtrbFA4bGhvdjBNRXpmQ254azJUcjYwaw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "為替相場 10日（日本時間18時） 47NEWS"
-  },
-  {
-    "id": "251c2d55bab146f1",
-    "title": "【為替相場】155円突破ならず！ 日米協調介入の裏側と米国のドル売りを嫌う事情、ドル円は155-160円レンジへ - Finasee",
-    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9iNWJsb2xIUXYyVWM0V2JLTlJKWkszZUsyRFQwZk5OaE9HZ0ZuaXV4eVhNakYzcG5TaWJKdjVzT28wYlh6UmFzNWRaTW03bVduMEFj?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "【為替相場】155円突破ならず！ 日米協調介入の裏側と米国のドル売りを嫌う事情、ドル円は155-160円レンジへ Finasee"
-  },
-  {
-    "id": "188609b4ade2637d",
-    "title": "Ukrainian Drone Strike Kills 12 in Major Attack on Russian Refining Hub",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Ukrainian-Drone-Strike-Kills-12-in-Major-Attack-on-Russian-Refining-Hub.html",
-    "source": "OilPrice.com",
-    "published": "2026-08-10T18:00:00+09:00",
-    "summary": "A Ukrainian drone attack on a city in Russia’s Tatarstan region killed 12 people and wounded at least another 39 in a massive strike that al"
-  },
-  {
-    "id": "0e8b4edb28a641b7",
-    "title": "ドル円一時１５８．６８レベル、本日の高値を更新＝ロンドン為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKLVZuWWNESGJERFI2Mkp3aU9xcm5CWlFwRUVLYnhNeGo5SjFnMHh0Mm9JdGk5bHl6WVdGT2Z0VHVKVTFIYzZJdg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:58:39+09:00",
-    "summary": "ドル円一時１５８．６８レベル、本日の高値を更新＝ロンドン為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "7aed3f08b668842f",
-    "title": "五大石油メジャー、四半期で480億ドルの巨額利益──現金備蓄170億ドル超で「超過利潤税」論争が激化 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5OX1RvT3Z5TnhOSFVrcExra1YzaGhoZTBHaGRoQVpOVVlxOHVUOXVyQ3NIVlREMnhmOVVVLVlpR0diZnJvTTdEaGx3SDlmb2MybUZUZ0VFRWJVUkxxRE5lbGNVWXZueDFNcXVjbEhaMXROS2pX?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T17:56:00+09:00",
-    "summary": "五大石油メジャー、四半期で480億ドルの巨額利益──現金備蓄170億ドル超で「超過利潤税」論争が激化 BigGo ファイナンス"
-  },
-  {
-    "id": "aead42ddbdfa8266",
-    "title": "アイスランド、ウクライナに80トン超のエネルギー設備を提供 5州で活用へ - Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE8ybFl6YklxOXBtYmI0UDVEU290a3c0bUlhcUxiQm50cmNHTW1adzlSVC1IY2kzV21tUk51dGdXaUJ3MFVhVld0b0FNT3JwQk9BWC1uazVITGdOY3Z1VlNxSms1WmJCdw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T17:55:37+09:00",
-    "summary": "アイスランド、ウクライナに80トン超のエネルギー設備を提供 5州で活用へ Межа. Новини України."
-  },
-  {
-    "id": "9e50f1118548c3c7",
-    "title": "円相場、対ドル１５８円４８～５０銭（読売新聞オンライン） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5paW1mcVZFYWRoYjg4dDQwU2NXbEJhY09Eb0k4TFctamNTZ1cwdWFmMzU5TWlMSVBGLU9NX3hXQnhhMXVvejRaTk9mRG5GeWVTa0Z5M2xhRGJQQXUzTmR6SUoxWU1BM00xa2swZUE2MVB0dzRaX2hyZXFfQUJ6OTA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:55:32+09:00",
-    "summary": "円相場、対ドル１５８円４８～５０銭（読売新聞オンライン） Yahoo!ニュース"
-  },
-  {
-    "id": "8c7d7944740535c2",
-    "title": "円相場、対ドル１５８円４８～５０銭 (読売新聞オンライン) - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVZtMlhMT01yV1pJN19HUl9SZjlPQ2NMelVOMm5nSDQtNTdtMnhGUldiUVY4dk9tWFNmcTVUYVZjSmpLTEJnVG1jd0pkakprcU11bVk1ZUlMbVJmcWR5UVRpSDdYQmUwLUN0TXZ5MWNqS25BaktUV1NJUlZqYkNDRkM5NXk1T1gxLVRycHhB?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:55:32+09:00",
-    "summary": "円相場、対ドル１５８円４８～５０銭 (読売新聞オンライン) Yahoo!ニュース"
-  },
-  {
-    "id": "c2d621cb2dd7716a",
-    "title": "日銀為替市況（ドル円・午後５時） - みんかぶ",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4wVVVaVkpfR3AxbWRtVGxNaFQ2REl2MEJUWWpiSHlZM1ZtazU4Ry1RUnF0YUpjMGN1RDhBcXBibzlBQTRMOVhNUA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:51:38+09:00",
-    "summary": "日銀為替市況（ドル円・午後５時） みんかぶ"
-  },
-  {
-    "id": "5668d0b4c1b8af16",
-    "title": "【なぜ今？】協調介入は日米の思惑が一致！？為替報告書にみられていた予兆とは？エコノミスト・永濱利廣氏が徹底解説 - 選挙ドットコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5Wmo2U2RfRDZfZEZUbzEwYnNUQ1BRcDBsd3N2cEppdlNENnJuSWN5MnJ1TmNDa1ZMVzl2ZFZWMmpmR1JzNlEyZ1VlQTdvVWhmOS0tZWRSc09NQi1zWHJ0R3ZHbw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:47:11+09:00",
-    "summary": "【なぜ今？】協調介入は日米の思惑が一致！？為替報告書にみられていた予兆とは？エコノミスト・永濱利廣氏が徹底解説 選挙ドットコム"
-  },
-  {
-    "id": "a8a8c1070d783162",
-    "title": "ベトナムの石油化学産業は、設備改修および拡張プロジェクトを実施するために6億ドルの資金調達を求めている。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTEIxWWpwVTJTaUsxQ1ljWm0zdmlTcW5xRmV0TElFcW9LVUFDTGppV19vUHppVG9PV3ZtUFoxdHJLWEJtY00zZW9ORzVuTG13NVNjaFdGY0FydUw3VFR1N3YyYWpnOEN2ODdmOHBZbEdOMnUzRkFyUXpucTJVWU9zbXJQaW84TjFORkpMUEhoREFYcnloOGpHRFBadV9VRE5maUlsWmFrNjBTa2dq?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T17:46:32+09:00",
-    "summary": "ベトナムの石油化学産業は、設備改修および拡張プロジェクトを実施するために6億ドルの資金調達を求めている。 vietnam.vn"
-  },
-  {
-    "id": "631efa5e217c8abf",
-    "title": "明日の為替相場見通し＝イラン情勢による原油動向など注目 - 株探",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBtRU1SeHFyYTEtbTRISHoxRVlwZTdXTzRIa0ZEOTQxTHU2SXVtTjI3cWZOdERVZm1mNEFjVGJSYlVKTEhlT3NvNE1lMU5pX1hlSVE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:43:00+09:00",
-    "summary": "明日の為替相場見通し＝イラン情勢による原油動向など注目 株探"
-  },
-  {
-    "id": "bfb35b12d7a979b6",
-    "title": "ホルムズ海峡再開の見通しが暗くなったことを受け、原油価格は再び上昇した。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSERUY2IwTjFnRTJsZ2pJTHdKRVZ0VGxOTXJ6V1dud2EyQmxyaFVZbFZvWDB2eTJHZkxnRGQ0Nl9iTFNqSnNNWGVfR1RtLVdaNVBNeTF3enFNdXdVVG9BRWRITTZ1Y2xlQW5wMnZiaEQyS1NNTUI1R0M3MFktaW43TUhTYURpb1ZpRk5sbExpOFFZLS1J?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T17:32:22+09:00",
-    "summary": "ホルムズ海峡再開の見通しが暗くなったことを受け、原油価格は再び上昇した。 vietnam.vn"
-  },
-  {
-    "id": "9683e71af4e5a5ec",
-    "title": "ホルムズ海峡の不透明感が供給期待を打ち砕き、欧州天然ガス価格が2%超反発 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9rQ1piV3U4VUFFVkRYdXl2aUxEYWVFNVU1RnRwVHUwamxiZFMwOGxwVHpLMzVrbnJFZm9QRjRoWTJ3bks2d2Q5amNoWEJnclJLS3lVTFpfTEhfVjJBRUxWb2JCZDZUMlh2Mi11Nm9RMA?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-08-10T17:31:00+09:00",
-    "summary": "ホルムズ海峡の不透明感が供給期待を打ち砕き、欧州天然ガス価格が2%超反発 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "69fa0215cb2b510b",
-    "title": "電気を購入する時代は終了！？東北銀行が太陽光発電で起こした「エネルギー地産地消」革命 - DXマガジン",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAtOXgxOUNzMEdkNTdmQ3lsS1R6Sjh3SHRBdDVJa2xTTlB2TV80NkptSFJ6V1JVSmhjTFhabHNCNFV1c3BXM2x1RzBONWdGeU9W?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T17:30:09+09:00",
-    "summary": "電気を購入する時代は終了！？東北銀行が太陽光発電で起こした「エネルギー地産地消」革命 DXマガジン"
-  },
-  {
-    "id": "258e1433665484d1",
-    "title": "ホルムズ海峡への代替航路を見つけるのが難しいのはなぜですか？ - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVHFRSmtHTHRfdEZ3YVlIR1JRRXFNcm9NWjlyYmFDTHFNWmVuSGh6cGNRbExfZmtaV2pJaHhZM2dHU3VvVVFVVlQxWnUyWlBjLU82TDFVSldCWkowdFZCdzRGT09kaHpvdGU2eGh1TGpCMzVTU0IzOGN6YkN5ZFR4bjd0bW5qRnly?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T17:28:54+09:00",
-    "summary": "ホルムズ海峡への代替航路を見つけるのが難しいのはなぜですか？ vietnam.vn"
-  },
-  {
-    "id": "688ac6cd49ed3bda",
-    "title": "画像11 / 12＞【コロナ対策情報付き】白浜エネルギーランドの楽しみ方ガイド！人と自然のエネルギーをテーマにした体験型テーマパーク - ウォーカープラス",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5NeVVQeWJJR3Z0alJFQ2xaNnBSaF9QVXo1MjFWZE9BUWhJajhCYi1xWm9fWjd4VF9meVZtQkVuTGJ6OTd0dmM4ZFdBVjhIT01EQmEtTFJSSkhIZDVvN1gyY0N1a0xPRGN3eUkzNUtn?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T17:27:08+09:00",
-    "summary": "画像11 / 12＞【コロナ対策情報付き】白浜エネルギーランドの楽しみ方ガイド！人と自然のエネルギーをテーマにした体験型テーマパーク ウォーカープラス"
-  },
-  {
-    "id": "1d1f2419282404dc",
-    "title": "欧米為替見通し:ドル・円は戻りが鈍いか、ドルに買戻しも材料難で 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE02VFVTVW01US1kQnhkNkpxcThYZnFXZGhvRnNhY2wyRFc1T0xUSzJwWkN2aUg1OUR5SjJOcEk5ZF9kbkFJazk5WmwxenFhbXMzVDFfMzRyczJXcVRjcDFVVWhXTUQ2OUk?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:25:00+09:00",
-    "summary": "欧米為替見通し:ドル・円は戻りが鈍いか、ドルに買戻しも材料難で 執筆： Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "cc37b3769fb9e694",
-    "title": "ＮＥＸＴ ＦＵＮＤＳ ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジあり）連動型上場投信[2846]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNTkdKdG5iNjBTUklWbVdjdEdlM01hMTZjRzI0UDZzVUlGenNuM1BuLVJ6MDVJWWFHMmhseHNXZENab3FqQ2lfb09iQWZ5ZlMzbDVDb3dGS3VqOXBPS0UyM2lPcklTWG93U01lclVaVlloamx5dDJFbVpsZWctREh2RFJLVlBTa1REdHltcFJSODhZSndWQkZpNEloNEQzYjFyNnRCTExQRVowWW1LUXNnUDJVZlpKYjk3Y1hKMG5UcDVId2VuSnhtblAydjk?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:20:00+09:00",
-    "summary": "ＮＥＸＴ ＦＵＮＤＳ ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジあり）連動型上場投信[2846]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
-  },
-  {
-    "id": "a1c69e1453d2ae9c",
-    "title": "ＮＥＸＴ ＦＵＮＤＳ ＮＡＳＤＡＱ－１００（為替ヘッジなし）連動型上場投信[1545]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPWkh4NmVncHVkMFNsWFltMUdRY1NWc0lSSWt4bkxpc3hsaWZvNE5sckNzWnBJZGpxaUsycmpfZjQtUl9COTFlQlM2c1loRkVLczRWSGJFQXYxazhkOTdtR0RFSnBuSkZKa3BSTVlDUURsSndfTE9KVlFSUVNkMHdsX3YxZFlOaWRQbVA0RXZwZV9EXzg2YlQzLVZid3NzVEFPMTZYbVgxZ0Z5dmlYczJNN09IemVxMzh1TmNVemxlQ2QxSWZ2VkdsQWpqa3E?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:20:00+09:00",
-    "summary": "ＮＥＸＴ ＦＵＮＤＳ ＮＡＳＤＡＱ－１００（為替ヘッジなし）連動型上場投信[1545]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
-  },
-  {
-    "id": "765dc56724c73316",
-    "title": "ＮＥＸＴ ＦＵＮＤＳ ＮＡＳＤＡＱ－１００（為替ヘッジあり）連動型上場投信[2845]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5WZzZTejZSTDdRV0VIZV9qRzZJdl9uMG5kcE5pclJiaVI2Uk1mX1RhQVl6ZmkxNmFvaTg4VVVfUjhJRjhUeUdqVjdZNXY1ZE1sZi1KZHpraHRyd1BIMUpMalg2SnZYLXhCWXc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:20:00+09:00",
-    "summary": "ＮＥＸＴ ＦＵＮＤＳ ＮＡＳＤＡＱ－１００（為替ヘッジあり）連動型上場投信[2845]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
-  },
-  {
-    "id": "d255ac6cc9430b8f",
-    "title": "ＮＥＸＴ ＦＵＮＤＳ ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジなし）連動型上場投信[1546]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHT3RzdC01a3NqdXlEWGI5d3VweVh5NzlmU2ZiYTBzVXBWMkdiQ3RfNzRnYlJzaFM3NExIXzR5RHhPUm5sZzNRV2k0YUdIa1hyWGZnMzJNT1JCZFFYWGJ4bXM4NEppWnN2b0E?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:20:00+09:00",
-    "summary": "ＮＥＸＴ ＦＵＮＤＳ ダウ・ジョーンズ工業株３０種平均株価（為替ヘッジなし）連動型上場投信[1546]：ETFの収益分配のお知らせ 2026年8月10日(適時開示) ：日経会社情報DIGITAL 日本経済新聞"
-  },
-  {
-    "id": "fbe05e2eebfa14ad",
-    "title": "通貨オプション ボラティリティー ドル円１週間９％割れへと低下 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBQZlhZaVl5elFkZUpOalFjd2xFZzhVLU02UnZZbkpWQXNpekNIWm9lWUFvNHNUcEJtbnBPV0RvaE5YNmQxWGdscA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:17:39+09:00",
-    "summary": "通貨オプション ボラティリティー ドル円１週間９％割れへと低下 みんかぶ FX/為替"
-  },
-  {
-    "id": "a8179c3cc5751115",
-    "title": "【9101.T FY2026 Q1 決算説明会】経常利益71.2億円、通期650億円上方修正 ドライ194億円・エネルギー239億円と爆発、NSユナイテッド買収でケープ世界2位へ - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1nWW8tbUQ5aUE3c09fRThObEowalZjaUIwcVVFQmJuM1FnODhpUGNzNXdDU0ZHQUV5WnRzRUtRSWJvbXVwVC14SzYtaGdNdHR4bThRVFBfZ3ZPeUpCMksw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T17:15:00+09:00",
-    "summary": "【9101.T FY2026 Q1 決算説明会】経常利益71.2億円、通期650億円上方修正 ドライ194億円・エネルギー239億円と爆発、NSユナイテッド買収でケープ世界2位へ BigGo ファイナンス"
-  },
-  {
-    "id": "996ea69687e75380",
-    "title": "東京外国為替市場概況・17時 ドル円、じり高(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdGVMOVVrQW1HWnZUU0NRRWZ5YkVkbDBKTG9oUkhvc0pBanlra3dDRmpJdmZ1aE56SmZfem1sT3NBMlZ0ZVJ3bWZsUmU4NDNuY1V1X2x6LVMxNUpuLWJGa1o4Nmp6Z1dtSFBzakZ3dkJ4UXVBbl9aeEtuY09vVnVnQWdJd2JueUU?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T17:06:00+09:00",
-    "summary": "東京外国為替市場概況・17時 ドル円、じり高(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "9d0af9b812554a63",
-    "title": "ADNOC Gas Unveils $8.2 Billion Expansion Push",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/ADNOC-Gas-Unveils-82-Billion-Expansion-Push.html",
-    "source": "OilPrice.com",
-    "published": "2026-08-10T17:00:00+09:00",
-    "summary": "ADNOC Gas, the gas business of the Emirati energy major, will spend more than $8 billion on its Rich Gas Development project, the company sa"
-  },
-  {
-    "id": "4937eaf3f46e0580",
-    "title": "【MotoGP】独走逃げ切りフェルナンデス、鍵はスプリントの転倒「あの怒りをポジティブなエネルギーに変えた」｜イギリスGP - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZTFNoTVc1T3JTWEdIajlFR1hOVnJ5VmtNY3VtTlRUbUVhdkR6VmlnQjI0cmhlRENTVHZZZ2M0SmI5aTRmc0dmZ0lMeC1MSVQ0SV91MndyN01RU0ZkZ1I5S1VGSnRUbjczdGdSd0dCVEhHU2lVMS13blhWU3FzQkk?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T16:50:51+09:00",
-    "summary": "【MotoGP】独走逃げ切りフェルナンデス、鍵はスプリントの転倒「あの怒りをポジティブなエネルギーに変えた」｜イギリスGP Yahoo!ニュース"
-  },
-  {
-    "id": "7b1eaf1064f0b0a6",
-    "title": "イラン 海峡の再開には米国の封鎖解除と補償が必要 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB1UC05T2lMQjJGV0RrZUtZRGVTakIyWE9xZER4MlRCZ29RN194MEtEcjFBQmdOZXYtU01GRVNOemZYYWp5QmI1bA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T16:50:40+09:00",
-    "summary": "イラン 海峡の再開には米国の封鎖解除と補償が必要 みんかぶ FX/為替"
-  },
-  {
-    "id": "6c280250375753fe",
-    "title": "電気代高騰を背景に中小工場の動力契約見直し相談が急増している - ライブドアニュース",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBMWC1GUkNIZ2g3eUNmb0huckc0MkJtMldUNVVJZWlpa0xHMDF4NXpQR0hnWGkyOVNBMjN6Mm1kVlBFenE3VkdIRjc3c2hkYWlpYV8xdHozT3RyalZ4ckVuYXFB?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-08-10T16:49:58+09:00",
-    "summary": "電気代高騰を背景に中小工場の動力契約見直し相談が急増している ライブドアニュース"
-  },
-  {
-    "id": "41c1b00f1f7ef9b5",
-    "title": "米雇用減少と原油高を見極め、独国債相場が横ばい 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBxbHpOU3E0ZGM4bFo1bEI2RDhUYkFLaXA3SzRnbWVpUVRvc0VGZTdNQW5FUjdFWnpiTVAxM21Pck5pSjNQRW11bENRaTkyZEp6VmVqZ1V1ZElOMVdDaWRpRjduR05RemM?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T16:45:00+09:00",
-    "summary": "米雇用減少と原油高を見極め、独国債相場が横ばい 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "612557dd62845f70",
-    "title": "LNG気化器市場分析レポート：2026年272百万米ドル規模、成長率4.5%推移 - アットプレス",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE4tUmsyc3BNRDVRMlJ4cXE4U3RNZUVtYVl5OGx0T0JPRGJkVkk0bkJ2OGJwRFlHaXpzMUZ3SjZCX0hlN3JTLUpkQXpJbS0wWkE?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-08-10T16:45:00+09:00",
-    "summary": "LNG気化器市場分析レポート：2026年272百万米ドル規模、成長率4.5%推移 アットプレス"
-  },
-  {
-    "id": "53ee43fa4fcd3235",
-    "title": "テクニカルEYE（ポンド円）＝大きく下落してきた反動から、堅調な推移か - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9YaFJNSU9NSGZBV3hybmp5Z29vTzBrbFJXNFI3TjJyTEZLbUlkUkVNMnJjSmNmVkJ1Q1RqcGtNd09hU2tHR29LaA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T16:38:40+09:00",
-    "summary": "テクニカルEYE（ポンド円）＝大きく下落してきた反動から、堅調な推移か みんかぶ FX/為替"
-  },
-  {
-    "id": "24e69a34243f7825",
-    "title": "ドルが小幅反発、原油高と米インフレ統計が市場を左右 - Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1iVFpjVFZTV3ZpWXN0WUtMdTlNV21GM0xtcHN2UlVValNaSzlpOXM2b05FMTYwMjhzQ3V3elBoVXFtUVBtZmVUNFluQWoyczlfQkloRk9GZlBLZVJzT0ZYaHM3Z0lRZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T16:35:15+09:00",
-    "summary": "ドルが小幅反発、原油高と米インフレ統計が市場を左右 Межа. Новини України."
-  },
-  {
-    "id": "1f646702d9c59176",
-    "title": "サウジアラビアの石油精製施設は引き続き攻撃を受けている。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNkFXX0Y3T3l6SWdfN3dMVmFsMW5qcXdsT3B3RTBoMmprZnprbHlWY3VhNGRWWFRQR3EzRmEwOW5WdmdGLTEwYzVIUXFOLUs3by02aW12cTI5TEJNcUpLUWZTNmlnRGdMYUhzcHUtLUhVZmpIS1BpcHZhNFh3dUNzX0YxbVo2UQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T16:32:12+09:00",
-    "summary": "サウジアラビアの石油精製施設は引き続き攻撃を受けている。 vietnam.vn"
-  },
-  {
-    "id": "49a7622449bc71f0",
-    "title": "ドル円１５８．４５近辺、ユーロドル１．１５５５近辺＝ロンドン為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9mSTMtTmd4UlVwam5BNVpEVlBMR1Q4ZXBOQXg1dEJSSnRIOEFKMUMzeXBLXzYwUlJaUFAzOEpfX2ROdXhHZTlMaw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T16:31:39+09:00",
-    "summary": "ドル円１５８．４５近辺、ユーロドル１．１５５５近辺＝ロンドン為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "4f92b5d79fbf144a",
-    "title": "三菱総研 2050年「原子力3割」に経済合理性 - 一般社団法人 日本原子力産業協会",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1zZWhFbVgtOXF4aWp0VkQ2cFc0NUVrdzhndXlQcGRsYmZackkwTlU1Sk1jWU45LUtYel9qV3lxQ01rRmFtUGhRRWplaHE4TnJIZmxkRHVXN2V0alE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T16:31:21+09:00",
-    "summary": "三菱総研 2050年「原子力3割」に経済合理性 一般社団法人 日本原子力産業協会"
-  },
-  {
-    "id": "e065eaaba97c7f7f",
-    "title": "テクニカルEYE（ドルカナダ）＝１．３８９９を割り込めば１．３８６７を試すか - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBIc1lNNGFWYWdXbXRaM05YRG1PWDFGVTZYU3NoQm1PMmpsbHVmZVhkOUQ0aW9UUE1yZEZTRXZPZk9QLWRzcEtJTA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-08-10T16:30:40+09:00",
-    "summary": "テクニカルEYE（ドルカナダ）＝１．３８９９を割り込めば１．３８６７を試すか みんかぶ FX/為替"
-  },
-  {
-    "id": "83aaad39f5d0325e",
-    "title": "フーシ派がサウジアラビアの石油精製所を攻撃。 - vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE00RnhDaEpzb085eW5LZXBfNkUxYjZGY0JIc2RqQ1NFeVNWMFNVSDNOUGpxQXQwbHNOQTJvY1ptM0JTNDVpZGxOU2x3VXZIZUtac3dsZHFGdUZINWpJSnJjTjN4NG5QRUxLRm9Vc3A1b214UVh1T2dITg?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-08-10T16:28:06+09:00",
-    "summary": "フーシ派がサウジアラビアの石油精製所を攻撃。 vietnam.vn"
-  },
-  {
-    "id": "2f16448d45bfc0fb",
-    "title": "韓国電力公社傘下の5発電子会社、REC購入額が初の2兆ウォン突破…RPS義務負担が増大 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwMG1WbHVaLTcxbGxmcGMxNUJncTE3cm9mTElUeXN3LUgxVmpQZkZocjFLMXV5S0piTms4WFF3QXJ4NXhOU2oydVozeTBNWC1WMW1CcWlvc0w5NTk3c1h2VUtFdFRnSXFxLTYzREx4QndpUnBI?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T16:25:00+09:00",
-    "summary": "韓国電力公社傘下の5発電子会社、REC購入額が初の2兆ウォン突破…RPS義務負担が増大 BigGo ファイナンス"
-  },
-  {
-    "id": "01eb60fda248894b",
-    "title": "核燃料調査レポート：市場規模、産業分析、最新動向、予測2026-2032 - アットプレス",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5oeW1vVVh4ZmxHVFZ0YUkwMXE5RGZCaFhmQUZKemhJMThlRHFEOE9BbkZGN3hCOXdTYzV6QnRZMmRmSVBDZ01ibHg5TGtZOEk?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-08-10T16:22:00+09:00",
-    "summary": "核燃料調査レポート：市場規模、産業分析、最新動向、予測2026-2032 アットプレス"
-  },
-  {
-    "id": "6effd675191dc772",
-    "title": "約9割が「電気代に負担を感じている」と回答 1カ月の電気代は「5,000～10,000円」が最多 - AMP[アンプ]",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1NY2g3T1pvX3V6dk10ZHExWkxPRXFmbkdRbnd6QmhGQUpxUE82UHcxcm9DQnBRRjFxMzlrWkRXVFpzR3dFM0ZVRUlmVUd3V3N3eF9SUE94dzY?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-08-10T16:19:44+09:00",
-    "summary": "約9割が「電気代に負担を感じている」と回答 1カ月の電気代は「5,000～10,000円」が最多 AMP[アンプ]"
-  },
-  {
-    "id": "491c966c1ceaf679",
-    "title": "約9割が「電気代に負担を感じている」と回答 1カ月の電気代は「5,000～10,000円」が最多 - Excite エキサイト",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE5aTHl4ZmRlVGxzQ0xURHlDWk40SkR0VmYwUHNyTC1XTnpvRTdPN29objhOR0tmbzdnZmY3RmJadGl5OWZGZjY1a0hvMi1wRS1lTjF1aXk3TVQzRG5D?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-08-10T16:18:00+09:00",
-    "summary": "約9割が「電気代に負担を感じている」と回答 1カ月の電気代は「5,000～10,000円」が最多 Excite エキサイト"
   }
 ]
