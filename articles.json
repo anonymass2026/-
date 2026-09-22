@@ -1,11 +1,459 @@
 [
   {
+    "id": "916213ad468bb119",
+    "title": "為替相場 23日（日本時間 3時） - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdmo5MmFPckFwM1JkdjROODJxRVF4YWV0VXl1X3BfTXRFbkRVTHY0YUFrRTNIQ2l5bmp5WEsyaUxzQkNweGNZSnV5bXhHVFU1YmxLaDMzM1V6YmpQOS1hWl96a3VzeXJLWjA0SkNDcXhHenBnVnktNHFmV1oxdFI2OGpIcDlqR3lsRzZfbkFB0gGTAUFVX3lxTE95bnd0cmgyWlFtdlpYbzJ6dGJTb0RwcGlyUFR0cnl6Y3RsU1hING9QM3ZiTGZSNnd3a1ljbXMzYl9ua0JHTFc3X1JROEltT0pCdGlPel9oOXF1Rzd5OHEyRGZLZnN0WlhBT19OSXlHaXJzRWZIMEc1bTByQ1hHaHNFcHJOTTVzcFY2TUgxZVE3c28zbw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:10:39+09:00",
+    "summary": "為替相場 23日（日本時間 3時） ｄメニューニュース"
+  },
+  {
+    "id": "f055ddd99b365bca",
+    "title": "高市首相、米時間本日午後にゼレンスキー大統領と会談へ - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wYUlvYWpwNjhJWi1ZRC1fXzZSVklzcVJuaktHa193eWtfM0hYYzU0VFRENFg0N0U3LXdPOGJWMTFSSEdfX2JNdw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:06:57+09:00",
+    "summary": "高市首相、米時間本日午後にゼレンスキー大統領と会談へ みんかぶ FX/為替"
+  },
+  {
+    "id": "04d2e32b5ddc2a5f",
+    "title": "為替相場 ２３日（日本時間 ３時） - fukuishimbun.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5IdHVLRzE1c1MtcEktbjZVOTVaYlVZWWRNOVdhMWVaWmJnR1BLZDhja3BScUFVSDBGay0wMXp4UDdJa3lGQmVyNDZiWEVzVjRBYmROV1oxNVRucW92OVE?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:42+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） fukuishimbun.co.jp"
+  },
+  {
+    "id": "6d8a457b1944ad89",
+    "title": "為替相場 ２３日（日本時間 ３時） - 沖縄タイムス社",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9hX3ZsNmM5UnRSZzVqdXc4emw2MkxVY0t2ZGMyY0FCNkt2NUFhYlhPemotcFZnZFhhWWcyX01fZUYwWUNGekFLOXhCcWVsV0NKRUFPc1lDbC1udFRIZXc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:42+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） 沖縄タイムス社"
+  },
+  {
+    "id": "7ea7c86ce20deeed",
+    "title": "為替相場 ２３日（日本時間 ３時） - nnn.co.jp",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5CNFo3NUxxaG1YbjViTjRjeTdIMGFRMzVtd1BSX2ZwNXk1TEVOWk1ocmkyM1JEbHQwZnc3bVgweDJrZEZPUmxhQ1hoZTZOZTNY?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:42+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） nnn.co.jp"
+  },
+  {
+    "id": "fe2004ac16def903",
+    "title": "為替相場 ２３日（日本時間 ３時）｜全国のニュース - 北國新聞",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmaGFBOE9fTVVpVmgzb3dOMUJRQzFseFFpSjNoWDByYWVfQ3htcFg2Ul85aktpWHhrMm1VV1RpNGhCc2oxUFpnVWV1LVNXRHJEc1o2MmFUYw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:42+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時）｜全国のニュース 北國新聞"
+  },
+  {
+    "id": "c002ac11f2c28ae9",
+    "title": "為替相場 ２３日（日本時間 ３時） - 琉球新報デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SblpJQVN5QWtXRXduVlluUEhZeExDX2R5emgxdEhHR0VmOWJnUFd2cEd4LXUwMVR2T25ETzJnNUNjYnIydE0wWmo3ZVUxU3FYMzZGQlY1Vnd2MEJ5?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:42+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） 琉球新報デジタル"
+  },
+  {
+    "id": "f4ef7957292f8446",
+    "title": "為替相場 ２３日（日本時間 ３時） - 佐賀新聞",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9DdE50WE5RM1NaRlhmNVg2S2I1dEZUbFoyYkFFdmtQVFFSbGlER0tVUlZTYU1teUlsS3VEU2h5YlVkTWhPSVE2ZmpPWXludmNKWG96ZTlR?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:00+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） 佐賀新聞"
+  },
+  {
+    "id": "f21cee67240462e7",
+    "title": "為替相場 ２３日（日本時間 ３時） - 埼玉新聞",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBVMG9zc1VHRVFtb2Voc1Jram1PNHJ4UER3eUMzOEZodlZqOTdPN2loUUZ4UkV3U0FEUzYxa1RZUFRZc0pGc2FXX3dSeVNJeE9xZ0JMZWl6UQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T03:00:00+09:00",
+    "summary": "為替相場 ２３日（日本時間 ３時） 埼玉新聞"
+  },
+  {
+    "id": "80d379efbfd07693",
+    "title": "Nuclear Safety Brings America Into Russia's Uzbek Energy Project",
+    "link": "https://oilprice.com/Energy/Energy-General/Nuclear-Safety-Brings-America-Into-Russias-Uzbek-Energy-Project.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T03:00:00+09:00",
+    "summary": "Uzbekistan still wants Russia to build its first nuclear plant, but when it comes to safety, Tashkent is turning to the United States. Meeti"
+  },
+  {
+    "id": "9acba6e40377848e",
+    "title": "速報：原油価格の変動を受け、株式市場は日中混調 - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPeWlNMVpVa2VfWGc4MUkyeW1BRDJaR1o4QWxRT2NESDd0cUN0d1JLelJDam4waV9ucktaWGFBcjh4ZWcyR1Fmd2VKWGFxWklaQnpUdmpxQm1MOUdCQ0xOU2lZcXF0X0xaME9WRlhRWXhMVlJUS3RZZXpESHU3bjZxZWNHeXFlWmM1S2xkS1p3LU53U29ucF91RHlpeGQ5TlpXTG9R?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T02:50:36+09:00",
+    "summary": "速報：原油価格の変動を受け、株式市場は日中混調 Moomoo"
+  },
+  {
+    "id": "9bb6df5dcb498598",
+    "title": "向こう１カ月のドル高を見込む動きが強まる＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ndk9wNXJGM1k3Y2FVQm1vQUQ5ZmpZZkJ2clBubzhIb0hLMm95ckFKaDZyRjV3MGVoS0dDWWRud29kX2lJZ2NLXw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T02:34:57+09:00",
+    "summary": "向こう１カ月のドル高を見込む動きが強まる＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "f9455764bd6efef7",
+    "title": "India’s Russian Oil Imports Slide as Refiners Hunt for Alternatives",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Russian-Oil-Imports-Slide-as-Refiners-Hunt-for-Alternatives.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T02:30:00+09:00",
+    "summary": "India’s imports of Russian crude fell 16.5% in August and are expected to decline again in September, just as a new U.S. sanctions law gives"
+  },
+  {
+    "id": "122b2da92c5c7c4d",
+    "title": "米銀が原油150ドル超えを警告 サウジ輸出ルート転換が短期的な値下がりの鍵に - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE52U096dmN4QXMxZUJ3UUo4QmszbTBuNE9iZWd5S0FpTVpsMGx0cWoxU2JXRXhBRE0yeFY2dUY2cHhCWmFPV3F1UmZiWEpXV1BXZDJQYS1Wa3Utd1BxR0NwSmZkVzZFMHhrUkI5RWdfZ2p4ZTZP?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T02:25:00+09:00",
+    "summary": "米銀が原油150ドル超えを警告 サウジ輸出ルート転換が短期的な値下がりの鍵に BigGo ファイナンス"
+  },
+  {
+    "id": "295874fb6bd96e63",
+    "title": "欧州主要株式指数、まちまち｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tdXU4TTZlSDc1VkpHSkk3V1laWG95V0M4bmFySjRBRTJMOGVPMmxlUDhZNFd6NFdtMnY3Zi04WklSd3lobnBtVGk5QVFLRWpaM2c?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T02:15:00+09:00",
+    "summary": "欧州主要株式指数、まちまち｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "d54c0e5fd2d4931b",
+    "title": "米２年債入札結果 最高落札利回り ４．７８７％ - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8tQ3JUVTlMUWVXdTR4Ul9LWkZMeW9vVXktTTlpOTI3VjVxQWJYeUZ5aVJRVldSUmt4UUlWQjlVVkNTRVNDZTYyZg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T02:11:57+09:00",
+    "summary": "米２年債入札結果 最高落札利回り ４．７８７％ みんかぶ FX/為替"
+  },
+  {
+    "id": "140589aa2b128747",
+    "title": "サウジの原油パイプライン再開 輸送量の関税回復には数週間か - FNNプライムオンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9YVmJkdk5KVDRFaTZ4RUktbkpLTnVEeU1WQ0dEZmtLQkRWMmh4ZTBvME82Qi1qcDkwV2N0cm11bDdnWVBTWWlfXzI4R1ZXUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T02:10:00+09:00",
+    "summary": "サウジの原油パイプライン再開 輸送量の関税回復には数週間か FNNプライムオンライン"
+  },
+  {
+    "id": "547a14d7ceacd149",
+    "title": "米イラン交渉に進展の兆し 原油続落、欧州株はまちまち - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0tRHdCTXFkcTM3WE91eC1wc08teklCNlhRemhpbHZfcU9IMklUaERrUm5jb21zc2dmU0dUS01OcjJZX1hWZmVwTEhqeGs3QWZuMFdpcVRVQjYwLTB1ZEp0MHlIZlBvRXJJekZrNDJIb1Q2N0o4?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T02:05:00+09:00",
+    "summary": "米イラン交渉に進展の兆し 原油続落、欧州株はまちまち BigGo ファイナンス"
+  },
+  {
+    "id": "b32ebd4665ca4cc9",
+    "title": "ニューヨーク外国為替市場概況･2時 ドル円 底堅い｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83bm43cUpRVm5VOGdJOVh5bkw3VTF1THQ0MUZKMnowNHEyQlhmbmFXZjB1cXREejF4Y0RHQmItNXQ1UlNoYTk0LW1WQTRqRE9yc1E?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T02:05:00+09:00",
+    "summary": "ニューヨーク外国為替市場概況･2時 ドル円 底堅い｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "52485a5d88091d4d",
+    "title": "為替相場 23日（日本時間 2時） - 47NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5ZLXNvWXRoYVczWnM5bjBUV1pjcnNzcGJUODg4YWRTOERMRk9KQktHVWRYdlBvd2tPSU9SaTNIT0gydHR5QWhyWElaYw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T02:00:00+09:00",
+    "summary": "為替相場 23日（日本時間 2時） 47NEWS"
+  },
+  {
+    "id": "7b9adfb5d8951b80",
+    "title": "Beijing Tightens Rare Earth Flow Ahead Of Washington Summit With Trump",
+    "link": "https://oilprice.com/Metals/Commodities/Beijing-Tightens-Rare-Earth-Flow-Ahead-Of-Washington-Summit-With-Trump.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T02:00:00+09:00",
+    "summary": "Chinese President Xi Jinping and President Donald Trump are scheduled to meet in Washington on Thursday. UBS analysts quoted chief China eco"
+  },
+  {
+    "id": "32838affccd664b5",
+    "title": "H2SITE、Enovaから340万ユーロ（3,910万ノルウェー・クローネ）の資金を獲得、商用海事用途向け船上アンモニア発電を拡大 - Business Wire",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBNZHVvZko5dldBUmlHM1h1ZXRVU1FfSXdic1pZRHdXVFdIQngxSFFZSURuQzB5M3RKdlBmc2psa2Y1Qkl6dkNUdUxpWVBUaTJDNEJkWjEwcVo4LW5ZbDN1LVdKUG82dnM?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-23T01:52:00+09:00",
+    "summary": "H2SITE、Enovaから340万ユーロ（3,910万ノルウェー・クローネ）の資金を獲得、商用海事用途向け船上アンモニア発電を拡大 Business Wire"
+  },
+  {
+    "id": "3a5a7ba6fd19dc00",
+    "title": "欧州株 終値 まちまち - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9WNzRpVU54Q2ZZZThQQnJUQWVvMHhRQjNjLXEzWDZDMVBYY1FZOVppTE5vUTE5V2JvTVlBeGxrRi1sTlB1aXZEbA?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:43:57+09:00",
+    "summary": "欧州株 終値 まちまち みんかぶ FX/為替"
+  },
+  {
+    "id": "e9aba745db3acdcb",
+    "title": "東京為替：ドル・円はほぼ横ばい、ユーロ・ドルは下げ渋り - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4yXy1DNVpjalhoTllhdHhLbjNuQmlzT1dxMzZLQTY0S2REVVVSZDA2V2ZGU0lDSWd5TkNtaUFjb3NodXVqOHVUamg3YmY5OXRVZGtKVTh0azR2Q2s?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:33:12+09:00",
+    "summary": "東京為替：ドル・円はほぼ横ばい、ユーロ・ドルは下げ渋り Moomoo"
+  },
+  {
+    "id": "ca94d58b6ea320e9",
+    "title": "モルガン・スタンレーがエネルギーサービス部門のトップ銘柄を選定 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBmc0d4eVRnS3JBa0tXQWFfVWdrUHJuRl8zV1A0SHdKc0ZJVENzUkR1N1gtU0puTXFGT2x0VXBHWHpieDh0Um1scHBWWW1XWm9PQmdwcEdiMFhuZzNvOWppbUhaTFE5Q3djRGtxZi1Ma21Id3ozaGhj?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-23T01:27:00+09:00",
+    "summary": "モルガン・スタンレーがエネルギーサービス部門のトップ銘柄を選定 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+  },
+  {
+    "id": "852ec54173e853e4",
+    "title": "ポンドは対ユーロで下落の可能性 英中銀とＥＣＢの金融政策の違いが背景＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ndjlFZGNqZXE5MDBsN21Oc2t0b3FULUpFa2dQclEyMkJ6WUVFTEZsTVNqU0ZiQmVQRnRqQWI0Z0JGanhGakJIaA?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:25:57+09:00",
+    "summary": "ポンドは対ユーロで下落の可能性 英中銀とＥＣＢの金融政策の違いが背景＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "e41f7df550aa0c5e",
+    "title": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDTjlOZzdQUEdTdXdtbG1meUpMcWtGZmZhdmhuYkhadW1qbURDdkpYMTB2TWF6cWYwSzdTQVlpZ0pXbzZuVl9QMnlFRlFHRC1wMTZydw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:21:50+09:00",
+    "summary": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 Yahoo!ファイナンス"
+  },
+  {
+    "id": "73911929c535b1a0",
+    "title": "円買い介入のタイミングは円売りの好機＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFAtVElMN0ptTnF6SEdLX0l1dXVXclVYTUJmWEtmLWduengzbVY2TV9vMjlRdHQ4bFpTWFdyeU5JdnFYUmFRMkU2RQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:19:57+09:00",
+    "summary": "円買い介入のタイミングは円売りの好機＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "fb6a0fb24cff483c",
+    "title": "原油高騰のカギはサウジアラビア？ 親イラン武装組織“フーシ派”に狙われる国営石油会社「サウジアラムコ」 同盟関係のアメリカは“攻撃は当面見送り”【news23】 - TBS NEWS DIG",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9Lajh4MzROdS1OZEJXdUk3WF9HZ2FESW5uUE9mRXRxWEk3NkY0MFZfd2J4WjRXQUdGTGxsWlZYQVRHSElUbEJxd1lXQnFSRktGTGRwVjJPQQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T01:17:19+09:00",
+    "summary": "原油高騰のカギはサウジアラビア？ 親イラン武装組織“フーシ派”に狙われる国営石油会社「サウジアラムコ」 同盟関係のアメリカは“攻撃は当面見送り”【news23】 TBS NEWS DIG"
+  },
+  {
+    "id": "dbe9223827c22c10",
+    "title": "ＮＹ各市場 １時台 ダウ平均は２６０ドル安 ナスダックはプラス圏 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1TYWh3SnRFT2JONXQxQkF1TkVqTFg1bnEyZFlNcThyeVF2Rm83N2NkNkhiNDUxQUFjMEtfclJOd1RaYS1JaE1qeA?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T01:11:57+09:00",
+    "summary": "ＮＹ各市場 １時台 ダウ平均は２６０ドル安 ナスダックはプラス圏 みんかぶ FX/為替"
+  },
+  {
+    "id": "915e350efd22ce4c",
+    "title": "Saudi Pipeline Restart Fails to End Oil Market Tightness",
+    "link": "https://oilprice.com/Energy/Crude-Oil/Saudi-Pipeline-Restart-Fails-to-End-Oil-Market-Tightness.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T01:10:00+09:00",
+    "summary": "Saudi pipeline flows resume, but soaring freight and diesel prices signal persistent oil market tightness. Oil Freight Costs Explode as Gulf"
+  },
+  {
+    "id": "930440219136e126",
+    "title": "Saudi Arabia Restarts East-West Oil Pipeline",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Arabia-Restarts-East-West-Oil-Pipeline.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T01:02:24+09:00",
+    "summary": "Saudi Arabia has restarted its East-West oil pipeline, restoring at least some flow through the 4-million-barrel-per-day route that had beco"
+  },
+  {
+    "id": "46e343dd6151e00c",
+    "title": "Europe’s Offshore Wind Slowdown Is Squeezing Manufacturers",
+    "link": "https://oilprice.com/Alternative-Energy/Wind-Power/Europes-Offshore-Wind-Slowdown-Is-Squeezing-Manufacturers.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T01:00:00+09:00",
+    "summary": "Europe’s offshore wind monopile market is moving from concerns over insufficient manufacturing capacity to a period of weak factory utilizat"
+  },
+  {
+    "id": "2f42c6c205761cc1",
+    "title": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBzbWxqc1ltSU1ndEE0VElnZldUTGdyRVJpOTdKeXBsc0RDSm40dm9kLTJqaDZlOVpoR2E5eEZIX1o0bFR1SFR2N2k4WjRiTnN5dHVBTHJn?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T00:43:41+09:00",
+    "summary": "米ドル/円【USDJPY】：外国為替相場FXレート・チャートをリアルタイム表示 Yahoo!ファイナンス"
+  },
+  {
+    "id": "196db8f6b1b060bb",
+    "title": "メタのAIエージェントがテック株高を牽引、原油安と外交期待が追い風 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zal9ESDMyM2NFZW9aQVFtUzJreVBydGZ6T2kyOFdTVmh0dFBtZFprMWJpX19rUmpKaEJiRVZPNlFDN0Z4bVZkNDB5X1AxR1BSMWtvdmxzWTV6NkhodnF1ekpJV3E3MXNlNHIyY2Vkbm9tZk04?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T00:35:00+09:00",
+    "summary": "メタのAIエージェントがテック株高を牽引、原油安と外交期待が追い風 BigGo ファイナンス"
+  },
+  {
+    "id": "1e8a05100bb34c31",
+    "title": "UK Gas Prices Force Ineos to Idle Three Chemical Plants",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/UK-Gas-Prices-Force-Ineos-to-Idle-Three-Chemical-Plants.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T00:30:00+09:00",
+    "summary": "INEOS is idling three of its plants in the UK as soaring natural gas prices in Europe make operations uncompetitive, the chemicals giant sai"
+  },
+  {
+    "id": "f37cbd3474dc14ef",
+    "title": "ホルムズ海峡再開期待で原油急落…Nasdaqは取引時間中に史上最高値 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9sNlgtTDZKUmVfajY2UG50YVA2Tmd6ekhGeTJiN1JmS0pybGRxOGI2d3ZGZ0VQMERlY3ZRc2xkYS1tTGRHZkFVTG5TVDBVR1U5cFoyTHhkR2lHZXljb2NiVE9JeVozUTBRZ1VSVEdSNExqXzNs?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-23T00:25:00+09:00",
+    "summary": "ホルムズ海峡再開期待で原油急落…Nasdaqは取引時間中に史上最高値 BigGo ファイナンス"
+  },
+  {
+    "id": "2ed374bbf36b7465",
+    "title": "発電能力100ＧＷ増強へ 再エネ比率70％を計画 - じゃかるた新聞",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kRDVUN09oN245cUpnWmw4bzVSNlVLM29WZDJUaWhMWmhzdkkzQkc2RW1QYS15VkdUZFpxci1HYnlSOHBUUzFsM3gwWXNaTXZaU19IRy1ZVDk1TXNnTWY1aHdXcw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-23T00:19:43+09:00",
+    "summary": "発電能力100ＧＷ増強へ 再エネ比率70％を計画 じゃかるた新聞"
+  },
+  {
+    "id": "34f0ab31698cabf7",
+    "title": "ＮＹ各市場 ０時台 ダウ平均は２１２ドル安 ナスダックはプラス圏での推移 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pVFFjSnRJTS1lWVN3Yk5JNU9qQzZKTzZuTDAwWTAzTDV4Q2JmZHhxeFlTbDQ5QVNIUzhYLWhGaWw3T1ZqMjljVQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T00:08:57+09:00",
+    "summary": "ＮＹ各市場 ０時台 ダウ平均は２１２ドル安 ナスダックはプラス圏での推移 みんかぶ FX/為替"
+  },
+  {
+    "id": "c2ee10e645392efd",
+    "title": "ニューヨーク外国為替市場概況・24時 ユーロドル、頭重い(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZmYzNzlUaG9MZTZSVkQzZGVsMHViVmF5dTUyZE5WMFlKYlRjYTVmUjkxdUlCVDRtTFBpbXZyS004eEtRTFdPVk0wY3ZlTE9yZzkxRjhiY09fM29zMXRaX04weW5FR0ZWUEFBeGxONVdEVWhKSmYyUEdHTEFLbGJpX3NvTkhkMWM?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T00:06:03+09:00",
+    "summary": "ニューヨーク外国為替市場概況・24時 ユーロドル、頭重い(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "d111aab2d5d6e1c9",
+    "title": "ＰＴＴ、ＬＮＧ 供給安定とネットゼロに注力 - nna.jp",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5UbFlkcUt6UTBSc0hWNUE5WjF4SkNaaENyYXZ5azZ0a1NOdnhQMkVvNEhEa2FuUUxWN19RVVlpVGFMb1pienc?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-09-23T00:04:27+09:00",
+    "summary": "ＰＴＴ、ＬＮＧ 供給安定とネットゼロに注力 nna.jp"
+  },
+  {
+    "id": "2d12efb144e5fa1d",
+    "title": "EU、データセンターのエネルギー効率規則を提案 - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZkJmbmVINVh5TGRaRjBVRnB0U1hMOTdETzRhQmNmaWpSR1I0eHJMOERRa01CaXBfTUl1aUlGelZXSlBvN0dldHY5ZHkwSUdxWTQ2Z0RaUnNnQ2hTcHRGSUJueWJsUGI2N1gtNWJ5Y0MyWVgyc2t4bjFMQVNONFB5dUgwN1ZhN2VyOFp5eVpn?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-23T00:00:27+09:00",
+    "summary": "EU、データセンターのエネルギー効率規則を提案 IndexBox"
+  },
+  {
+    "id": "7be5aeec9081c40d",
+    "title": "【マーケット情報】商品市況・為替・株式（2026年09月22日時点） - nna.jp",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9Nb1hmd0g4RHpGZ3VVQU4wbFI4Z2RVYlpZWFN1RUpDZjdVN0ZsSzlxTkZuRjRPTFluSEhxLWtadFZXa3BQemc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-23T00:00:00+09:00",
+    "summary": "【マーケット情報】商品市況・為替・株式（2026年09月22日時点） nna.jp"
+  },
+  {
+    "id": "4d2d0d12deee1424",
+    "title": "Why Utility Profits Could Be the Next Target",
+    "link": "https://oilprice.com/Energy/Energy-General/Why-Utility-Profits-Could-Be-the-Next-Target.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-23T00:00:00+09:00",
+    "summary": "Electricity prices are heading up. Utility operating costs, raw materials, and fuel (obviously), are all heading up and no sign of stopping."
+  },
+  {
+    "id": "704cdb01370b175f",
+    "title": "S&P500種最高値付近、米イラン外交期待で原油下落－円は157円台前半（Bloomberg） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RaS1oTmlSMVRRRGV2dk4zdDFSN0NCckJ4cTJ5ODFQYlNpWlhJdFZoMXdoZGpvS0d2ZFYwcFA0MjhWYzNiQVF3OEN4WGNQelFnRHhzZXhXbmxsLWl5cmdwQjlWTFdZdmZKTUpiVEVjeDVDeUwwNTF6cUlzQmpDUGs?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-22T23:35:08+09:00",
+    "summary": "S&P500種最高値付近、米イラン外交期待で原油下落－円は157円台前半（Bloomberg） Yahoo!ニュース"
+  },
+  {
+    "id": "a74a950d4b533dea",
+    "title": "【トランプ米大統領】「私は、イランに合意を促す」｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9RX2NaU3ktaWZfVU9kQnJhbWwtOFc2T0NoaUZQLXpWeTBiTHEwem9QcUxuV3J2bkh0MlFHWVE4czNfTlMyaE5mb3JfcTIxbFFFaXc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-22T23:35:00+09:00",
+    "summary": "【トランプ米大統領】「私は、イランに合意を促す」｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "7495a9ed944efd40",
+    "title": "Libya’s Largest Oilfield Hit by New Armed Group Blockade",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Libyas-Largest-Oilfield-Hit-by-New-Armed-Group-Blockade.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-22T23:30:00+09:00",
+    "summary": "Crude oil production at Libya’s largest oilfield, Sharara, has slumped over the past day after an armed military group closed a valve on the"
+  },
+  {
+    "id": "fbfd7a3add910f87",
+    "title": "NYダウ、一進一退で始まる 原油安支えにナスダック総合は続伸 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBLQ3BNSXdBRVc2UGJjanF0MDgxUkM1Q245aVNwYTdHUGhpU0ZLN0hKOHN2MWQ5blBWTzVFcGZNSU9IOXFrSG1HbjFDRnhBNGVTOC1wTkdCWnEzcmpaRElnU3Y5ODRVZDVFTThERA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-22T23:28:25+09:00",
+    "summary": "NYダウ、一進一退で始まる 原油安支えにナスダック総合は続伸 日本経済新聞"
+  },
+  {
+    "id": "148ef4d3d68638bf",
+    "title": "サウジアラビアが東西石油パイプラインの運行を再開。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQVlhweEVJa2czYjhSTlRUQWEwWGVVcC1KOUg1UlUwWHMzMkNZbkxmU044M0RTTkQxYXNTMUVhdm9ZOUMxdE5CR2dQVS1wbU9Rd0tCVVJaQzZMZUVwbDZhS0lyNFRkODAwelBsTktHOThKQ2t2NmVzeDdHRmRRSVBjOTMzZWtaUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-22T23:18:35+09:00",
+    "summary": "サウジアラビアが東西石油パイプラインの運行を再開。 Vietnam.vn"
+  },
+  {
+    "id": "6b8e0758206e9e3b",
+    "title": "ユーロ圏経済指標【消費者信頼感指数（速報値）】 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBnYlhEVzdoUmE5VE00czZ4Ml9TSmJOLVpQS3hUWWJCOFAtQ09wVmprdjJHS2dSR1NMWE1kWFl3M1hoNE5PTHQ2dw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-22T23:03:57+09:00",
+    "summary": "ユーロ圏経済指標【消費者信頼感指数（速報値）】 みんかぶ FX/為替"
+  },
+  {
+    "id": "220e448d6496f149",
+    "title": "米経済指標【リッチモンド連銀製造業指数】 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5OTzFwVDRLNUZESHUwNXdPd3BSdTdBczBQY3dfODRVVV9ueUtqa0ZKcnNSaFFaR3RaWFNCZ0ZGZkc2RDhVS3VJbg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-09-22T23:02:57+09:00",
+    "summary": "米経済指標【リッチモンド連銀製造業指数】 みんかぶ FX/為替"
+  },
+  {
+    "id": "39d492655ac9dde9",
+    "title": "〔NY石油〕WTI続落、94ドル台（22日午前）(時事通信) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUVhRTVdLaWpjWUktdkU5cG03TXdrejFXM2dzaWxCTnFsdmtxQnh0WVVEWVlqUXY4M1J4ZS1YbExIcTE2Y1ZfWkZWZ2pIenprcUJnRmVKRXNjLTJqN3NJRjVKV3hBd3J2anlzWUN5T0VGMkM1MDVXYmQ5VGRSTFNLdWdMSFd2QUE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-09-22T23:01:05+09:00",
+    "summary": "〔NY石油〕WTI続落、94ドル台（22日午前）(時事通信) Yahoo!ファイナンス"
+  },
+  {
+    "id": "b253e752ca55600e",
+    "title": "Kelag International、イタリアで64.4MWpのアグリボルタイクス・ポートフォリオを取得 - ニュースと統計 - IndexBox",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR3hlb2p5M052OW1fUl9oNlVRMEIzTElJVjB0UXBzbzJWZGk2T0VrYTZUT2oxckRvRU5vVE84OU1ydk54N2lJVll3VTFvS0w4WnhWbjV0cGJzOEE3ZTlsNzVXakRPdFdCX3RiaEU3Q2MwU1MxRFlLaEFwS1R6eXJvcW8tcjBEQUhZemhON2VIcHQ3R3h0czg5YnNXbXZOLVFG?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-22T23:00:51+09:00",
+    "summary": "Kelag International、イタリアで64.4MWpのアグリボルタイクス・ポートフォリオを取得 - ニュースと統計 IndexBox"
+  },
+  {
     "id": "992f8bc868c511c5",
     "title": "Public companies produce most U.S. crude oil and natural gas",
     "link": "https://www.eia.gov/todayinenergy/detail.php?id=68184",
     "source": "EIA Today in Energy (米エネルギー情報局)",
     "published": "2026-09-22T23:00:00+09:00",
     "summary": "Publicly traded companies represent a tiny share of the total number of companies producing crude oil and natural gas in the United States, "
+  },
+  {
+    "id": "11f6ff3167ceaef8",
+    "title": "Yemen Escalation Raises New Risks for Global Oil Markets",
+    "link": "https://oilprice.com/Geopolitics/Middle-East/Yemen-Escalation-Raises-New-Risks-for-Global-Oil-Markets.html",
+    "source": "OilPrice.com",
+    "published": "2026-09-22T23:00:00+09:00",
+    "summary": "A conflict that has simmered in Yemen for years has flared in recent weeks, with consequences that could reach far beyond the Middle East. T"
+  },
+  {
+    "id": "eb14849ce8dbdd0d",
+    "title": "負担の大きいデータセンターの電気料金...カカオは大幅削減、その秘訣とは? - 매일경제",
+    "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFB0enJPWnFmYjZDeTFOYkxTSGkzVGhwNTNFV1lSbTJidGRGR2hITm40MXVIUFRXSzd4eEpWOUt3V1FVZmdSX2hzTWtvUDdRMGxKdm1v?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-09-22T22:59:23+09:00",
+    "summary": "負担の大きいデータセンターの電気料金...カカオは大幅削減、その秘訣とは? 매일경제"
+  },
+  {
+    "id": "33eac7e1cf6b35a7",
+    "title": "タイ、燃料危機対応計画を承認 石油基金の赤字拡大で300億ドル規模の借り入れを検討 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA4TXlJTXJ1LWlyQTRZRlFTNmtaQjdnRkNSeEp5TExyT0c3ekVLZmplR0NoWV9vRWV2RE9YR2FlUVRpd0dub3hnZGkzY0dpaVoxNUNfREs0RFBnOGJRVzBwRzU0NjVJenMwa1BwN2tWdC05TVJU?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-09-22T22:55:00+09:00",
+    "summary": "タイ、燃料危機対応計画を承認 石油基金の赤字拡大で300億ドル規模の借り入れを検討 BigGo ファイナンス"
   },
   {
     "id": "033bee22be32a608",
@@ -30,453 +478,5 @@
     "source": "Googleニュース｜原油・石油",
     "published": "2026-09-22T22:19:17+09:00",
     "summary": "原油安 Moomoo"
-  },
-  {
-    "id": "202377fb87a00748",
-    "title": "サウジのパイプライン稼働再開 ロイター報道、原油は2週間ぶり安値 - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9NOFh0RFFLcnpmVzYxYUlPOE1pTGE1NnA2MzU2eURhdnA4SklnUkxVMEZrdWt3ZTd3eVdDMWRvMlZ0U1J3Sm96bm1Ub0R2eDRZTVprNUpGUlNkUkRSdTJFcE5aM3BZdUNuV1NSYw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T22:09:43+09:00",
-    "summary": "サウジのパイプライン稼働再開 ロイター報道、原油は2週間ぶり安値 日本経済新聞"
-  },
-  {
-    "id": "f556651a0f612e90",
-    "title": "米圧力緩和なら7日以内にホルムズ再開とイラン高官、国連総会「絶好の機会」 サウジ石油輸出再開へ - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNYTJlLVRfdThGb0lyTEhiUnFJQU9XVmxjS3ZNOTlGWjNBMXJhc3RmbHBla3pIWDE0ci1iSFpnbTJnT2c2SlRER01sSU8zX0VSYUNKY3FzTXktak9nWGhjQWF6Y1U4UnpMTFBMSzBCbVZidXl3OW92aklwSVFBNXJ2cDYwV0oxUDg?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T22:06:07+09:00",
-    "summary": "米圧力緩和なら7日以内にホルムズ再開とイラン高官、国連総会「絶好の機会」 サウジ石油輸出再開へ Reuters"
-  },
-  {
-    "id": "3eb5c7108fc652db",
-    "title": "欧州外国為替市場概況・22時 ドル円、下げ渋り(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOU295WDEzYWswMEdpUUdiSzVUM1FwVU1uM3lOQ1pxWW5hLXgyQ1Y5ZnBPekhRZi1nZXFTOS04U1ltNDk2ZHBWVEdjQ3pBckE0MXY0MzI1ODZ1WC1Jb1d1ZHB5bEF1MGZPNTdQTTBjcS05dlNVRWxNWHFZZEZWOW1GdDlZOVZxVkU?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T22:06:03+09:00",
-    "summary": "欧州外国為替市場概況・22時 ドル円、下げ渋り(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "0c0534f07a5d6882",
-    "title": "米国エネルギー貯蔵、2026年第2四半期に記録的18.9GWhを設置 - ニュースと統計 - IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOd3dXbV96R202MnpxRG1Ba3BxV2ppam5jaWRyYWxGUFFJUGJfTUZ4a3FETkVranNvLWtqVGR1Y0ZZSFEwR1ZQeDI3MjJrUktFakFGaTZqUG8wNU93MEdCeWV1WnNlTEY5cnBwVTNOel9FTmFxWlRHLWJYS3prZG9ITjRaUFhPMHhn?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T21:51:07+09:00",
-    "summary": "米国エネルギー貯蔵、2026年第2四半期に記録的18.9GWhを設置 - ニュースと統計 IndexBox"
-  },
-  {
-    "id": "e8845688c3ac87d7",
-    "title": "ドル円のピボットは１５７．２６円付近＝ＮＹ為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE84S05MczZXV3QyclhJV1BoYzlfbFdLYldGc0I2T0VTaTRGbUgyWDhWMXlDWElWOFQ4TXV0T2J4a2xzMC1YZVpVXw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T21:45:57+09:00",
-    "summary": "ドル円のピボットは１５７．２６円付近＝ＮＹ為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "562d4adee960d9a8",
-    "title": "原油は９３ドル台に下落して始まる＝ＮＹ原油オープン - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5BeW5MN1dEdW9RemtqMktLaTFLRnE4eURHMXU4YjJmbk10VXliTTFRaTk5M0Rjb1g3elhjSndoMWFEVDNqSnlBeQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:40:57+09:00",
-    "summary": "原油は９３ドル台に下落して始まる＝ＮＹ原油オープン みんかぶ FX/為替"
-  },
-  {
-    "id": "4f8ab75c611d3b0c",
-    "title": "中東情勢に外交的打開の兆し 国際原油価格が急落、米株先物は底堅く推移 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1mMGZlckRJLTZUNk9nWlFCdFBuV0xXTElfSm1BcWpDNEpZTDUxQkxhZzcxTU5rSkJjMGktYkdDdUdRVXVvRzJhWUVhZ2pDSUdJNXhNX1lBQUdnR3lwS25UeE9mNlB6Vmw5ZE1Nb25vanZXd2Vt?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:35:00+09:00",
-    "summary": "中東情勢に外交的打開の兆し 国際原油価格が急落、米株先物は底堅く推移 BigGo ファイナンス"
-  },
-  {
-    "id": "4ae1054df0c37516",
-    "title": "$WTI 原油先物(期近) (CLcurrent.US)$ $ブレント先物(期近) (BZcurrent.US)$ - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNa0FkbFdzM2owc2lzMlR4cHY0QmM3TS1TMTdNZUhULUZ0QkVyOUItaElVTEVIYWRRZjRfQ1I4MjA3eVM5TjkxalRQV2s0aEpQMEVLSTExbkszejZSWlIwenRrcG05MUk5QmhQVUxFaC1EN1BPdmMxOTFqSU5NQkFLYkEybkg1a2x4RjB5M1RJNEthaV84LS1rWEpCbS1meDF6Q3loa0w1TzJ4eHZ6VTZnLTFrS25KYjJCaENDYQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:31:38+09:00",
-    "summary": "$WTI 原油先物(期近) (CLcurrent.US)$ $ブレント先物(期近) (BZcurrent.US)$ Moomoo"
-  },
-  {
-    "id": "9051751752285f42",
-    "title": "【速報】NY原油先物続落、93.50ドル(フィスコ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcUw2VElOVDJOWUpDWk9uNmJCMTIxb2hINUdVSXFfbFZyc3kxVHVncndqZnExUEo3LUhHSXAyc3I0bTBxM0NPZk1qaElYU0V3WTEzT0Q2ZS02SEZReWhZMDQ4SjY4MDlUejA5MnZnR1pDbXFycFZzX3Y2dHVNZjQ2MVVDbVhwTlE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:29:19+09:00",
-    "summary": "【速報】NY原油先物続落、93.50ドル(フィスコ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "4018fc3c7b7777ae",
-    "title": "【速報】NY原油先物続落、93.50ドル｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE45aWktM192Yk1GczI0MzBjUUpweXRfZVY5RGhpYkxSY3dtQ3NicFZhZFd5NE5DVno4OHFuWDNqQVpadXFGQkRJZWlWZlF5eEZaWkE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:29:00+09:00",
-    "summary": "【速報】NY原油先物続落、93.50ドル｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "4704ec3908ef8347",
-    "title": "ブルーム・エネルギー【BE】：株価・株式情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QZkpXWjRsNlpuandIYXZCdVEydktuMEVPUGVnbUl5V1FQcllDRlBFQ2FhaFVUWkFCcWJNTEVGa2VYZTdWUjJTN2g4RUs?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T21:28:03+09:00",
-    "summary": "ブルーム・エネルギー【BE】：株価・株式情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "503fce653205afcc",
-    "title": "バンク・オブ・アメリカ、地政学的緊張を背景に下半期ブレント原油予測を引き上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE12Yzk3ZWdLY05VdHpOXy1fSEszTmg5a0l3elhuNkRjQ0JRbXk3R0J3ZElxY1l5OFBoaEJCdFYwd2dBWVc5YUU4aWxidHMzTUlYdDJFTlROMFlHZmRwVnRoVF9yVDYyaEtaSklfZG5xSQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:25:00+09:00",
-    "summary": "バンク・オブ・アメリカ、地政学的緊張を背景に下半期ブレント原油予測を引き上げ 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "3adf80a03ca202e3",
-    "title": "サウジアラビアが東西石油パイプラインを再開、ヤンブー港からの輸出を再開へ：情報筋 - アラブニュース",
-    "link": "https://news.google.com/rss/articles/CBMioARBVV95cUxQYkZnUklmMm05OTkxSHNabWE1MEdXZVRqLTRNOXN1T2k5RkRJcnFzOWpjNmJuUlh2blN1RTRldVg3QVd1Y3lJN3Q0cS1nQkgtaTF6WkVnaDZTRkt6Ui0tc3IzNXdDV0xjT2xtaVlNLWJPa19Idk5QUFVPT25WblhrUDlHR1doRU9DekhnOUlVWGV3TmdWVk5LRkN2dEk5VF9FZUJNdXVTaWJlc2ZFRFJucWtJMWg0VDFhQjVnU242bmRZd0F0UWtxTmluVWI2dV9sNElGUWl2S0hwaDg2MEJjeloyeE92bEJyQndqZlczeWdXN0d1SVZscFFMRGJoX0ZOaDIzLUEwQ3diRFFjZ3hvRzRGak4tcWtkUVF2TjNGaEEtSktYcjNCTjNwaUpwX0RUb1ZzNU95UDBoUlJnRTVodHNnanFrVDltRjdpdGE2cjB6T0kxMVZrVHdRZWE3d2NGU3MxTERodW8wUUJFaE8wbk5HNnY3WEFFTnlEbU9tcmNoVWs1UFNFLXhNZmlJX3hiR05DMmZ0ZVVXS3g5XzRBWVNsZWpwT0lzTXgtR3lZUGc3QWJHRmpuLVRSQjlrWVpkMjRadHZwa3hoRHZfLVNDV0ZaZjFnbEpkUmp4UzdCdU90NDBucHEwMHdKQ09FY2lhUmtMU2J1QlFja1BfdUF3YzM3T256QXpUMmlTNDJ1SXhFV3VuZmxiajJYOFhiUzlj?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:22:08+09:00",
-    "summary": "サウジアラビアが東西石油パイプラインを再開、ヤンブー港からの輸出を再開へ：情報筋 アラブニュース"
-  },
-  {
-    "id": "082404e4a9febd82",
-    "title": "リーバイ・ストラウスとM&Sがファッションサプライチェーン向け再生可能エネルギープログラムを開始 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBXQlBnWVFMQUJwZHJjNU1CWU8zckZIUExDQlVIRTdlOWZQWmZsM1dQTE5CcGxfMDlBYlE1TlRxbklXNDBvT1EzX2hqVnNNT3RMMU45M2hHNUVsWDR6QW0xZFJTWDVvdjJ0cW5PYXVRemU?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T21:21:00+09:00",
-    "summary": "リーバイ・ストラウスとM&Sがファッションサプライチェーン向け再生可能エネルギープログラムを開始 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "7aef1f230cb5fc05",
-    "title": "【エネルギー】ペトロナスLNG、タイなど東南アジアで総合エネルギー企業への転換急ぐ - bangkokshuho.com",
-    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE96RVE4bW9tZ1BHbS1nTWlDYkkxX2JPMXowejJsMEdNMUpRTUR3TDY0eV82SU52SlJwN2d6Y29qOURJQ25nNk52MkQ5bmpLSkp2?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T21:19:22+09:00",
-    "summary": "【エネルギー】ペトロナスLNG、タイなど東南アジアで総合エネルギー企業への転換急ぐ bangkokshuho.com"
-  },
-  {
-    "id": "c80422a9ae53b1c4",
-    "title": "ADP、米国の民間雇用者数は9月5日までの4週間で平均週2万人増加 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1QUDNxdkFfQXJqN2lxNzY4Zm83b095dVZXSmZGaC0wUExXcE0xSERobmZPNTkxX1dBaEg1TnJicnM2ZGMzZjRfQw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T21:16:57+09:00",
-    "summary": "ADP、米国の民間雇用者数は9月5日までの4週間で平均週2万人増加 みんかぶ FX/為替"
-  },
-  {
-    "id": "2c70e1cdc26a04ce",
-    "title": "サウジアラビア東西パイプライン、ヤンブー、アブカイク、イラン、イラク、イエメン、エジプト - サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから - 写真・画像(1/1) - nishinippon.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5vdlFZcS1YQ2VTaEhkcXBXSnRhLWtWR0QtNmV5bDRCQ1c5WFpjaW5OTDFLVWotb0I2dWhBbWRRdENlaVFQeHZ0ZWx5VFNHTVpQdUthSnAxMA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:15:06+09:00",
-    "summary": "サウジアラビア東西パイプライン、ヤンブー、アブカイク、イラン、イラク、イエメン、エジプト - サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから - 写真・画像(1/1) nishinippon.co.jp"
-  },
-  {
-    "id": "31be9300ffab7b2f",
-    "title": "【ＮＹ市場の経済指標とイベ ン ト】｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5TUWhpQzNJZlFVYzFoQktleTkyay1ldFYxVlMwaHkyTkJHb1FFWUxoSVhPVmlqc0oxckFBdm95RUtmYTdpOUwwUFFLbDlsTlVyLUE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T21:10:00+09:00",
-    "summary": "【ＮＹ市場の経済指標とイベ ン ト】｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "e96a6d58ecb8fad3",
-    "title": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA3bDhRWjF6c2pMMEVsVU4tTTlvd3FwTlNDa1NZTXVka3Y1TVlBbjlLQ3RBVnBxQ1Z1Nzc5SzQyX2ZaNFkyMWdUeElZUXM3blMwbVczQjhwWnZQVHZfbXNfcFFhUDlnM0FHMnZOUk11Q21DaWFDaXFQZnF2SGs2Z1k?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:03:57+09:00",
-    "summary": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始 Reuters"
-  },
-  {
-    "id": "f214d2d8f9edc463",
-    "title": "原油が90ドルを突破、小型株先物が主導 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdzJ3dzJLV05IUC1YMzRwZldGSXp6YmxXNmJyM0FWeC1jREJQU3pzemxGVWxqYks1X2RwTk5ybDN3YWIxWGU2SG8xZVpPc1J6STR0WklMMGktU3dMVklMQ05uSGVSQi1SMERKS1dDcWlMOTNnNEY1NGs5RW5EVXlXUVppWEtad3hoeXFHNUFJVXRZNHRGTHBGbThFYw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T21:03:12+09:00",
-    "summary": "原油が90ドルを突破、小型株先物が主導 Moomoo"
-  },
-  {
-    "id": "b25084383e3294fd",
-    "title": "ハンガリー経済指標【ハンガリー中銀政策金利】 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE0tRTc4ZW04TWpoRGpxWE52WGpLVVRveDFGb0pNRVh6aU5kUWQ0dm96dHpjMDhpT2lmOUVJOVh4V2prMVRzUU1LUQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T21:00:57+09:00",
-    "summary": "ハンガリー経済指標【ハンガリー中銀政策金利】 みんかぶ FX/為替"
-  },
-  {
-    "id": "0dcd41a3fb19ed0e",
-    "title": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから - 北海道新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE8wM0F3VkpxWm1WTVpJMU5iLTljUkZkd1BaMldfOWdnLXcxWVRnSEFPRHhTQjRjTHNBZ3Itdkk1anNDMHRfSm5uanAwcTNKTlpEaV9OS0RmcGJrdw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:57:25+09:00",
-    "summary": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから 北海道新聞デジタル"
-  },
-  {
-    "id": "0a4c115277216533",
-    "title": "Oil Tumbles 3% as Iran Floats Hormuz Reopening Within a Week",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oil-Tumbles-3-as-Iran-Floats-Hormuz-Reopening-Within-a-Week.html",
-    "source": "OilPrice.com",
-    "published": "2026-09-22T20:57:00+09:00",
-    "summary": "Iran has offered to open the Strait of Hormuz within seven days if the United States eases its pressure including taking steps toward ending"
-  },
-  {
-    "id": "f89ef25866bbadd1",
-    "title": "サウジアラビア、石油輸出再開へ - daily.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1vbGFyRWpsdnZwTk1PUWM0MS1RMno5Q1J3ZXpMMVNnaXNzNUkyeGtBQ09rV0FtX1ZMLURJbGhZRE95eGNVT3NWUmVOa21yNjNzRVA1U2xsRnd0UUNTTjdnNFlpUHF2VkhHckc3X0hYYjJOOVk?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:52:00+09:00",
-    "summary": "サウジアラビア、石油輸出再開へ daily.co.jp"
-  },
-  {
-    "id": "d1a637c38aa2263b",
-    "title": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから - nishinippon.co.jp",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1FTldRTUNsaENBeHlhTGxNX3haSmE0MklTR3hBV0J5Qjd2V090MFRQTXJZUHhWdEpRQmZUOUczMk5MNmQ0MEhUa2Q0SlR5ZkZwQ1JCWUZ3?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:48:46+09:00",
-    "summary": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから nishinippon.co.jp"
-  },
-  {
-    "id": "1d077522fd90e27e",
-    "title": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから｜全国のニュース｜Web東奥 - 東奥日報社",
-    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBrajZGRVl4aFREc21OMDllTG1DVFZpVjVraWo4Q21BSnk3MkRUN19KTGo2a3FXVkpDaHctWnhJcjFrNWVrRnVKcGc0dnJGSHJfV1haUDBnX0Q?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:47:29+09:00",
-    "summary": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから｜全国のニュース｜Web東奥 東奥日報社"
-  },
-  {
-    "id": "756eaca0f62117f5",
-    "title": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから - NEWSjp",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE0yMVp2LUhCcGxRUXhaS1F6RHpxV3pOWEFkV0dPTUtwNzZnaHZDdktBT1gzZTUybW5kc1VqX2NkRl91ZUlkWVVacHMxWUVKQQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:47:29+09:00",
-    "summary": "サウジアラビア、石油輸出再開へ 紅海沿いの拠点ヤンブーから NEWSjp"
-  },
-  {
-    "id": "e1d5bd388a031d2b",
-    "title": "今週のエネルギー転換 - 風力発電の急成長：今後の課題と機会 - simplywall.st",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOS3R3b080cVppbkRPZEdlOVRwZ09kUkF2Tl8xeGFlLXRaZ0FmUG1TVEk2aHRCVlRpaXNjcmd1TXdrOXdVMDFOT1RFU2lCSHU2UHBCNU92cHBmNTF0eW92ZTNNLUkteUtkZHFwMVkyQVY2MlRTbGF1MDk3NTBiaDg0ZEFhNW9Lb04xdVpSMFBzY9IBlAFBVV95cUxPLWEtRjlGQmlrUTFfQXFUWVdvd2kwQzg0bjlncHpiY0ZNdlNUYVZkSl8yWlJkQm5UeXF1cWpSRGFWZWNoaVRkQkZONjd3VkdWcHZwVHNKUW1FSW5qaG1QWmhCZGEtVXBJZXdUQTloaXZlckxTSGhIMlVKaHZRaGpvR1VXSW40ZmdjdEl2eUotakdmaldp?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T20:41:55+09:00",
-    "summary": "今週のエネルギー転換 - 風力発電の急成長：今後の課題と機会 simplywall.st"
-  },
-  {
-    "id": "05d57b7b0e635469",
-    "title": "ＮＹ市場 この後のイベント - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1YT1Ryd2JUdTRPckYwSGswcWp5aFF2MDFRbTZsZ25RYWFOdHdDX3Rqc04tNmxKY01Lc2NlZVcxbzgzSTlGdGJmbw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T20:40:57+09:00",
-    "summary": "ＮＹ市場 この後のイベント みんかぶ FX/為替"
-  },
-  {
-    "id": "c645658723c67242",
-    "title": "円買い強まる、ドル円一時１５６円台後半 中東への期待で原油安＝ロンドン為替概況 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBwalJ2NldqMWhOR2UwWm9tdXpfVjNENVl6aG9CNkFSUUctZDhwTmljYk5ma0dISW9mTGpmVkhZdldxdjBGdUJjOA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:39:57+09:00",
-    "summary": "円買い強まる、ドル円一時１５６円台後半 中東への期待で原油安＝ロンドン為替概況 みんかぶ FX/為替"
-  },
-  {
-    "id": "c925f077acffdde3",
-    "title": "インドはロシア産原油の購入を縮小する可能性、米国の追加関税が圧力 - Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9iSEw4MjVPSGJzMkpiMlMybWl3Z1JhemdSU016MTlSVXYxaUsxcGVMTi0yRFYzMGEzamtBWFI3RHdyU2s5aWxjbzZ5SUNuNEhqbTNUSDIycmtYamxFVEE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:34:43+09:00",
-    "summary": "インドはロシア産原油の購入を縮小する可能性、米国の追加関税が圧力 Межа. Новини України."
-  },
-  {
-    "id": "230c9fbd565419fb",
-    "title": "再送：本日のＮＹオプション期限・主要行使価格と規模 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9lRnlBT1lGT0tZenRUU2dPMEdnTUhsMlFnQXhvaG9VR3hxTFpnRGltWmZIQmFyT3EzM1BfS3dzeHlLU1pFQ0dYUg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T20:30:57+09:00",
-    "summary": "再送：本日のＮＹオプション期限・主要行使価格と規模 みんかぶ FX/為替"
-  },
-  {
-    "id": "d625269d4a5baacd",
-    "title": "ING: Supply-Side Risks Stay Elevated Even as Oil Prices Pull Back",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/ING-Supply-Side-Risks-Stay-Elevated-Even-as-Oil-Prices-Pull-Back.html",
-    "source": "OilPrice.com",
-    "published": "2026-09-22T20:30:00+09:00",
-    "summary": "Despite the recent decline in crude oil prices due to lower-than-feared disruption of Saudi exports, supply-side risks remain elevated, and "
-  },
-  {
-    "id": "df9f6ece657b8b14",
-    "title": "パイプライン攻撃後、サウジアラビアが湾岸経由の原油輸出を増加 - IDNFinancials",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTXNocWlyUDNOVk1DeTdJRWxEMTFaUFdfYWFfSnpmLXFjWUNQTHozVHhSdHVScC1xd096MHpLVGUteG5sYy1JVFJiUjJKeVA3SnlxWXk5d3NZa2tCNjZBWXJ0ZGVQeng3ZVBGQThNMWJxYWRkYjc3dzZGMjk3djU3YktFZGVJNDZiRVNZUTZjak9MdkVRYnFRQTlQOWVmakVBb1VvNQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:20:00+09:00",
-    "summary": "パイプライン攻撃後、サウジアラビアが湾岸経由の原油輸出を増加 IDNFinancials"
-  },
-  {
-    "id": "edcde62873743e67",
-    "title": "原油下落､サウジがパイプライン再開を計画-ホルムズ巡る外交にも期待（Bloomberg） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1WSk42T245dVZmbm5NLXp3MW9aSEpCM0ZNY29qRDZkZnVwa1c0d2c2RTRZd0MxUUFyel80ZXNfREVvVjE3TDlVMnhjV1RhbnFSQmFRX0dGSTBFeUVKMUx1MDEwTHptUXpOVlpQYWRzNGxhUGNGek1JWG8zRFV5VW8?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:19:38+09:00",
-    "summary": "原油下落､サウジがパイプライン再開を計画-ホルムズ巡る外交にも期待（Bloomberg） Yahoo!ニュース"
-  },
-  {
-    "id": "5b33ae1623112c05",
-    "title": "【速報】サウジのパイプライン再開 ドローン攻撃で一時稼働停止に…原油輸出も再開へ - テレ朝NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBhRlRqWnVqOUJHZW4zTWdHN09KdDlvVGlocXRESmdZa3c2UUN5YnR0NGVZX0xtNWZhaU9NZXNLWG1Fd0tLOUY4eUd3VGtzN2E3ZVJTUmRnZHJkdlZpLVVfRU5lZlhhamxmNGxXT3czbUJYQV9XTnJ3ZE9n?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:12:22+09:00",
-    "summary": "【速報】サウジのパイプライン再開 ドローン攻撃で一時稼働停止に…原油輸出も再開へ テレ朝NEWS"
-  },
-  {
-    "id": "41078c4244713070",
-    "title": "【速報】サウジのパイプライン再開 ドローン攻撃で一時稼働停止に…原油輸出も再開へ（テレビ朝日系（ANN）） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QM0dOYUtXVEVaLTR2dDNBUVNWWTdUS1daeW5QZ0V1LWVTdFBlWmZjNUVsMS10NlM3dHM2TFJsV05iQzI4cXJBTEVYSk9TRWh0c2FIRUJsbm0tdUgtanRscW1HREN3YmpqY2pkRXlqWEdrQWxMVDA1bmloVk9PVWM?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:12:22+09:00",
-    "summary": "【速報】サウジのパイプライン再開 ドローン攻撃で一時稼働停止に…原油輸出も再開へ（テレビ朝日系（ANN）） Yahoo!ニュース"
-  },
-  {
-    "id": "49262066b21052c0",
-    "title": "世界のコンテナ型ESS（エネルギー貯蔵システム）市場動向、年平均成長率6.0%で拡大継続2026-2032 - Newscast.jp",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFBJS2xuQTZHTXNQSnRnbTMtclVVa0FmSW1XRHJzTG9DVFRURnlqSXQwd2dDRVRrTUxQMTNJLTg4T2FaU0JWS3BMcUdvTW9id0U?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T20:11:00+09:00",
-    "summary": "世界のコンテナ型ESS（エネルギー貯蔵システム）市場動向、年平均成長率6.0%で拡大継続2026-2032 Newscast.jp"
-  },
-  {
-    "id": "553029a5d08648e7",
-    "title": "ロッテルダムLNGバンカー価格が119ドル下落、シンガポールは130ドル急騰 - ニュースと統計 - IndexBox",
-    "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaGdGMlRSdkhyeWVGSFlOZGdaLWdpWDB2VEZJUUhNdGRtdGw4bmh6ZjN5bENraG5iem9zNUJXeElCMVVoQ3NVSHBrV3pqOU1lR3ppb0luWC1qV0xfSVRWMWlMa0JPUG4ta3I0c0dxSF9DdEl6SzZpblA1cXFfNlFpSERpNVMxRzN4enB4MGcxdTU2THdqUDItWHdDZ3J0QmlmMThEQ0cxa0Q5NGhmSm1GQTFpOA?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-09-22T20:10:27+09:00",
-    "summary": "ロッテルダムLNGバンカー価格が119ドル下落、シンガポールは130ドル急騰 - ニュースと統計 IndexBox"
-  },
-  {
-    "id": "a19c2854c20de877",
-    "title": "化学産業における効率的なエネルギー利用のための計画策定。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOUJxcGdnYmlnX29peXRNaGZCbVREMGZrb2w5X0J6UWlheV96cHQxZW02NUxmMGJuNkNCa0dheFQwSTZUNmg4dWNTeFdIeFhxYzFvSGtla3ZjOVZNd0t0YThpUm9acFBrUmZ0MHVFQ3MzdktkdG5YVUhfd053UFBRaTcwbm1YRXFHSkFPZUR0Nk1ocXhmQi1B?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T20:09:46+09:00",
-    "summary": "化学産業における効率的なエネルギー利用のための計画策定。 Vietnam.vn"
-  },
-  {
-    "id": "9482721fd25bd317",
-    "title": "欧州外国為替市場概況・20時 ドル円、軟調｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5PeHRrN00tRWJ3Z2pXc25mdUhlUG5UMi1CZmNBSVdSSmFVMUh1TjA3U243S0tmRk9ubjV2aVFaQ21FQkkxT1hQU1pBSWVkcmhJWVE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T20:07:00+09:00",
-    "summary": "欧州外国為替市場概況・20時 ドル円、軟調｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "5872bf411dc49713",
-    "title": "製油所、エネ安保で存在感（時事通信） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBFZTFLaHBvUXp3UTJpOGJ0cHV2eWpFTFY5SVN0NmZvenNKWGIyejZZbm1RcVRma1pOaEt5bmVISzh3UDdON1Blb0xzTEwtVkpYdnhCYmZqUXg5UmcySnh4TlUzTnpLLU1nSmx2NGY0ZXpPRXp5UVZKUk9VS1hrVVE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T20:00:21+09:00",
-    "summary": "製油所、エネ安保で存在感（時事通信） Yahoo!ニュース"
-  },
-  {
-    "id": "df86eb6713f31ef3",
-    "title": "ビットコインはアジアセッションの安値から回復、原油価格の下落がリスク指向を支える - CoinDesk",
-    "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOTDZ3SW5uUU4xQTk1c1VrY3NIU252U2hyc3hCcG55NFIyckdhYTAwQlBtc1YyYWpRV0xWckQ4aF9FdkFMZGRRckJxNzNnX3dJdkZmY0hpbUx3T2N5WTk1X2lMNGk4SDB5Wnl4WlVEUzhWdmRwajhlcmZ3QS12WkgyUmVuRGhjcWNaZnJsRlo5bWpLay1ibGJRc0VqUmZya2doZ1BBbk5Jc0lUTWlJWHhoQmtIVVF4S1JxUkt3Z1Q3MFpqSkhFNDlQMWRvZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:59:03+09:00",
-    "summary": "ビットコインはアジアセッションの安値から回復、原油価格の下落がリスク指向を支える CoinDesk"
-  },
-  {
-    "id": "079686051aac1392",
-    "title": "ゼレンスキー氏、ロシアの冬のエネルギー攻撃に対抗すると表明 - Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBRMHBONG1wUjc2SkRSS0lHeUw4dXdtLUhhU1RHN1AxalhKQkloOE0zRjVZaFJNUGhsUm8yUW1KemZEZ19Ga3ZBb2swdzRocXUtS1hLUDFaSUtySy0tMjRCMTN1Q2lRYThndmxmajdtWmw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T19:50:27+09:00",
-    "summary": "ゼレンスキー氏、ロシアの冬のエネルギー攻撃に対抗すると表明 Межа. Новини України."
-  },
-  {
-    "id": "92621e28e6fd53bb",
-    "title": "原油下落､サウジがパイプライン再開を計画-ホルムズ巡る外交にも期待 - Bloomberg.com",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SLURxS2lVLUZSczFtb3FwT0pZeDJYN1otVGlIb3JWV2Z5Q3ZRcVF6Zi1oam1aWlBNSHJYN1NqTUFObVlUNTMwMWV2Tk00R21UOTlwTjQ3bHlsMkNNVS10a1ZRZGlsNnpXdTI3ZmFaWmlnYkpISEF3?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:49:35+09:00",
-    "summary": "原油下落､サウジがパイプライン再開を計画-ホルムズ巡る外交にも期待 Bloomberg.com"
-  },
-  {
-    "id": "5693c16acd9a5351",
-    "title": "ウクライナにエネルギー設備2333トン超、27カ国が冬の電力対策を支援 - Межа. Новини України.",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1XWGlubGp6X3ZsZlM5cUlvOWVyMHFZNVBUaTZXbGFCaUVGTlRxM19jZlhIdXduQWFSX1VqcmFhMThoc1puNTBJeUVhRnEwUmE1bVFTRGZMdy1nNjUyWnZPOGRPX0I1UWsxbGc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T19:45:54+09:00",
-    "summary": "ウクライナにエネルギー設備2333トン超、27カ国が冬の電力対策を支援 Межа. Новини України."
-  },
-  {
-    "id": "16a8c029adb80d8b",
-    "title": "NY為替見通し＝ドル円 中東情勢と原油相場をにらみ神経質、米金利の動向が焦点 - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFAtZWhJemlWRkdwYmlGdEFENkhqMjFmRFVZZUFpX0ZhZjlkNnpSbXN4TFhTcmstcjk1aEg5YktqREI2TVprbDRIWHRpNEQ1LV9wX1E?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:44:00+09:00",
-    "summary": "NY為替見通し＝ドル円 中東情勢と原油相場をにらみ神経質、米金利の動向が焦点 ザイFX！"
-  },
-  {
-    "id": "1049458aabbfb3f2",
-    "title": "９月英ＣＢＩ製造業受注指数はマイナス９と前回のマイナス２５から改善＝ロンドン為替 - みんかぶ",
-    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE8yVS1ZZGdGdmZXZHZuTHNWNm5FRmpyRFdlTFl4ZEdXemtYUG5heG94YVdDajBEU3NGbEFHck80Vm80YU4xOFE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T19:43:00+09:00",
-    "summary": "９月英ＣＢＩ製造業受注指数はマイナス９と前回のマイナス２５から改善＝ロンドン為替 みんかぶ"
-  },
-  {
-    "id": "5ed518f6a296afb4",
-    "title": "９月英ＣＢＩ製造業受注指数はマイナス９と前回のマイナス２５から改善＝ロンドン為替 - - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9zYVFORGtlMFBrYzkyOXJNUUM5bjVlZ2twaFo2bDhGR29PUjIzcDYxRTByR3A3UWNfQ01wMUpucUVPd3liT0hOdQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-09-22T19:35:57+09:00",
-    "summary": "９月英ＣＢＩ製造業受注指数はマイナス９と前回のマイナス２５から改善＝ロンドン為替 - みんかぶ FX/為替"
-  },
-  {
-    "id": "802f76db3bc8c18f",
-    "title": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始（ロイター） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LcEY3amJ2R2xWNVkweTQ2emdaWk1fREcyNHgxV3JNeWxjM3dzVGE2MENack5LR2JxbUpJalZ6cnFzRTVHa3prd0RhMW9iM2lmY1FmQmtNdGg2NHQwNE93TGt2aUIwSU1KM3VQWnZZbTNnd19fZEM2ekFpaUxpbnc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:31:57+09:00",
-    "summary": "サウジ東西パイプライン稼働再開、紅海側で石油輸出22日にも開始（ロイター） Yahoo!ニュース"
-  },
-  {
-    "id": "d2f971816d4dbeba",
-    "title": "サウジ東西パイプライン稼働再開、ヤンブー港の積み出し22日にも開始と関係筋 - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5OZEo4VzlJbEROTXVJMzNWZ0w5VXZFM1JnRXZMT0ZTVTA1OGxPQ3NQcmk3MnZEdnA2UkFoTFFjVkpiX00zTEhORUJZd0tWU1N3Q0ZtZmpfQWwwZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:31:00+09:00",
-    "summary": "サウジ東西パイプライン稼働再開、ヤンブー港の積み出し22日にも開始と関係筋 ニューズウィーク日本版"
-  },
-  {
-    "id": "2e6daef16efababe",
-    "title": "Saudi Oil Lifeline May Reopen as Aramco Eyes Yanbu Restart",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Saudi-Oil-Lifeline-May-Reopen-as-Aramco-Eyes-Yanbu-Restart.html",
-    "source": "OilPrice.com",
-    "published": "2026-09-22T19:30:00+09:00",
-    "summary": "Saudi Aramco officials have informally told at least three Asian refiners that they would soon be able to pick up crude oil cargoes at the Y"
-  },
-  {
-    "id": "a87413c5d44986a7",
-    "title": "ＮＹ原油 時間外取引 ９２ドル台に一段安、下落率は３％超に - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9xTlRXVnBSWlVBZ1NHQnBoUmlRamE1SFFwdkFVNlUtM1pIVG9KVU8zSVJ4WHpfOUY1X3IzdmpLbm5RelNEMF9aT0tvWUNRdlZabEJLeldTS2kzZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:26:59+09:00",
-    "summary": "ＮＹ原油 時間外取引 ９２ドル台に一段安、下落率は３％超に Moomoo"
-  },
-  {
-    "id": "53ab4957f130a386",
-    "title": "NCB銀行は、ベトナムを代表するエネルギーエコシステムと戦略的パートナーシップを締結しました。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNLTFEQ3dEeTZURXA5WXUwS1RxVUdVOUVoR2NCcmQ4QS1jTFV2OEdOcnN6U05WS0xrMUE1ZHJfaWY3VE54RWJxX0EtbXMyMFF6RjR2YzQ3d3hyTXplZGxab0JEcnVub2JvLUhJRS1ONnFxZkJhakN0cEFFT3EyZGRZakQ5RXhfNnl3MXdnY1NrMi1WTmJPOHhPRExkVGhYOVlXcTdpcklFaw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-09-22T19:26:35+09:00",
-    "summary": "NCB銀行は、ベトナムを代表するエネルギーエコシステムと戦略的パートナーシップを締結しました。 Vietnam.vn"
-  },
-  {
-    "id": "f0eba333c8e26d0e",
-    "title": "【速報】サウジ西部からの石油輸出22日にも再開か - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBwWUdhcGxNRUdJQkVvMUgyU3JDcklGdlhtZDI3ODRJdU1OQ1RzYVVVNnM4Vkh0N2x2aEpRTTJSaWw4MElHb19wMFhhdw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:26:31+09:00",
-    "summary": "【速報】サウジ西部からの石油輸出22日にも再開か 47NEWS"
-  },
-  {
-    "id": "be52dc926bfc043d",
-    "title": "サウジ西部からの石油輸出２２日にも再開か - 河北新報オンライン",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFB6eE5iWUVCR3JhTnVWSTk5eDBNUTFmc096Rm81eV9ZYURXM2N5VEkxZ2VsWmF3c0hIV2NicUV4R2tIZUhkc3JKQWJjWVZOOGR5Tng2Rm1tVGxRSF9sbjZGRmljWQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-09-22T19:26:31+09:00",
-    "summary": "サウジ西部からの石油輸出２２日にも再開か 河北新報オンライン"
   }
 ]
