@@ -1,11 +1,419 @@
 [
   {
+    "id": "4ada70fa30f1d5bf",
+    "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
+    "link": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
+    "source": "EIA Today in Energy (米エネルギー情報局)",
+    "published": "2026-10-12T01:55:15.065551+09:00",
+    "summary": "As of 4:00 a.m. central time on October 9, the National Oceanic and Atmospheric Administration expects Hurricane Isaias to make landfall on "
+  },
+  {
+    "id": "000a232f2eaee3e1",
+    "title": "高圧直接流れ(HVDC)のコンデンサーの市場の傾向 - Spherical Insights",
+    "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVUswS2NPSmJlNVF5Ry03WTZPUlVvYl8yRVgzRXhPWGJDSXplZkUyeEZ2ZV92Skk1LTJOMHE5aF9uSExydXJqSW45S0VkdTVMcHd2eV8xd2J2TG5tVTBkWXZfSExrU0FLX21yUy1pc1p1VlREVkE4blFneVVZZFBZT0tEb18tVXgzbFpRNGJBQXAyUTM3UUVhSS1n?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T01:31:50+09:00",
+    "summary": "高圧直接流れ(HVDC)のコンデンサーの市場の傾向 Spherical Insights"
+  },
+  {
+    "id": "cde83641fc185eee",
+    "title": "水素エネルギー貯蔵市場規模、2025年の予測報告書 - Spherical Insights",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOZ3gzbmdmR2dyS1RFZml1bUlSbVlTb2VQdTd5blFKRnZXbVdZWlhLeTNtNm9waVpMbWE5TmN1Z3JTbXpaaHIxaGxYcEFLTnVvWnNuUWN3Sl8zUTFCdWJXZVB6OXhvUXZ5bFI2TnNrMF9MV3N5aUM1b3hVZ01IT3I4Ug?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T01:31:49+09:00",
+    "summary": "水素エネルギー貯蔵市場規模、2025年の予測報告書 Spherical Insights"
+  },
+  {
+    "id": "5a6740360eecf42e",
+    "title": "ロシアとウクライナが「エネルギー停戦」で合意 トランプ大統領が発表 - UQライフ",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNZHhnS2ctaHU4b18yaHlYR01ZZldDX2lHSEtJalFxaTRyaFpJTFpkX2g4NDhNUmhDTTkwNkY0TXlGWU1XdkxtY3EzTk1XVVkyZW1IcmxTQ0drQUF1MC1tM2dUdlBqUDV4amppekRRNzJPejE5cFIwUzR2bzc5V01oUA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T01:27:48+09:00",
+    "summary": "ロシアとウクライナが「エネルギー停戦」で合意 トランプ大統領が発表 UQライフ"
+  },
+  {
+    "id": "905c9fb5c765f889",
+    "title": "米議員らは、トランプ大統領によるロシア産原油の購入を阻止する法案を提出した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHpqdVhiSHpJZDUwSE51cFZDSkJJV2lvMGhURTJmY2hJcl9ZY2EtVVV0UG5Nc1cxMzJIbm5raVV0dUtZYS15bzB5TUxkc0FtS3d3cGNnSVo0ZDZEeklZNmJURXFSQkZGRC1sWnBkaTU5M19BR0huMkFrNzNQcE5jNHU0a1llUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-12T01:13:52+09:00",
+    "summary": "米議員らは、トランプ大統領によるロシア産原油の購入を阻止する法案を提出した。 Vietnam.vn"
+  },
+  {
+    "id": "db2bb42e6a426358",
+    "title": "インドネシアにおけるLNGインフラ事業開発について ～小型LNG船による島嶼間輸送網を構築～ - Excite エキサイト",
+    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE16b1lfQnc5cU1RcGNaTGhTdU1kMm84ZGlaUmY1N1psZ3FQUVpxeUJVeGlOeUxnako3OVhKaHoxTklsMnlGQ2J0dGJralFFb2d3R2xVVHhSaVVSZUFtbjhMd0tuOWFzY3ZJYWNNMUEtTVJnZjhoclE?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-10-12T01:10:00+09:00",
+    "summary": "インドネシアにおけるLNGインフラ事業開発について ～小型LNG船による島嶼間輸送網を構築～ Excite エキサイト"
+  },
+  {
+    "id": "5a1367bcd98c8ef9",
+    "title": "米国大統領：ロシアとウクライナはエネルギーインフラへの攻撃を停止することで合意した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZHRCQWJGOWxZcldKaFVtbXVrekt0Vlo4Nl81WTJjc3FCQ1BacXZEelBlcDJ4bHd3SzdzR1pvdjFtTGtONzRDUXdtbjZxZTVaNmIyOVhJcW5SUXJsR0xabHYwZDg3WGg4X1ljTHdlQU5tbjE4OUNRMkZaTG9WWl9JeHdmTDFhd3dCWTJzTlpTbnR0NHZ6N0pJSm94ZER5Zw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:59:50+09:00",
+    "summary": "米国大統領：ロシアとウクライナはエネルギーインフラへの攻撃を停止することで合意した。 Vietnam.vn"
+  },
+  {
+    "id": "b5bbb638abbb940a",
+    "title": "トランプ大統領は、ロシアとウクライナが停戦に合意したと述べたが、キエフ側はこれを否定している。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQYnh1dWdJa1Y2azR3U0VBWmJfY0RlVkczR3V5SDI1VDExMUZTcEdKR0w5a1RRbFVFLXR4cHNHaFVZejVBQ0ZiSU9sakxpT0s3YVFpNzVMS25yQlZsNkVJb1RfT21nY04wdnFEOElwM2ZnQnRCNTE3d2dyZ2kwTm9JbEZrV3RMN3I1UVJ6RmlB?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:59:50+09:00",
+    "summary": "トランプ大統領は、ロシアとウクライナが停戦に合意したと述べたが、キエフ側はこれを否定している。 Vietnam.vn"
+  },
+  {
+    "id": "79a388cc6392d2a2",
+    "title": "ロシアとウクライナが「エネルギー停戦」で合意 トランプ大統領が発表（2026年10月11日掲載） - 日テレNEWS NNN",
+    "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNU1ZpRDJRLWZRMmlES0txRmxidWNkbWlxenk0NnJoVzZEZHJkLThKWkl6aG5VVS1OSDdiUWR4Q2xKcy1wbHNidHBoNzJHUVBRYmdVMm9sR1JnNm9VamVYUktmbl95VFMtRXJTNjBJTUVSOE9tVVBTZ2t3QThkTGlZdzE2U0k?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:58:01+09:00",
+    "summary": "ロシアとウクライナが「エネルギー停戦」で合意 トランプ大統領が発表（2026年10月11日掲載） 日テレNEWS NNN"
+  },
+  {
+    "id": "000fbb430fcdd4cd",
+    "title": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明 - 読売新聞",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0yTXpUc2FBeGpXSFEydElweVgxYXl5M0x5bEJ6YmJ6NjRDVVZaOW5CS2plaGNwNm5MTHVycHgtcEw3NS11azI4MnRKbTBjT2ZOZElmWGx1d3FUdnNuYXdQYUZB?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:56:00+09:00",
+    "summary": "トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明 読売新聞"
+  },
+  {
+    "id": "85cd8be221ce488b",
+    "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-12T00:51:47+09:00",
+    "summary": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 Yahoo!ファイナンス"
+  },
+  {
+    "id": "79090491a0f0e669",
+    "title": "ベトインバンクは、数兆ドンに上る債務を回収するため、スエンベト石油のロールスロイスを売却する予定だ。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaHdId0RxN2dJUk1lN3ZuVXpUNG1KcE5PcUJXR0Y5RVpxdjNZejg0cnBZNFFFNkswZUYtTWotLXZJS3QtUmZBX09tVUF3LXpjOW5BZjlOLUNUa3oza3U2WmQwY0hhNnJVT2xRVFBoX3g3MTMtb2FuMW0xbXRpeWhRdDduM0lHUk52WGROanM1N0VVelp1bmdNdEJpUEdDTlJhVEJNWE93?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-12T00:43:48+09:00",
+    "summary": "ベトインバンクは、数兆ドンに上る債務を回収するため、スエンベト石油のロールスロイスを売却する予定だ。 Vietnam.vn"
+  },
+  {
+    "id": "38d59e5375c3f741",
+    "title": "原油の現物価格が先物の5割高になっている構造を考えてみる｜BRIDGE VIEW ロケットスター荻原猛 - note",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KUXZhdUhvbVY3UUVjamFRa00xdTJnU2FRbWtrVFhGM2c2WElwaUhBSDZkM2xEdUVkXy1uNjNwUTBNWUk3ZS14bWpTZHdBM0xLZlBSaWRGYnVrTU0?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-12T00:42:28+09:00",
+    "summary": "原油の現物価格が先物の5割高になっている構造を考えてみる｜BRIDGE VIEW ロケットスター荻原猛 note"
+  },
+  {
+    "id": "a5e10fbacc33feb3",
+    "title": "トランプ大統領、ロシアとウクライナ間の「エネルギー停戦」を宣言 - CoinDesk",
+    "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONDlfc0R2TFJIcU9VeW40aU05NXV2MHhpRGFRb3VsRjhaTmp1R1dEOW45OTFmaHNnc0x0QzM2RjhZaGc1dmtoTG5XOWZxRmRjQW1pNnpPSHpsajNlWENOYjlnOWFYN0UwTmtyeVd2Y3h4eDcxNm1qMlY1N3ZtWlNFYi04WFR4VkNuWjFSOWlhdzZQNS12RnloNG0tRi1uejBiVU5OSDVIWW9oa2xsRWJWNmtYMTNHUQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:40:47+09:00",
+    "summary": "トランプ大統領、ロシアとウクライナ間の「エネルギー停戦」を宣言 CoinDesk"
+  },
+  {
+    "id": "127aad214e9a3e95",
+    "title": "トランプ氏、ロシアとウクライナの「エネルギー停戦」合意を主張 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB6X0NocW1WMHYweTNmUml2dkNDOUxmeDRjQjFoanZneUVuOTBqZmdLZnE3WnhORXFGUFU2dWtZNEVNWVBDX3MtUGhxUnM1ckVkb1ZqQ3pCV1otcWVuUlhMdHJrNVhTS29hbktERA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:26:43+09:00",
+    "summary": "トランプ氏、ロシアとウクライナの「エネルギー停戦」合意を主張 日本経済新聞"
+  },
+  {
+    "id": "e8d9dd049b04eb37",
+    "title": "トランプ米大統領は、ロシアとウクライナが「エネルギー施設における停戦」に合意したと発表した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmhycFlvX3RLNE82d3BhWHQ5T0dnZkNvNkVHTXJZWkhfRlE5WmtGSmw4S1JUS2loVUp3YXJJWEpvWDZlX0dlTl9FQWdLUzhiczNkNnJSdnRiOEVZS1hta0EyQl9Dd0hBUDFJZXg0YlhVSlRTdk4zTHdGR0pPNzM2UmFhbVFGektNa0JrWEo1eXlybFhDUnRQVktQRk5yRGRodlREcHJNekJod2EyN3l3WA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:25:26+09:00",
+    "summary": "トランプ米大統領は、ロシアとウクライナが「エネルギー施設における停戦」に合意したと発表した。 Vietnam.vn"
+  },
+  {
+    "id": "665ca8de1a9e8916",
+    "title": "グローバル太陽光発電・蓄電池市場需要と研究報告書 (2035) - Spherical Insights",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVmJXd0Y0eVlIWDFlcnA5WTN2V1Y1WExWejdub3I0R0J2QkFPLVVNZHJtZjUwZlVTQ296enloQ1lONlVUaTkyM2V2bVdLYlA1Zk9uLU5TTXdIMG5nSGxVRnlZNUg2UXh2a1Q2WFllM1hhTl85cUR5Sm5GZDI2ZmxMLTE2VXM2V1ZJU3hJUw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:21:51+09:00",
+    "summary": "グローバル太陽光発電・蓄電池市場需要と研究報告書 (2035) Spherical Insights"
+  },
+  {
+    "id": "dd38340ffa451030",
+    "title": "赤澤経済産業大臣が国際エネルギー・フォーラム（IEF）閣僚会合にオンライン出席しました - 経済産業省",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5pS1Vzdno5M2VVR3hTM28yQzkzSzFfaUdDMXN5aFNhZ005ZUx0VlVtRDI3U3dYRlVleFZhWTZyUUpVOHJ5QXZncWN1TDVXSF9Fa1ZDWVlqWVZ6Q3ljaXU0eGVsVQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:20:39+09:00",
+    "summary": "赤澤経済産業大臣が国際エネルギー・フォーラム（IEF）閣僚会合にオンライン出席しました 経済産業省"
+  },
+  {
+    "id": "0a4d09e3fd7527cb",
+    "title": "エネルギー停戦発表 ウは「初耳」 - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1EUExjd196SmxYZlBSYloxd3hDcktUUmVJUVZiZDhYbmRWMDRrWVZPdnFhUGdlRl9YNTMxdXMyMXlsLVpvckRPLWUzcDF5SjZn?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-12T00:18:54+09:00",
+    "summary": "エネルギー停戦発表 ウは「初耳」 Yahoo!ニュース"
+  },
+  {
+    "id": "559f4575bcd3e397",
+    "title": "【マーケット情報】商品市況・為替・株式（2026年10月09日時点） - NNAアジア",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5tNEVvS0Q5Sm05ZE9wdmxWZWpHaGtrNGwwNTVObGotZ0c5bDM2ZXdGbFZYdWNpVXZJOHg2X3ZDdV9DS2U3UWc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-12T00:00:00+09:00",
+    "summary": "【マーケット情報】商品市況・為替・株式（2026年10月09日時点） NNAアジア"
+  },
+  {
+    "id": "af4498c8133a284d",
+    "title": "Australia Approves Giant Coal Extension Despite Paris Commitments",
+    "link": "https://oilprice.com/Energy/Coal/Australia-Approves-Giant-Coal-Extension-Despite-Paris-Commitments.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-12T00:00:00+09:00",
+    "summary": "Australia has long been known for its strong coal industry, being one of the world’s largest producers and exporters. While much of the worl"
+  },
+  {
+    "id": "b7127a5a8a193e2c",
+    "title": "North Sea Oil Producers Push Burnham to Scrap Windfall Tax",
+    "link": "https://oilprice.com/Energy/Crude-Oil/North-Sea-Oil-Producers-Push-Burnham-to-Scrap-Windfall-Tax.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-12T00:00:00+09:00",
+    "summary": "Since coming into office, the Labour Party has heavily taxed oil and gas companies operating in the U.K. North Sea and restricted the develo"
+  },
+  {
+    "id": "a72e609484a24356",
+    "title": "露とウ エネルギー停戦で合意か - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1tQTl3N1RBXzIzX0QyRkNxVGZEZ0REdW5naGxNNXcxYUZ4U05GMlNfUmNsQm9pQnJTeFZoRl9lSHo0eHhfX2huUS1lV2xPbDA0?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:59:54+09:00",
+    "summary": "露とウ エネルギー停戦で合意か Yahoo!ニュース"
+  },
+  {
+    "id": "782025d2cc4a5a15",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - 下野新聞社",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFAxbzRLTUNJVGZQNWQtRGIwWEVoQTNKMHVENE1rVmdpeklMUWpGME1VVzdmbHk5aERfMjhhaVBqMURPUmRoRC1RYzd1cnFPMnFmVDJrMF8xR3AyNDg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:52:41+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 下野新聞社"
+  },
+  {
+    "id": "f58b33476172e242",
+    "title": "「エネルギー停戦」で合意＝ロシアとウクライナ―トランプ米大統領 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPOTVPRTQycS1CLWlzU1VlSXV3c09oeXVOZng2MnBoanQ1VUJISFFpVERKWnRwQ0VoVUVSQUNqV3k4eGlVQzNicXhIUDk4NzdhNHd4RnJOZWlLcWdSTWQ4NHpRaThockw0VjNJZHhOTURkSVNudXQyQ1Q2bk9LeEpZQU10ZTFzaEpwRVFzVU00aE00M3NTZ3NWN2RDWTM1M3JGMGxaMHlZcGEwb0lxV3dzVlhYcF85UXlHU2hiLVdoTGozNkJRNkF1M3ZlV3lod9IBfkFVX3lxTE55TnN4eFZkSDB2c1o2d3dLeUZrQTR2b3VOa0ZpOXdZQ3dEMTRnXzdDaEdwYk9GcHFmUjdOLVBERk9QNGJPeDF6dHM1Q2xvZ1BzODF2Qld3MkRSdUVGUkx6SHBwWlVjNGFZUnRBdmhuWU5EcHVvVkJXeTdtWUU3QQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:52:00+09:00",
+    "summary": "「エネルギー停戦」で合意＝ロシアとウクライナ―トランプ米大統領 ｄメニューニュース"
+  },
+  {
+    "id": "f24d5f796ba15877",
+    "title": "ロシアとウクライナがエネルギー施設への攻撃停止に合意、トランプ大統領が発表 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
+    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1iQWt6M2YwWk40YkJLWlF2dmdZMXo2dmVkR3BjV1g1SDBDMGZQWDR6eDdPUnNueTczQm14UmdzVjl0Yy1OMGszZE5aXy1hbFp3T184eDYyajVnNjFGdjRuRThncEVXbEQ0NFB5blpHZVI?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:48:00+09:00",
+    "summary": "ロシアとウクライナがエネルギー施設への攻撃停止に合意、トランプ大統領が発表 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
+  },
+  {
+    "id": "a0c7816c801355c8",
+    "title": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 - TBS NEWS DIG",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5SMERIalRXRll0dXQwY3NuMXkzandiTld3aVMwTUNoWS1wR3RVVWwzbWxNckZhMUZraHdNaHlFaUFRZndRdmVjTnJIYUszMFNNVlhDbThfdw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:45:38+09:00",
+    "summary": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 TBS NEWS DIG"
+  },
+  {
+    "id": "22298dd7bd4f3743",
+    "title": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 (TBS NEWS DIG Powered by JNN) - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSVNZUjlDQzRLbktaLUdaQ3hES3JFT1d5RjZ2OTUxaTcxczlTLXRQU3dJR2s2ZzFHWXVINmtfT1ZfWDhrTDM2WFRXVG9uWG5sTXppWkNYVW5wbHhjU3kybWF2ZWw4OUN3cWpFSkZKTEU2bGdmc2JNR3lDdFBsN2FONVNwZTZIT1ZXYjA3Qm9n?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:45:04+09:00",
+    "summary": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 (TBS NEWS DIG Powered by JNN) Yahoo!ニュース"
+  },
+  {
+    "id": "a94834c3d17cb781",
+    "title": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9FUklMbTdPNUVYVU1pWWREbEdSOHV2aGp0U0dJREZXVVFqcFRLaUNTb3p0ZFhhSm56LWZ0MXZHMk8yMDB0eG1YNnBWNVVGNVhFcHcyNU1Dc1p6TVoybHZ3eGpadS1lTVdmUnlXcHR30gFzQVVfeXFMTi1wWlMzZTFHcDVydmdNeGpUWDh1OXBKaU1KX3YzbDgzeFhCTGFrTUtCVUtlMEJUT0dkbGVCb01oZWxJMHRRblVMZTJlcFp4TVBCcXhSWXZVYW9kNUlSOWdtYXUxRDVFU01scklJeEN1Sk5jdw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:45:00+09:00",
+    "summary": "【速報】米・トランプ大統領 ロシアとウクライナが「エネルギーに関する停戦」に合意と発表 ｄメニューニュース"
+  },
+  {
+    "id": "35350b84daa94365",
+    "title": "トランプ氏「ロシア・ウクライナ、エネルギー停戦即時発効」 - 조선일보",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSFlkRUhMUFh3bVY0V1NsZGswM2dPVFVkaF82N05XUEVMOGkxb29SMmJFSERxUGY4SFdRMlRqWTJ2MmJwamljZXliRmFGdklvTWdYNnotallTRFJZMXgzVmlFcUdFQlhLeXdxa2hIcDJhcXlYUG5zMk4zUzBmV0pwc1BGT0ZYTTBD?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:44:00+09:00",
+    "summary": "トランプ氏「ロシア・ウクライナ、エネルギー停戦即時発効」 조선일보"
+  },
+  {
+    "id": "e3be5f507e838bbd",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - nippon.com",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE8ycS1FZXNQOWZJcFVPc1BkWnRhWFJ5amd1S1ZRS3dnZFBTZEpEZUoxVkR1Q1REMmtQa3Y4ZTZDNzI4QjFBcHl3RmFRR3p4cE90NGduYUJkVG45ckl6aGdDNC1iSQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:42:02+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 nippon.com"
+  },
+  {
+    "id": "e7ab445530dbe06b",
+    "title": "【速報】エネルギー施設攻撃停止「合意」と米大統領 - 47NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5BX2JVTXB4NmVoN1E1X3pkVWFHX3p0LW82czJabURDVlRTbEJtUTAtZkNKaVI1ZThScmhVTExueGVfcFNsZ0M4eTdHcw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:38+09:00",
+    "summary": "【速報】エネルギー施設攻撃停止「合意」と米大統領 47NEWS"
+  },
+  {
+    "id": "5c9737e8ee386231",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - 沖縄タイムス社",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1USWhnUXZ1aUtuSmE1LWVZc1ZMOVk2UU1xUW4xM19GWHdxd1hXWksyb0VzbGtOTFBOVU96b203Y0I1N0tGZHJJVWJmdzZFQ2h6cEtXUzFwS2pKVWNPRmc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:38+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 沖縄タイムス社"
+  },
+  {
+    "id": "5a3fcc1ad98201d9",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - 京都新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBFbmE3T3B5RkpyZTBVUzF5OEtTMmQ2NjFTZVlOTERVcFpzZU8zR2t0ZjlaNmVINlJuUHRrR1RRaGtYV1dWQVRnM1MybjFncl9PXzRzcHFyVEk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:38+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 京都新聞デジタル"
+  },
+  {
+    "id": "d9229eb38a5775a8",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - Infoseek",
+    "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VZTg0UzhzWGtoTWE2eFBWODhLRUNmQ2tBa1B6bFhnVUtZSjJSSDY4TjA4YWhIekZycUI1WkZGTVkybUFLUk5CQ0l0Z0VmaDNtbzNWbUh4WGxSLVd1YlI1eUtQX3E0aExBQzhNejJtTdIBdEFVX3lxTE54YW5qQlAtMUVVWUpfU1M2MElRT0V6NTVmQ3VZWjRqMkkzMGlxWnAzaEhSdDJZMVlnNEFJOXQtN2d3UGpOek9lWjh3MHhrZVZxaVJZdk5RV2JtNFVaRmNKcWMyREtTc2JWbVczWjFnTV80a0lV?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:38+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 Infoseek"
+  },
+  {
+    "id": "bd57eb66597618bf",
+    "title": "トランプ氏、ロシアとウクライナがエネルギー関連の停戦で合意と表明 - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBNOVB0dzJGV2xXZmxob1VtTkRlWlVXR3pHZU9TeTNvUldBWWRkWU41TlNQNEFSNlVHQ1hVWmF0WHB5WXNSc3EtT05fMi12OElUYmM2RTlabmtwdERHRU43LUdyam16bW5iMmk0LVlRNVJ0ei1YTkVv?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:26+09:00",
+    "summary": "トランプ氏、ロシアとウクライナがエネルギー関連の停戦で合意と表明 Bloomberg.com"
+  },
+  {
+    "id": "7fbef6d29322c7df",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - 高知新聞",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0tUk5uYnNlLUpmRFdLLXRUbVpUejFpamRfN3RhSEtQY2NaVnQ2VGhTb1pZR1NHSDdzcURaYTFiUy1nRWtrTm44T0Z1Vm5wZkdmVVdUQXh4R3BoQ2V4Tk9Z?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:00+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 高知新聞"
+  },
+  {
+    "id": "29abdebdd5b68bcb",
+    "title": "エネルギー施設攻撃停止「合意」と米大統領 - UQライフ",
+    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNUThnWk9zdVphZTM2bERkZW56RGswbUVLSVF6M0tmU0Uwamp0VHpqdkNRdHE3bWZ5TFVsWFlvNU8xMVZaQUs2dzE1QWVDWm1CRUpUdFJQVW5ZWE9IbndrVHdncjJaZXE4MXpFaGhubkFCMDhNSTJTYVV6LTZlOWdOSg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:41:00+09:00",
+    "summary": "エネルギー施設攻撃停止「合意」と米大統領 UQライフ"
+  },
+  {
+    "id": "3d821bdfa2472e0f",
+    "title": "トランプ米大統領 ロシア・ウクライナのエネルギー休戦合意発表 - CHOSUNBIZ - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVzA3SEhxN3pWQjE3QXB3X2tKcDRMYmR3cld6Q21jdjdmQ2tiTzFmU2h2VXVXOWRWdHNyNHZUMERtY1lraUZOZ3JXOEtYRDVnYk5pTlZrWFdGVHk4SXNUVFp5TXhudEhiTGpqYTQ3WUZQbW1HTkc4M3A1aVhWV1dYV3Jjc2t2WUZr0gGcAUFVX3lxTE9BUTJTdFhkT25kX0RMS0tNMDIzb3BkbXBwbTNFNlJHQVNWQnRjYVZRUHVTZDh4WXExNUNGeTJIR2sxRFA4NkwzOG5RZktyYlcyV1hGbzlaVXh0WHlhRWN5VjlvYllkcXhjTzR6ZWlwcmk4R05zaGFwQi1uelJZNTZCTzZfQlZsM1JwdXo5cmgwVzQxY01fTldhRWFWTg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:40:00+09:00",
+    "summary": "トランプ米大統領 ロシア・ウクライナのエネルギー休戦合意発表 - CHOSUNBIZ Chosunbiz"
+  },
+  {
+    "id": "382268668f1735ce",
+    "title": "「エネルギー停戦で合意」＝米大統領 - Infoseek",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5aeVdlVUFmaUxHYy1yV3JhQzNKM0dSbzYxQmhVZERlMTFaZ3lTdDJZb0U1UWdhRVp3cDhSY2lKemN6d1I1WmxTQ0Q4SmpWd1FvRnYyb01yOVpySzRXREFiODhFY1REbC1zdkJJ0gFrQVVfeXFMTlp5V2VVQWZpTEdjLXJXcmFDM0ozR1JvNjFCaFVkRGUxMVpneVN0MllvRTVRZ2FFWndwOFJjaUp6Y3p3UjVabFNDRDhKalZ3UW9GdjJvTXI5WnJLNFdEQWI4OEVjVERsLXN2Qkk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:38:31+09:00",
+    "summary": "「エネルギー停戦で合意」＝米大統領 Infoseek"
+  },
+  {
+    "id": "fc7e5ef14b453a89",
+    "title": "「エネルギー停戦で合意」＝米大統領 - 時事通信ニュース",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5YdldJS0NqQURJWnQ0NXR5am9HenB5VFRYSGRlYzFaM3J4c205OUtuVEtMTC1vRERPX0hvdkZyMjQxT3dNZFFlbVUwWU5pNVVSQUhDRg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:38:00+09:00",
+    "summary": "「エネルギー停戦で合意」＝米大統領 時事通信ニュース"
+  },
+  {
+    "id": "49e058fd6abf9fcb",
+    "title": "【速報】米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したとＳＮＳに投稿した - 時事ドットコム",
+    "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5rUWxrNEhhUlVKdmo3Y0xUOVVuMWpBXzVPejZXeDBGbFJTRnFlZTF0NkFtN2pwbkNTdFZvbDhleHE3OUZXTjBGLXNMNXRQNlRMRGszb2kzZksxcHJLZy00V2NqVHE3UQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T23:32:00+09:00",
+    "summary": "【速報】米大統領は、ロシアとウクライナが「エネルギー停戦」で合意したとＳＮＳに投稿した 時事ドットコム"
+  },
+  {
+    "id": "862cfd2b25222d9b",
+    "title": "企業決算と為替に注目 - 下野新聞社",
+    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xZ2lsUzZSNXN3bjlCckVDbWJmU3BxakY1SFA1NFpZSFFaaXUwblprOFJQTm9kWnA3bnNSbkZqLXItV2lycWlnV19Sc1FDRDFDZ3N1RXBxV01JY3c?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-11T23:13:04+09:00",
+    "summary": "企業決算と為替に注目 下野新聞社"
+  },
+  {
+    "id": "6f79337df0e84417",
+    "title": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zckZSdHVvbExXV2xBc3Qtdk51MGlVVU9UNHZWeVRPMnRTNFJ6RTlfMjByUlZ6UEc4WGhvVURYd2RIRW5Oa0hXeXVMd0xETDdqamdPZw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-11T23:07:50+09:00",
+    "summary": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 Yahoo!ファイナンス"
+  },
+  {
+    "id": "57bcd2c6c2adfd38",
+    "title": "ウクライナは、ロシアの石油精製施設への攻撃停止に向けた条件を提示した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxObkxTYXBFZHdKZnpyMVVsdjRyWUhHRmdyelN5bWdEQ2l1SWI4dDQ2NEVPUW15WG1ST2xRTXFrZUdhSk1fTzRpbzNaRDhMSTl0cEJHNWlwZWZFSnAwVnJLWlBEZWpBTWN2dVY0MHc3NllCT3NIUU5NOTVqSUtXbThHVlhHbGRCa2tQb2JZbVNlV2tVZw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-11T22:37:34+09:00",
+    "summary": "ウクライナは、ロシアの石油精製施設への攻撃停止に向けた条件を提示した。 Vietnam.vn"
+  },
+  {
+    "id": "9e7b6ed38410ada6",
+    "title": "UAE経済、非石油部門の拡大により上半期0.4％成長 - アラブニュース",
+    "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPVjlQVkpFR0dkMXBLZmYtUWFPVXNJekgxQnRpUU1CVTdrLXRnUU5Bb0VTMkZweHpBOTVYYWhQTktWQjNUenJROEtIUU9ONUVXRmVKc255NTAyZUszd3NnTzNOdWxiN0UwNmlJM1RhaDRPRmxnbHU2X285VjhGMmg1WFRBRlQ4VHItOS1PZW5sZ2gyRGhCc3F6dVhCOG1hR2V0QThKd0RYYUpETHdFOU9WOVNJT0pQSHpvTExTWEd4eV9mX29PdzFvQ0RlcEFOUlV2MGt4allZYnJTTV9JRkIxNFh0Q1JLWkJ4S1ozdXJkZ3Z6QlNnM1NRWlkwek9QX0pJb1o1NEJ4MTVTTklIUlAxdW5TQ0x5dVcwZWVncnBvRUdpbW1UZzRINXVvQjZTRmkyaVE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-11T21:51:01+09:00",
+    "summary": "UAE経済、非石油部門の拡大により上半期0.4％成長 アラブニュース"
+  },
+  {
+    "id": "0d26ad963abc469a",
+    "title": "ロシアの石油精製所は、自衛のために防空システムを購入する許可を得た。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdlFkQlZPZ1FTU0FDX2V2WkxXOFR0YkJIZWlmdVVic0Jva2RWYUxZclV3T1hOcXVfUEduYWI2V0l5S0ExVjN3c2VYa0NsTUNlM3RYcVJmemw0YnlJLTZXMFE0ck9Vem9SZnV5RFZnVDNtXzRNbDJVbnBhRzJLamdVYU15WjdUdUcwd2NaeE9DT3Fhd0JvZ0J5WEJnUDRaZWhJTTJZ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-11T21:32:03+09:00",
+    "summary": "ロシアの石油精製所は、自衛のために防空システムを購入する許可を得た。 Vietnam.vn"
+  },
+  {
+    "id": "c7eb3e719106c5e3",
+    "title": "台風の被害を減らす「人工コントロール」から巨大なエネルギーの「電力変換」、進化する「AI進路予測」まで最新の台風研究【Nスタ解説】 - TBS NEWS DIG",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE44eWpkeXBOcXA4bUV6NjJUNnphenVfdWwwaHV2NkozeVdrS0l1MlUxQ19BUjhtaEswdXUxakowbEVGbjNoODFpTndEQUxKdjFqeEtjWmRiYXc4aVlrM25B?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T21:28:11+09:00",
+    "summary": "台風の被害を減らす「人工コントロール」から巨大なエネルギーの「電力変換」、進化する「AI進路予測」まで最新の台風研究【Nスタ解説】 TBS NEWS DIG"
+  },
+  {
+    "id": "3744c2a4fde2b1d2",
+    "title": "ドバイ総研、為替による円建て購入予算を調査 同じAED価格でも円額に差【2026年9月】 - PR TIMES",
+    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE8wX0RGYVZMOGZtRGdNbzh3dVRaZmVXb0I0UEhOVE42RmtoLWhBbGJzUkk4c0x6T1k1ZWxGNS1lNGlMLXA2OVFqQVB3RHFNQzZnYXhQTF9OMVQ5d3loOTM0VFl0WGhReEJwRUE?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-11T21:00:01+09:00",
+    "summary": "ドバイ総研、為替による円建て購入予算を調査 同じAED価格でも円額に差【2026年9月】 PR TIMES"
+  },
+  {
+    "id": "aa4427a84fe9cd68",
+    "title": "ロシアがエネルギー・インフラへの攻撃をやめれば、ウクライナは製油所への攻撃を停止する準備がある＝ゼレンシキー宇大統領 - ウクルインフォルム通信",
+    "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQSjFsQk1SbFhQaXBUcEpMQmUxbFUzby11dFI0c0dyTWZYb20wNWhnZGtSS1ZYQWNzSHN6cmtVQ0FmRjF0ME9nTExPaUNVTWZMdXg5dFc0UmRPQm4yVjVpN1FwSzEzWnNWNXlGTHpKV0pzNXZ4RjBibDBFVWlTbEdRcjFVZWdtb3JNZ0F3UmJKMUt0eUZKNFRqbU1CODlzOGY3ano5bWh3bmVXWFRqNkdubkc2ejJqMjF3eXpXcTZ1ZS1zM0s0T0VOSEZXMXdSanlVWHd1eWtGamhOYk9vTWRJYjNna243WmtPSUVXTW56d1ZQRHNLZVc3MEQ1czlkVXdadFpQM29vdllkanNLYUHSAZMCQVVfeXFMUDg5Zi1fOFNGYmRUU3RIcDgwcFhHaThxalVOeElQZWlPUFRGbFlxbFhKd092NFZ6eWZZSndod01UY3J4eGg3S3VSTnY3VTl1QzV6WHUzcE0tVWlobmt1WVhma1V4NzFDbExaMkRtWFhGVTNBRGc2ZDJwajZpSS1QUk1vTEFVUjRhNE95Y0lNZXhOOVhrTXdRNzVVWmNVOGl3YnpraWotN0xncW1FWHNUaXk2bW5mbVdmWGE3bXpkemJyMEZpbmM4NW80TzYyTk1XdDV5Uzk0N01uYzhYbkFkTjQ3SUpaczNwZTNHRnh5ZDlIOGUtS01ZZGlpVHJ1Slc1WlJOTEd6R3lXcnJ5ck84b3cyVEk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T20:28:57+09:00",
+    "summary": "ロシアがエネルギー・インフラへの攻撃をやめれば、ウクライナは製油所への攻撃を停止する準備がある＝ゼレンシキー宇大統領 ウクルインフォルム通信"
+  },
+  {
     "id": "4975f8c492346cd6",
     "title": "中間選挙を控えて戦争発原油価格の急騰で危機に追い込まれたドナルド·トランプ米大統領が電撃的にロシア産軽油を輸入することにし、波紋が大きくなっている。 軽油導入のために米国が対露制裁を緩和すると、ウクラ.. - 매일경제",
     "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1BU2JjN2JMOF9xLTZQc1U0X0s5Z3N0bzdONkdlcTcwbFZkUTRIdW51UG1lQjVtN3RSOTJ5MGRweEgtWlhweE1kT2R2WXpfMm8?oc=5",
     "source": "Googleニュース｜原油・石油",
     "published": "2026-10-11T20:12:12+09:00",
     "summary": "中間選挙を控えて戦争発原油価格の急騰で危機に追い込まれたドナルド·トランプ米大統領が電撃的にロシア産軽油を輸入することにし、波紋が大きくなっている。 軽油導入のために米国が対露制裁を緩和すると、ウクラ.. 매일경제"
+  },
+  {
+    "id": "3d8edfba9acdc47e",
+    "title": "【11/15(日)】普段は見られない発電所の裏側へ。無料の日帰りバスツアーで再生可能エネルギーを学ぼう。 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNQkFBWUNiRldrVlczS0NlMHV5S05HWVpDQ0VZZmhDTE9ER0VDc1V1WWZqT1VQcWVNS1JZNnBUcDA0UnJlTFdPa1VtV0hiOHVUQ1B4cGlGTjlLSlJtVWRqQUJLMXV4VExKVHJnQ3VadFJqVVRUanNiZExUSHljVnB0MDk1NEktU1J5UE5CTjBYSk5qWWZKYzlUTFBqZGRUc3VUMVIxNHg1TnluZmJhVFhSS2l3c1REVHB3aWJNNkNWRjBlVG4yMjFvWWJ3cl8tbXROQjNJ0gHYAUFVX3lxTFBObzI3d1V4VURyVEI5bHl3NkZvTVRwN2tvNUdDNXA0NjhVZ2dvVzRFVjdhaHA3c0lpaEY2UElRaGg2dnhza1JPekxTay1tcjNleXE0a2p4d3E0SkZseEVXa3BLUmJueGZNY1gzWkV0N09Yc3o0c0t2MmRwY1ZTcXd1VVpFNkhZNmZCVGNjUlk0U3RXTnU5aU9takl3TmZGQ3VqMElsaDByeWVvd25VVVZ6OVNKYkJ0eUhNMUJGa3lET1RTSVJCa2VnY0ZtS3htMlN6VDl5b2RIZA?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-11T20:00:00+09:00",
+    "summary": "【11/15(日)】普段は見られない発電所の裏側へ。無料の日帰りバスツアーで再生可能エネルギーを学ぼう。 ｄメニューニュース"
   },
   {
     "id": "8b39f45e08763405",
@@ -16,6 +424,14 @@
     "summary": "サイバーセキュリティ株式オープン(為替ヘッジなし)【03315177】：基準価格・投資信託情報 Yahoo!ファイナンス"
   },
   {
+    "id": "c65e9f80d88990cd",
+    "title": "為替相場 １０日（日本時間 ２時） - 佐賀新聞",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5LQ2tiak14UlVfY2hNOElIUEphY0NFTTljcVNmNlZKWnVmX0M5Y05WdlhPQkN4dGd1SWo3YzZqd3V1ZnJxbGFFUTFuUmpmVzRtaDZFVVRn?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-11T19:35:42+09:00",
+    "summary": "為替相場 １０日（日本時間 ２時） 佐賀新聞"
+  },
+  {
     "id": "9918a32d18d82157",
     "title": "アラビア湾で火災発生のタンカーから乗組員22名をUAEが救出 - アラブニュース",
     "link": "https://news.google.com/rss/articles/CBMiigNBVV95cUxPTVlEa0ZNMXQ5ZmJrZGFOMzE3cC1mMENZS3ByTjY5TnZLMk50U1BWSW9tVXkydFEzT0JWVXhoU21Hclg3Wm04NGtiZUk5amFJajlTa21QZEtRQWhBSFBIY283LXBiLThZTkRySWprMzlYX05kdzdJd2U0V2FlVllfZ3p6V1pwb0JUNlBVR3B2YTMxcU1CeHRFWVhhLUZFZkJFVVN4VWpUVV96Y2tVaDZ5SGE5cmFqODlqZFJxb1VfNVNxRVh2bzBpRDRYejFzWkVYdzR3YXFuQXlGUW1PbVRuNVBYcl9SREpxdlFJVENSdm1vMWZmQ2NjUFJHZko2VHFBWjBETnROU19oS1dDcjc4MGRET1lrU2xYMGhlbXFQR3Z0ZXhEaUhSTmdDcE5abnBOTklya1ZzeWFjR0lvdmlLbEhIbk9CR19JcS1jNjR4aGxsaG5Tckcxd09aeEU1NU1XYXM1eGlKUXN6bmphSmcxYWVrbWxLUUpVbE1ob1hKRzhqd25vNW1VTzZ3?oc=5",
@@ -24,12 +440,28 @@
     "summary": "アラビア湾で火災発生のタンカーから乗組員22名をUAEが救出 アラブニュース"
   },
   {
+    "id": "da96b5e7b34ffc78",
+    "title": "原油価格高止まりも…レギュラーガソリン平均小売価格165.2円を維持 灯油は33円値上がり 岩手 - TBS NEWS DIG",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5VVHMwcmJndkRyOVJRRV9WMF9GOWhURDM1Mzd2VzQxeDJSbzFnRmtUNjNaNHlKSzJXZE9zN3Y5OVNVV0hPSml0NFlwdE5qM2Zzc21mTUNDYnFRajI0bW8w?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-11T19:26:00+09:00",
+    "summary": "原油価格高止まりも…レギュラーガソリン平均小売価格165.2円を維持 灯油は33円値上がり 岩手 TBS NEWS DIG"
+  },
+  {
     "id": "fd92855b4a21e028",
     "title": "ビンソン製油所（BSR）：クラックスプレッドサイクルとズンクアットプロジェクトによる長期的な勢いのおかげで、利益は32兆6000億ベトナムドンのピークに達すると予測されています。 - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPVklRcDdkcE95dk1TSE5obmVteFJuTVFha3ZqekhmZDg0OVVXbDVfWE96WGVMdjZxX21HaTJLbTFodkpIeXBDMVdKeUlJUXRYMEtmRVQtVTBUaDlBMmM0SngxdFBNR1lhWnRjNU90b3I3dHQyVklKamJRaXI5dVJPMVh3X3RtRm1nblBhckZOMEFwTV8zejJ5bDFVampuQ2wwaDlCTDl1X29rWXotYjRKNTRYWW1rQmJTclZuczZaSDd5cDNkZ3hHcUZxMEF4Szc1M1hCYVZ2c2xoS0ZWOFhyMUUyc1U3NlUwa3c?oc=5",
     "source": "Googleニュース｜原油・石油",
     "published": "2026-10-11T19:06:30+09:00",
     "summary": "ビンソン製油所（BSR）：クラックスプレッドサイクルとズンクアットプロジェクトによる長期的な勢いのおかげで、利益は32兆6000億ベトナムドンのピークに達すると予測されています。 Vietnam.vn"
+  },
+  {
+    "id": "753a7b6a7959083c",
+    "title": "欧州 ユーロ / 日本 円【EURJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1WeXJxOFNDQU8xX3psV1o3UXQ3amZTcW1jWWQ2TmlDcnAzQ0pfSzlkeDlkdVRXR2lUN2FNeU5WanBZaDlJeXhkU2NZeXFpeXZxVDdVbw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-11T18:54:33+09:00",
+    "summary": "欧州 ユーロ / 日本 円【EURJPY=X】：為替レート・相場 Yahoo!ファイナンス"
   },
   {
     "id": "a5002a4f2ef5e47a",
@@ -46,437 +478,5 @@
     "source": "Googleニュース｜為替・円相場",
     "published": "2026-10-11T18:37:15+09:00",
     "summary": "トルコ リラ / 日本 円【TRYJPY=X】：為替レート・相場 Yahoo!ファイナンス"
-  },
-  {
-    "id": "b7777dda02d84115",
-    "title": "インドはルピーを守るため、米ドル取引を厳格化している。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1Jdmh1WC1xRFM2ZUpwZ0Zxak9CamhOa3dOWmNnUWlUNjd1S2xIb1FXSzdIZW5VWU80WHgydGZDRDJyeThrbmM5RU9vaWdfREZLUVppRUZVZVM5UjNJV3FoZDd4NC1wRUJYY3dpV0l5NVhhMF9aU2NN?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T18:34:25+09:00",
-    "summary": "インドはルピーを守るため、米ドル取引を厳格化している。 Vietnam.vn"
-  },
-  {
-    "id": "84f7a57d92c24f51",
-    "title": "年末の最後の四半期に十分な燃料供給を確保する。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE55X2Q5V1BRcVZaNVVPQmNyakJTclFSOGRMZHJxQm5HbS1QVm1TWU1hTkR1TDFlQzlkSDNQNzBwNy1VdTNrcjR2Slg1V2Z6d3o0VU90RTBjcy16OGdWNnpoTTNKQ1IzNkRBTzZUcUpJcVMyTXZIY01v?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T18:19:13+09:00",
-    "summary": "年末の最後の四半期に十分な燃料供給を確保する。 Vietnam.vn"
-  },
-  {
-    "id": "d4ea0dc40de2a2fc",
-    "title": "サウジアラビアの非石油工業生産、広範な縮小にもかかわらず1.2％増加 - アラブニュース",
-    "link": "https://news.google.com/rss/articles/CBMisgNBVV95cUxNLU5SbVlzUWU0RXI3OElHTTV2SXUtaGFKdGJIMzhUR3hSZEF3dmZqUXdPa3lRZFBtNXRWZUREVEVSRHRWRDIyd3lPVlcxNFFBd3BBdjQ4OTRxWGRIX00zYmo3emh2M3pCUjB6dWtKdm1LRnQtdDB0ckRfLXM5RWtnZE1hdUtlVE5nN1JjZTVud2ZRa3BaY2hCdmtYellva1JSYXR4ZFYtMFo0NFFlSW9nX0tVZ3hjNmJZTzAzOWVFZk5uSlJWWnRLc05nTjVGTHQxblI4RHYxaTVldzNZLXR0OHVuMjd2NW1BOVZVYmFBOTNfblRKbG5xbUR2ZW5BNjlZMGxMUU9BU29UV2EwZTFfNHQ5ckdmdUg3azRnNnZ0ZExac1lwSEdhMkZoVExxQncwNWx3cjR6akM4eV84dXJEbjJhSk1HWEhySGhTQXN5NzUwa0htR3RzRnBSRktyYmEySkdveUlVLTBSaHVRalhka0lqaTNyczFOWGk5MHc1aHJiS21sNV9YMjkwem81dnk3OXVqQkhRRXhZNVBpUmhkY2ZlbS0wZmRsRFNnbzVFa1c3UQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T18:17:08+09:00",
-    "summary": "サウジアラビアの非石油工業生産、広範な縮小にもかかわらず1.2％増加 アラブニュース"
-  },
-  {
-    "id": "02da928a90109d76",
-    "title": "エネルギーセクターにおいて、世界のエリートたちが古典的なウィコフの蓄積パターンを展開。 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxONFRFazA3cmdCSXZPTXZEdXdhMm9SWGJRdU5FSDRNRDJVamh4aHJYcE1nUmxYYjdMbmxidnoteUpFUXp0YVYwa1NWMGctODdTSGVsMW9VQVN5a3B2UGp2a3ZtaW1YLUtaamkxSm1BNHl5WjRGOGVxZTc4QTZsU09FQUJ0U0NKaWRYVnBGYVlFTEM5c0lhZ2k2VzBUMUFXb3puYnRlLVl0bkhFakt0TFB0VWcwSVRCRGdha1c2UFBsQTJxUUh0?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T18:07:35+09:00",
-    "summary": "エネルギーセクターにおいて、世界のエリートたちが古典的なウィコフの蓄積パターンを展開。 Moomoo"
-  },
-  {
-    "id": "96b50db4903efa3a",
-    "title": "中国の太陽光発電容量が石炭火力を逆転 グリーン貿易額も世界首位に - 36Kr Japan",
-    "link": "https://news.google.com/rss/articles/CBMiO0FVX3lxTE40eDh5OFMxcmNKUGdZVVBQeUdrRXhzZTIwTzBoYU5mal82S0dDdXNhbm1WRU55alFDZExz?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T18:06:07+09:00",
-    "summary": "中国の太陽光発電容量が石炭火力を逆転 グリーン貿易額も世界首位に 36Kr Japan"
-  },
-  {
-    "id": "1c2bbd468cbdab33",
-    "title": "「ホルムズ危機」が突きつけた課題 国内製油所をいかに維持するか 石油製品の供給安定へ - 産経ニュース",
-    "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9iY2dCNXZCS1BLM044Nm1qd1R6aHdjbXB2Rk4xMHNGOVJwQXVUUWhBT2ZsNnp4YWUwT0tsWjZTZWVtM2FmY1lXMWhidUY3TGR0bmN3UjE2ZVVUSzNLek0xT19KekFPb1RBYThBN3JHenRpT1lTbUE?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T18:00:00+09:00",
-    "summary": "「ホルムズ危機」が突きつけた課題 国内製油所をいかに維持するか 石油製品の供給安定へ 産経ニュース"
-  },
-  {
-    "id": "9b531e19361c80d3",
-    "title": "公共投資と石油・ガス:2026年末の株式の明るい兆し - Laodong.vn",
-    "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2ZhbndGNUpETTVxMVdxa1B3STY4RUw4d1VMVmNSbF84LWM0Z1lvd2NORWwtanRKM0t4VElFUFdqY1NNMTZVR255Q1RTVWhhQXp6XzE1QWgxWVNwd2U0b2tmLUhEZk94LV8zTm5YMFlCclNVdXc2OFpZM2J3Q19ielg3TTB5XzFxcDJySTNaa2oycG03Y0FZTVZjWXA4V1hMRHc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T17:34:53+09:00",
-    "summary": "公共投資と石油・ガス:2026年末の株式の明るい兆し Laodong.vn"
-  },
-  {
-    "id": "8254bc30a0f08d3e",
-    "title": "ペトロベトナム：戦略的技術の開発、新たな成長機会の拡大。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb2xPcUVPdFIwT0FqTGlObzlfZFFMQVVNbWRjd3NuUWk0cmkzQUF5SVVndkhmTjYtWUhod0VOd2RjaVFvdkRqS0tNUDQzUG9YVmU0V0w1eUpjVWFFczhlaHpaNlNXZHlvanNNeWFFTGowaGd4VmtBRGVmTWdlUmtGc2R5emZuUXRlVWgyWF9rOUNMSlJ0TDNSb1lQOXZiak9VOWlWMWRVWVE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T17:14:03+09:00",
-    "summary": "ペトロベトナム：戦略的技術の開発、新たな成長機会の拡大。 Vietnam.vn"
-  },
-  {
-    "id": "c16d3172973c08b3",
-    "title": "グローバルビッグテック間の人工知能(AI)開発競争が激しくなり、AIデータセンターを稼動するための電力確保が核心課題に浮上した。 おかげで、米国最大規模の原子力発電所運営企業であるコンステレーションエ.. - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Pb2Q0Z0lBd2ZZWDBsdElIQ3UxUVhIWERGb1FTczBVT2p2RC1Wd3R1VXpna1gwRVp1VTNMV0F6ckhPX3lTYmRnbEYyUC1yZnM?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T17:08:34+09:00",
-    "summary": "グローバルビッグテック間の人工知能(AI)開発競争が激しくなり、AIデータセンターを稼動するための電力確保が核心課題に浮上した。 おかげで、米国最大規模の原子力発電所運営企業であるコンステレーションエ.. 매일경제"
-  },
-  {
-    "id": "fcaef783f06c0ec3",
-    "title": "バクニン省の成長のための電力確保 - 第4部：資源の活用 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTW1wdDUtcjlfLWRwRmszUXF0T3lXUVFTZ1ROVnhaYWdwczI2T001LUFxa0hSZUpQdDI5eWFLWEoxT1hiMV9LVmN3d0txVTVtZ09pcUVsXzV1U0Nwc2pqX0FvM3B6WmVIelluczc4WHU0NTltRlMxR05HRnJJN19XMWtOd0dXM2trUzFaSWhfVVlFakE4V1ZN?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T17:04:04+09:00",
-    "summary": "バクニン省の成長のための電力確保 - 第4部：資源の活用 Vietnam.vn"
-  },
-  {
-    "id": "a6b91a2e5f61f890",
-    "title": "楽天・ゴールド・ファンド(為替ヘッジなし)【9I312261】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QcW1nVl9PUmZ0aHVpdE5BSmdtU29IV01YbjNTdm9abUsxWjdYMFVQSzFSTUNSTGtrVHVLZFE5VzhVbWJETFhHRGNSaVNrSFRCUHVyMw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T16:46:44+09:00",
-    "summary": "楽天・ゴールド・ファンド(為替ヘッジなし)【9I312261】：基準価格・投資信託情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "d5f679cf3bfa8985",
-    "title": "ユーロ/円【EURJPY】：外国為替相場FXレート・チャートをリアルタイム表示 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pREZlRmliZXhfWS15YlhsbFYzdjdIYkVVeXpwU0Z1T2U0S1lVYzB4U0RkUGtFcEhxeUhZa2M4Y1JRcVJGNTFEdkpBaU9nLTV4NXVKaW5R?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T16:33:32+09:00",
-    "summary": "ユーロ/円【EURJPY】：外国為替相場FXレート・チャートをリアルタイム表示 Yahoo!ファイナンス"
-  },
-  {
-    "id": "a109cee02826ad73",
-    "title": "世銀・IMF総会12日開幕、中東戦争と債務膨張が影 エネルギー供給に構造的不安 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBqLTljeUFSb2MyVHV2ZDJXRDdHeE16dEdIYk42Z2ZSZkpwUWkyd3hqdnpvREdZbEdUclNPYkxyRDlDbHNwazVVWkVqc2xsY3JhU0dMUl9JNDA2dGhMNGlWMDZhRkU5RXlFZExreTY5RlNiWFRG?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T16:05:00+09:00",
-    "summary": "世銀・IMF総会12日開幕、中東戦争と債務膨張が影 エネルギー供給に構造的不安 BigGo ファイナンス"
-  },
-  {
-    "id": "3d84ebfd38bfe36e",
-    "title": "FX・為替相場の注目指標や予想を解説 - 【10月12日～の週】為替相場の注目材料スケジュールと焦点 - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5IdHRhOWFFb0RmejdLYzdWZ0N5Ym53RmJTTVQxM3pxazlJUGdtdmcwN0NGT1Frbnl3clRhOHpmcV9IRU1qSDZqSm54LXFQZ0ppUVE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T16:03:00+09:00",
-    "summary": "FX・為替相場の注目指標や予想を解説 - 【10月12日～の週】為替相場の注目材料スケジュールと焦点 ザイFX！"
-  },
-  {
-    "id": "48da5ba7e66d8a44",
-    "title": "青年リーダーは、若いボランティアたちのエネルギーをデジタル空間にもたらす。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMGMzdzM1X0tjZTA0eTNpVWI0RXV5SUNfWlNlWVhtTFZabkhKc1ZheDhZdlBSWUZMSkgyZUpHc1Vrb2tNMVhkZzJ5MTg2UTJwS3VLOGJsUEo5a3RXN1BIRFpuYWdRMGdqaXpKVVg4aDJWajFFRXRxTW9yNVRrd0pWaVlPSTdrYTBsS0R3T3V3N0FyRmdD?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T15:43:01+09:00",
-    "summary": "青年リーダーは、若いボランティアたちのエネルギーをデジタル空間にもたらす。 Vietnam.vn"
-  },
-  {
-    "id": "fd4d8b15c51c9205",
-    "title": "為替相場 １０日（日本時間 ２時） - 佐賀新聞",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8yZmNsbmJwV2RqUTRtUzMxQ2twOFROSkpyMkJ1Q2Y0WXA2X1BYUVcwY2xfR0s0V1RKR05obHI0bGRvcXlybmFkY2ZYS3BmVldSMVdQLTNB?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T15:28:15+09:00",
-    "summary": "為替相場 １０日（日本時間 ２時） 佐賀新聞"
-  },
-  {
-    "id": "feb49395b9835595",
-    "title": "参謀本部：ウクライナ軍、ロシアの「サマラ」石油輸送施設と軍事施設を再び攻撃 - mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQZjBOMEpnenIxS2NQMUhfSm92djFBLW0tWEtXMHhfMUFmRTR3QzdpZS1NTk1SdUhUQUN2bVN3RWJZQlBXMU1sVzhLVmxWMXVteG90THdBQnVTczFaN1d2bGlHX1dxQXBvbGdzRzZzdnRnbmFmSHZISGYxcl9pVzJpajRQMTNGSFlJcVlhX2dMNjhfZEdPS0FVbzB0QkJJU3FTQkd6NW0xLVY4SVhndG9sWTZDSVFqVGlDZjN2X3VhWEdKZnRzb052MDgxNDF2Wm4xUmEzRlN3UEdqZnlYNFFNUk9mZDFXNElmbG0tOS1Nbw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T15:00:07+09:00",
-    "summary": "参謀本部：ウクライナ軍、ロシアの「サマラ」石油輸送施設と軍事施設を再び攻撃 mezha.net"
-  },
-  {
-    "id": "4d12947f7100b768",
-    "title": "債務増大や金利上昇が焦点、世銀・ＩＭＦ総会12日から エネルギー供給に懸念 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVaGZTWlFzSmhxV0ZCWTdqWDhvOC1UNFJ4bDZUX3ZEVVZYa25hLVVnMnB5V1lBa2RnZVJ3V3ZYZS1oWHY2NVVUcHpHa0p6UnNheXgwSWg0RG1FZ01MS2R2cE4tZGpNMlFqNlVZck1oR2hfN2Z0RENUWFJZb3RrOFk?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T14:57:00+09:00",
-    "summary": "債務増大や金利上昇が焦点、世銀・ＩＭＦ総会12日から エネルギー供給に懸念 Reuters"
-  },
-  {
-    "id": "b6e1169a26af547b",
-    "title": "債務増大や金利上昇が焦点、世銀・ＩＭＦ総会12日から エネルギー供給に懸念 - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB4X1NTR2dIa3VJTVpxeFNUTGNlaHBGdFI2MlItZUdpSVV2UUlsdUhHOUM4dlVfeFlTYVhvWnV6dF9lR2JTcGhmeGx1VHBnQVN5S0hBRWFyaFk0UQ?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T14:56:00+09:00",
-    "summary": "債務増大や金利上昇が焦点、世銀・ＩＭＦ総会12日から エネルギー供給に懸念 ニューズウィーク日本版"
-  },
-  {
-    "id": "8a54528573554e31",
-    "title": "米国は、ハリケーン・イサイアスによる供給途絶を補うため、備蓄から400万バレルの原油を放出した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOenhUTkczamxRRGlpZXdnNmctbFM1dlNERlJ4ZFVISmdwUjFnZVFFeTVsR3BzTmNxOXVES3NnQXo3RnhOWmh3WE1iXzVTcEZvd2x4Qmw1RFdCVjQ1Y3lTQ1JhbmVvclk5enpEVVA4SWR6RkxnTTFlY0czVVRwODhJM2dOakRZTFNndFc1WDNOYTZmR1VCVVB3ZlRtVnB5TjNaNHV0ZXlCZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T14:40:49+09:00",
-    "summary": "米国は、ハリケーン・イサイアスによる供給途絶を補うため、備蓄から400万バレルの原油を放出した。 Vietnam.vn"
-  },
-  {
-    "id": "430b6fbb51c217ed",
-    "title": "美しく生きる模範的な若者たち：ポジティブなエネルギーを広める心温まる物語を称える - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQamZmQkxvWGJUR2pwd1VhMVphRFhxN2Q3Z3lTaXRyT0VJOUN3QlAtdURmM3VDTDlyd3h4OUlTek5GT0V5aW5pdy1lNkhtLVQxZUMxVi1Vb3Rqck5oWWpGR0lSMWZaWnZhZlctTVhkU2dfT0wzYTRMTnV0alFndTVNQzk4TEFSakNvckpSTU9mZjBXUk1zaTA1TjBuSU4xd0FRb1JlMWlwWE91RTBsUURNX253?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T14:40:48+09:00",
-    "summary": "美しく生きる模範的な若者たち：ポジティブなエネルギーを広める心温まる物語を称える Vietnam.vn"
-  },
-  {
-    "id": "f2e18673945acad4",
-    "title": "イラクとシリアの石油パイプラインプロジェクトに関与したトランプ特使は規則を破ったのか？ - IDNFinancials",
-    "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaWVldkwzMWlPZUxGSnpGdkt6NGIzcTNUTDE1dGtJRnFJQ2hRTFVuckxWNDJTUlYtNDUtUDl0QjZHMWV2cHViTm1jdTdYR3JqdkE5RXR1bWVxa1YxYXN0TnM4SEl4R2dET3pBT3MwT0tpN1NEYzFiblZhcmZHZDVxeGxaRXpiakpIRnNZUXo2YTNpWmplcUFkSDM0R2doVFN1aDFSSFk4RHk1TkVsRnc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T14:00:00+09:00",
-    "summary": "イラクとシリアの石油パイプラインプロジェクトに関与したトランプ特使は規則を破ったのか？ IDNFinancials"
-  },
-  {
-    "id": "efb523c6f1ed8c2c",
-    "title": "韓国-ロシア石化製品の供給をめぐってウクラ問題提起···外交論議増幅業界線「海外トレーダー再販売」主張 - 매일경제",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBaMXlJMkVLek93cjhLRnp3NjJMMGZIRWxhQXVVc2tqZ3JscC11ektlNWg5Q2hWUk00TUtVekJzNFlNclpER2RnYUJfeG5zTGV3V3c?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T13:43:01+09:00",
-    "summary": "韓国-ロシア石化製品の供給をめぐってウクラ問題提起···外交論議増幅業界線「海外トレーダー再販売」主張 매일경제"
-  },
-  {
-    "id": "64773a53e4b16205",
-    "title": "Iberdrola、韓国風力市場から撤退——背景に「政権交代リスク」 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1CYnhPN2JJRlRUdUZrXzhHREdEaVNjS1M0NW0xWG9SVVdaVDhJUGxvVUhCTGtsbXp0NVRUaDlRa1ZGUFdwZE9jWXlnYjYwamt5QjhWOFE5NG13QWN3RWRXWm5rRnYtcVlHWWM0ank5WUgzQkRt?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T13:25:00+09:00",
-    "summary": "Iberdrola、韓国風力市場から撤退——背景に「政権交代リスク」 BigGo ファイナンス"
-  },
-  {
-    "id": "15502cce4d6e4c05",
-    "title": "アラブ首長国連邦沖で石油タンカーが炎上。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1YbU5tX0VsZXVIWEp6QWwyVDFBUXJ3aFlQMU91NHpzeS1WN1FGWWpJQS1RQm1ERThIXzVydWVSWXZXYnEzTmtxUzZyWmFyVHJDWHZzMFZHS2hNdjRJMVgzMjMxeWx5VGN1V2Uxd2FRS1BWOERlTng4VQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T13:10:30+09:00",
-    "summary": "アラブ首長国連邦沖で石油タンカーが炎上。 Vietnam.vn"
-  },
-  {
-    "id": "97ae9e94aeb444fd",
-    "title": "原油供給の逼迫は、エクソンモービルの株価見通しを変えるか - Simply Wall Street",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQT0pPUklTaGdtMDYtTUpBZlEyQlV5WXJoQzBSOXQ5Z2FmSC0zbXhFZVJzSXUxSnhWbkVxVzNGQ2Fwc1ZJMjdEWkh3ZXpsZFpKUkNSZ3ZRS09VbmQtSjJ2Y1Vsc3NFREZoeVMyQ3dnYnl4SmVfeHpiMEhsTVRibEE5SF84LUVFWi1iQWdTYm5Gd3hpVGxzcjRmbXVQUi3SAZwBQVVfeXFMUE9KT1JJU2hnbTA2LU1KQWZRMkJVeVlyaEMwUjl0OWdhZkgtM214RWVSc0l1MUp4Vm5FcVczRkNhcHNWSTI3RFpId2V6bGRaSlJDUmd2UUtPVW5kLUoydmNVbHNzRURGaHlTMkN3Z2J5eEplX3h6YjBIbE1UYmxBOUhfOC1FRVotYkFnU2JuRnd4aVRsc3I0Zm11UFIt?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T12:39:05+09:00",
-    "summary": "原油供給の逼迫は、エクソンモービルの株価見通しを変えるか Simply Wall Street"
-  },
-  {
-    "id": "8e8004a6afc4b4f3",
-    "title": "中節能太陽能、チベットで太陽光発電と蓄電池を組み合わせた初の一体型プロジェクトを始動 - 中国経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5aeUNNbUQwRlpaY0YzNlRmaGtHRXBSLVlFcVpzS1BhVEpndGp6VVdxeXdZdW9WRXZqS215aFlZTkVWbU1Za2Q1X0lFdw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T12:30:00+09:00",
-    "summary": "中節能太陽能、チベットで太陽光発電と蓄電池を組み合わせた初の一体型プロジェクトを始動 中国経済新聞"
-  },
-  {
-    "id": "ddc724afe1b0d088",
-    "title": "ゼレンスキー氏：ロシアに石油製品の販売を認めるのは、戦争への投資だ - mezha.net",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9uR1F5T0gzWWh0TC1kUmhBczgzVXloRmxXcXNRX2RiYVd4YkRiUFpKckl6aVMwdDNsNS15VDgwRG1lUXRLM2Y0b3BRYmdreHEtRnlvdm5xM2lUbGtxQ2RpdTh6S1hoYl9K?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T12:22:58+09:00",
-    "summary": "ゼレンスキー氏：ロシアに石油製品の販売を認めるのは、戦争への投資だ mezha.net"
-  },
-  {
-    "id": "68e42c58b2d078c5",
-    "title": "10月11日の米ドル為替レート：米連邦準備制度理事会（FRB）による利上げ観測を受け、ドルはやや下落した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNcXh3dlFZMXNZa1djOTJPMTFYR1Uxa2JHV05TZWozTGpTSjJjWUtydVEwTVh5SVBRSGVYZGNRUEZaYXhzRWNSckVDOFkzRzFkOGl2TXFBNk1rdTU2Y3k5a25rV2VNMUtoOTVNVG95dXVZa1VOT2MybXc2Nk9WWVNhbTNGNXNQSHp2MF9mVlMxbUg1QjVMemtucWZqUUItdEpDcUJJdDhYbFViZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T12:15:38+09:00",
-    "summary": "10月11日の米ドル為替レート：米連邦準備制度理事会（FRB）による利上げ観測を受け、ドルはやや下落した。 Vietnam.vn"
-  },
-  {
-    "id": "6b2c49dfa39551ec",
-    "title": "金/米ドル【XAUUSD】株価・チャート - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WTXFwVFFwYzB2ODFoUUg4b0FtMzRaV0tsR1pMeDNkMWN6TW5OVFo4SHNjNU15a0k5emc1NTdLVF84VEpHRXR5Znd5R1QxQ015UTFUYVFKOWRaN1d3ZnFZUDRyYlY?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T12:08:03+09:00",
-    "summary": "金/米ドル【XAUUSD】株価・チャート Moomoo"
-  },
-  {
-    "id": "1a144b5f7e828857",
-    "title": "今日のガソリン価格 10月11日:週間値上げ - Laodong.vn",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONVIyckRTWDhDVE9DR1A3Q1ZvbFdENHNrQV82VWJXRVdWMGlqdE9FTXlyUVExNzA0U0ZjYV83N3ZuV21MVHBRYjluS3d2ZlBhSUhUd1VtR1NtSmZJeFNoOWdSNDBZMG9PUllVWFNudVpONTRjbVBUaFFrQ3JtMVp5NERJMGJDS2Fud19vYQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T11:43:42+09:00",
-    "summary": "今日のガソリン価格 10月11日:週間値上げ Laodong.vn"
-  },
-  {
-    "id": "d7f8dc1f6cba5ebc",
-    "title": "原油価格の高騰が富を蝕む中、金価格は大きな動きを示している。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQREltSTdlZjktTExZcjFVcG9UZnZ5d3dPQlpxYUxOMk5XdXFqR0QxdGt6YVZBQ05jVV8tOXNMOWJ4NXRtM0RTSWN3MmNHNGp5WmR6bFN2VG1MX1BDX2hmcmNVMTA5c181MlFCQXAxa2xYc3lnYjlUbWhzZ2FFZ3d3OGRKZm05ekRrUzYyWkxSSUtyRVRLR0JN?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T11:42:06+09:00",
-    "summary": "原油価格の高騰が富を蝕む中、金価格は大きな動きを示している。 Vietnam.vn"
-  },
-  {
-    "id": "a31f0bdc260d85f6",
-    "title": "ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点｜bitbankアナリスト寄稿 - CoinPost",
-    "link": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTFBRMFpaeWxGMzNYaEJLUXhGRHJDdXlvT1Y1dUVXQW5rN0ZJeXpCZ0FmWndfb0c1V3UyRVIxVEI0NE9LNmc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T11:30:49+09:00",
-    "summary": "ビットコイン原油高・中東緊迫化で1300万円割れも、CPIと8万ドル水準が焦点｜bitbankアナリスト寄稿 CoinPost"
-  },
-  {
-    "id": "58aaae1e95601885",
-    "title": "東京電力、新潟・柏崎で「出前授業」を再開 原発の「PRはしない」 [新潟県] - 朝日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1KMmdURUZPLUJTM21CMWdkalY5bVZqTmZKTmVDTzVwdDZGalhjSl8tRXZ3OHphV3lpNXdLSnl2NGg0ZWxwOW9WOW5veUVLMlFsUkxhQU0ycGdTTmNUV05Xc01SR2R4TEE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T11:15:00+09:00",
-    "summary": "東京電力、新潟・柏崎で「出前授業」を再開 原発の「PRはしない」 [新潟県] 朝日新聞"
-  },
-  {
-    "id": "7d982d92e074e999",
-    "title": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU3QxTFhjeTFuRGdmenBZcDl4SUpVNVU5Ml90dEIwQUNzNDh3NDB0dEU2SEVmUUlXV3NabUVnYzBQVS1yMjVIY1VaWnFpOGxuZlgwZ3BOa0dtSlJwQ2pIOXVlYkhxV1YzeE9LcDFGNHoxR1RSU0w4bjJIU0RFdEEyQzdTM09pekRVMkZtbdIBjAFBVV95cUxOU3QxTFhjeTFuRGdmenBZcDl4SUpVNVU5Ml90dEIwQUNzNDh3NDB0dEU2SEVmUUlXV3NabUVnYzBQVS1yMjVIY1VaWnFpOGxuZlgwZ3BOa0dtSlJwQ2pIOXVlYkhxV1YzeE9LcDFGNHoxR1RSU0w4bjJIU0RFdEEyQzdTM09pekRVMkZtbQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T10:56:24+09:00",
-    "summary": "今日の為替市場ポイント:◆ユーロ編◆リスク選好的なユーロ買い・円売りはやや抑制される可能性 ｄメニューニュース"
-  },
-  {
-    "id": "47817a971aaf666a",
-    "title": "スペインの政権交代がエネルギー政策に大きな影響を与える可能性 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9UVlBIYzkwT3pDc3haV2tHTzVwZlRFX1hjWWc3Z1VuaW1TZ01Lc2pEU3FPQXdueVVTbHoyZXVVRFMzV1h3X2ZSdDJTZ1Q5VmxPVTR6YjlfNVhYTmlPZGJmeWE0ZG1qVHBYTmc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T10:42:00+09:00",
-    "summary": "スペインの政権交代がエネルギー政策に大きな影響を与える可能性 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "89f0009ca4f88b1d",
-    "title": "原油「今すぐ確保」の買いに拍車 現物が最高値、先物の5割増し - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45YU4tLWVieGptWUF0NTFlcXpuX3lsUFRIZFBkOVVEM2pZYXdNOHhBQ0lXUkY1TUdST3FWOGM0WllwSDVJYVRhazBVcWJzYk9sN1ktMlVuUmg2c1owLWtKdjBTQ3BvcVFVQlV4UQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T10:30:00+09:00",
-    "summary": "原油「今すぐ確保」の買いに拍車 現物が最高値、先物の5割増し 日本経済新聞"
-  },
-  {
-    "id": "84050128abe2b382",
-    "title": "独立系発電事業者（IPP）によるマルチアセット・ポートフォリオの分散化：CEGとVSTのデュアル配分分析 - Moomoo",
-    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUDZCdUJLOUt4UlZpOXZwQThnblVad0YwLV9UTnk2eGFNVEgta0tSUm5wejJuWXhGbmJNSmxTTXVBcGxNMllsV0tlVnctWlpCdXJHanhZR1VWb1IwZGppY0psSXYzS2c4WVpNVjVmYndIb1Q2aHZadl8ycUxSV05wdXpIOUw0T1lnQ2FpRjdhZENlU3NKLTRQU25iNTYySzM1ajJVSlpaM1BNaEhKdmdUNFN5QU5sVXVHN0tVZEh2SUpJWHFzTmVDbWVB?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T10:22:14+09:00",
-    "summary": "独立系発電事業者（IPP）によるマルチアセット・ポートフォリオの分散化：CEGとVSTのデュアル配分分析 Moomoo"
-  },
-  {
-    "id": "e41f7df550aa0c5e",
-    "title": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDTjlOZzdQUEdTdXdtbG1meUpMcWtGZmZhdmhuYkhadW1qbURDdkpYMTB2TWF6cWYwSzdTQVlpZ0pXbzZuVl9QMnlFRlFHRC1wMTZydw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T09:51:39+09:00",
-    "summary": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "1d49185823afc281",
-    "title": "本日（2026年10月11日）の米ドル為替レート：ユーロと日本円とともに急落。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOXdtZHdLdmI4UUhCSTJ0RzNvemswcEc3a1puRHlVbjQ5VEoxbEhQMWt3UkEyZmwteng0YnZHd1psUDlyckVRQ0Z5Wm5ycXpIVkJKVnlyQ2FfYVZXVjZDNlAwbjFOSDRzbGxiS3hyTVEtN0pVcjFvNTNCa0IwSEJzQV9kdVFwWE0?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T09:44:17+09:00",
-    "summary": "本日（2026年10月11日）の米ドル為替レート：ユーロと日本円とともに急落。 Vietnam.vn"
-  },
-  {
-    "id": "645c2ab66b15ed61",
-    "title": "本日（10月11日）の燃料価格：世界の燃料価格は今週上昇、国内価格はまちまちの動向を示している。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNSTRHc0ZOTE1mYjBYQmxSRTVuZDRZbnMtc2JzT0gyWnVaWU9aZVZVQzIyMlJvbjdiR3lfSFMzdGgtZEZUcTdxakx3U0daaEg5c1FtZGlySzluZ0FlR3JYeFJDS3FCMVVJUUxZUklpQU45Vk9VOVRxenpBUUZFYms1SFdHTVBFclNlbThQWmNMMGhNVURRYi1HVmdNM2EwOFlOc3ZHdg?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T09:44:16+09:00",
-    "summary": "本日（10月11日）の燃料価格：世界の燃料価格は今週上昇、国内価格はまちまちの動向を示している。 Vietnam.vn"
-  },
-  {
-    "id": "a8aeaa07fe793b6e",
-    "title": "ロシア、ディーゼル燃料輸出禁止措置を部分的に解除。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QNUNoUGVOT19VbGljRThrZWdiak9UR3hJNnE3UVBFTHRUcUpGZlB4OC1sdVBRRHViX2QyTVI5VTVMTVFVdGxXYXZWSUtWQ1NieC1GSVo1enVtS0RLN1dEZTN2LVhrWmVFYjNYQkkwRlZ0QUljNzBvR21TWVUtZzQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T09:13:58+09:00",
-    "summary": "ロシア、ディーゼル燃料輸出禁止措置を部分的に解除。 Vietnam.vn"
-  },
-  {
-    "id": "ff9becbfc706833e",
-    "title": "泊原発を見ながら、 北海道の未来を考えました - 選挙ドットコム",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5JUG5RdDZXaDEzYmJHU1JlMjNNbTl3VlRrcXpndGo1QkFuZ0ZBc0lISUF3Q2JYSE9vQko0MnlydjV0NjhudTNWUmlEYTJKUTJpY3Y5czlHVVcyQmU3UDBj?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T09:13:14+09:00",
-    "summary": "泊原発を見ながら、 北海道の未来を考えました 選挙ドットコム"
-  },
-  {
-    "id": "65c18a860583dcd5",
-    "title": "「原発から自然エネルギーへ」 10月17日、戸塚で講演会〈横浜市戸塚区・横浜市泉区〉 - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNS1hiY0pKdFlXdVZGTGNjV0FLZ01mMFVyNHpUMzZfTTg4ZVBsaEpNRXpEc0w1UDN4RlpxZXM0Z09hb1g2NGRKeTlmdHF6QTZmWnM5ZENqU1RzREc2QTF5TzVpMXJLTFNGd1BrdzNjemQxWVFyb2lIQnlVcEZ2c1JOQdIBgAFBVV95cUxNS1hiY0pKdFlXdVZGTGNjV0FLZ01mMFVyNHpUMzZfTTg4ZVBsaEpNRXpEc0w1UDN4RlpxZXM0Z09hb1g2NGRKeTlmdHF6QTZmWnM5ZENqU1RzREc2QTF5TzVpMXJLTFNGd1BrdzNjemQxWVFyb2lIQnlVcEZ2c1JOQQ?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T09:00:00+09:00",
-    "summary": "「原発から自然エネルギーへ」 10月17日、戸塚で講演会〈横浜市戸塚区・横浜市泉区〉 ｄメニューニュース"
-  },
-  {
-    "id": "a09fd8a27253899c",
-    "title": "AIをエネルギー問題の「解決策」に変える、トレイン・テクノロジーズの戦略 - Forbes JAPAN",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9zeDJkTkxZbmpNaExDdEEwdGM3VTJ3bVB4T1N4cFh3OUdYMV9waEZfYmJ2RHdtUTNsZXV4Rk1zaVNXZHd2b2Q1Vl9uME9uZ1pQTXQtem1FakNkZw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-11T08:54:00+09:00",
-    "summary": "AIをエネルギー問題の「解決策」に変える、トレイン・テクノロジーズの戦略 Forbes JAPAN"
-  },
-  {
-    "id": "df1dac7c281112bc",
-    "title": "本日（10月11日）の米ドル為替レート：銀行の米ドルレートは1週間ぶりに急落。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQem41ZzBiTEVBNWxvYkJrdEZQRFl1cDZvMmNyemxMWWtCWUNQTVZkaUlyNGxndE50NTF3R0pjSzdWNElsY3hyRTJob3VHblVuQlFXQWp2T29ySGJpV0pYR3VGQy1EM1hyeGVNVWVHTENRX0RrbmYxM0gtMjRYTEdIZjUzSFFLTmtBZHJWMXd0UQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:45:47+09:00",
-    "summary": "本日（10月11日）の米ドル為替レート：銀行の米ドルレートは1週間ぶりに急落。 Vietnam.vn"
-  },
-  {
-    "id": "bcc87b85a0068e7b",
-    "title": "ニュージーランド ドル / 日本 円【NZDJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1fdWhaU3IyUnVNc2R4eEpJZGtieWhlTEpyZ25zSmxCeDVWSU1RSlFSZHBJVTBwUUJnYV9WWlhxVTMxdlM0VDI0VlE0VW0xQ2VUUDNyRw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:33:21+09:00",
-    "summary": "ニュージーランド ドル / 日本 円【NZDJPY=X】：為替レート・相場 Yahoo!ファイナンス"
-  },
-  {
-    "id": "01d15f2bcd6d0362",
-    "title": "本日の燃料価格（10月11日）：世界の原油価格は、新たな週を前に高止まりしている。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeUQ1eF96Vlg1MmlzMG5fNnQ2bmpuSjRIS0FwQ1A1U2drSUdSUkxla3NOVzhPbG1Ma1hIOTZ0MmozQ0xObUlyeUVCSmd0TmdGM2lrVk0yN1o5SUZXSk91TmEzYmYyT2NUVkJkQW1pQm1MQW82TldTdGs3Nkd0LVdIeGlDaUR0SHVKQ1JhYVQzUU4zOEdGZ0hNdkJzQUU?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T08:19:26+09:00",
-    "summary": "本日の燃料価格（10月11日）：世界の原油価格は、新たな週を前に高止まりしている。 Vietnam.vn"
-  },
-  {
-    "id": "69a6770d6d01ac09",
-    "title": "石油コンビナート火災を素早く消火せよ！新潟市内2つの自衛防災組織、全国コンテスト審査で訓練の成果披露 - 47NEWS",
-    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE4tdzJNcXRPSURpZU1ST0VjMVp3VU5NSTNjNEgyZ3lmRC1weFBXZkVCcUMtRmh5TjV5UnVjc1RvYWV2RFVjS1F0N2FlQQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-11T08:10:00+09:00",
-    "summary": "石油コンビナート火災を素早く消火せよ！新潟市内2つの自衛防災組織、全国コンテスト審査で訓練の成果披露 47NEWS"
-  },
-  {
-    "id": "f80aef2755ae85dc",
-    "title": "USD/KRW、米物価指標が方向性を左右…1,300ウォン台前半への下落試す展開 - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13NXM1Q0YxT1loZFFneTYtSGd1M0FGbTlYZlpZOUdJT0RiUi1tcXJfVWVRMzhqN2RMN1ZJZTIzYVdOQWJvaTVkSEowdG4zRHN5bmdTQTRBUVpacUxPbE43d2hVNExyU2FyMU5JbmxqendqdHlw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:08:34+09:00",
-    "summary": "USD/KRW、米物価指標が方向性を左右…1,300ウォン台前半への下落試す展開 BigGo ファイナンス"
-  },
-  {
-    "id": "32b2f1a93a526d0d",
-    "title": "ダイワ･US-REIT･オープン(毎月決算型)Bコース(為替ヘッジなし)【04312047】：基準価格・投資信託情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1jdVZXbkZwdzhMaERPVjlZYWh3eDk1dHNuc1N0ZzBVaktZVklMeGRoN3FXUk85dUk0S0pvSS1pbXlNZnlpZXRqVEdNRGlZM3NsYjV0ZA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:08:07+09:00",
-    "summary": "ダイワ･US-REIT･オープン(毎月決算型)Bコース(為替ヘッジなし)【04312047】：基準価格・投資信託情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "4973d6e765ccae6d",
-    "title": "【今年の冬は“ピンポイント”で暖か】電気毛布は電気ストーブの約15～20分の1の電気代？「履く温泉」「ダウンパンツ」も人気―暖房費を賢く抑える工夫“一人ずつ暖まる”節約アイテムを要チェック - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE55UWNJcFdHV2JSNWVKczQ4d1JuWWFkOE1aUmhjNXVTUE5qc2xwTnBQVEVFRENDQWtmcHlGSWpEU3dFWV9GeTNMUUZaRmxNbWtub2I5SGdvMmVqY0lGSVA3TlZucDN1d0JKVjJCdks2YW5IdFBsMTM3cVRpZXFsOGs?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-10-11T08:00:01+09:00",
-    "summary": "【今年の冬は“ピンポイント”で暖か】電気毛布は電気ストーブの約15～20分の1の電気代？「履く温泉」「ダウンパンツ」も人気―暖房費を賢く抑える工夫“一人ずつ暖まる”節約アイテムを要チェック Yahoo!ニュース"
-  },
-  {
-    "id": "efc4a4ae5d66f4dc",
-    "title": "【ドル円週間見通し】底堅いか 為替介入に警戒も米高金利でドル買い継続 - マネーポストWEB",
-    "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAyV1FpUFpqZXc4MFNiczlvcWFFYjEzcDZfM0RUbWcwaVJpUnpTWTl5M3hBSXUyd0E0Wk9pX2ZXRmY3RjJQTU5F?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:00:00+09:00",
-    "summary": "【ドル円週間見通し】底堅いか 為替介入に警戒も米高金利でドル買い継続 マネーポストWEB"
-  },
-  {
-    "id": "76fbcace4364d770",
-    "title": "【投資クイズ】円安はまだ続く？為替が動く仕組みを学ぼう｜Infoseekニュース - Infoseek",
-    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFA4ekZMVTFpTE1KOUtCRVk4RUdtSDNqTmEweDk3UW8wbUNFcFdtVWZWZ3dwdUVBOERwUFZIaE41ZU9taDg0ZjJTRVZ1Q05YMzlqdGsxcVJGM010anlXV0tFNw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-11T08:00:00+09:00",
-    "summary": "【投資クイズ】円安はまだ続く？為替が動く仕組みを学ぼう｜Infoseekニュース Infoseek"
   }
 ]
