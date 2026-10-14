@@ -1,5 +1,453 @@
 [
   {
+    "id": "4ada70fa30f1d5bf",
+    "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
+    "link": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
+    "source": "EIA Today in Energy (米エネルギー情報局)",
+    "published": "2026-10-15T04:00:34.345456+09:00",
+    "summary": "As of 4:00 a.m. central time on October 9, the National Oceanic and Atmospheric Administration expects Hurricane Isaias to make landfall on "
+  },
+  {
+    "id": "ca90e3d2610bf36f",
+    "title": "Ship Sinks in Strait of Hormuz as Iran Escalates Maritime Attacks",
+    "link": "https://oilprice.com/Geopolitics/Middle-East/Ship-Sinks-in-Strait-of-Hormuz-as-Iran-Escalates-Maritime-Attacks.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T04:00:00+09:00",
+    "summary": "Iran has quite obviously been surging its attacks on commercial shipping in the Strait of Hormuz in an attempt to wreak uncertainty and econ"
+  },
+  {
+    "id": "365666d59b38228f",
+    "title": "ドル円、急速に１５８円台前半に下落 １０月利上げは可能性が低いとの見方＝ＮＹ為替 - - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9TTHhZOHpmZWptOWF1YzQzX0dDSDhCQ2dubUFnRWVza3I3VjZnQ2xxSTBTVVlUS2MzWXhQUnctVUk4YnU3YkUzTQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:55:28+09:00",
+    "summary": "ドル円、急速に１５８円台前半に下落 １０月利上げは可能性が低いとの見方＝ＮＹ為替 - みんかぶ FX/為替"
+  },
+  {
+    "id": "8d90b6e6722c4b3d",
+    "title": "原油は１．０１％高＝ＮＹ原油終値 - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJWlppOUFDaXp5MXp1YXJxUjI0Y1dCbURJTEE3eDBrY3NId0lxOVBuY0tDVTFWTGpBVGRFaGpmOUM2OWliaHBlMmdUZll5Q0N1TkE?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-15T03:43:00+09:00",
+    "summary": "原油は１．０１％高＝ＮＹ原油終値 株探"
+  },
+  {
+    "id": "f39f47c09734b793",
+    "title": "米国の一部地域で物価圧力強まる、エネルギー高で－ベージュブック - Bloomberg.com",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbWdKRUIzMUNuZW11Z0xQdkxSV200VDBWUkkwZDcyZGp1SjNUUFduODNYOFRJQXdxQnYyNW9KOG9vdVJ1dGRtaDJoUWd2ekFrd3k0RlFRendmLXhGM2lITGVuY1hyYVZ5NWJOTUFJTjJsMFlPSTdpRTVoVFo2Q0Y3VWxiTmk5SmFqSjkyaUpR?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T03:40:33+09:00",
+    "summary": "米国の一部地域で物価圧力強まる、エネルギー高で－ベージュブック Bloomberg.com"
+  },
+  {
+    "id": "b587df46e9c707f4",
+    "title": "原油は１．０１％高＝ＮＹ原油終値 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBFYko5NEVVYjBvSFJITWFLTUhVMWtFeXRwMDhhbHFjMDBwMzEzTUp4NGZkdGYwVjRGTWFlLXdldEFkaXI0azhIQQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-15T03:40:29+09:00",
+    "summary": "原油は１．０１％高＝ＮＹ原油終値 みんかぶ FX/為替"
+  },
+  {
+    "id": "90008db4095743c9",
+    "title": "為替相場 15日（日本時間 3時） - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQLVBGdzhYNE5EaExSSVZKaGlVb1BkZjhyX0J5YnNGSGJLMVBSdFFJa3cyT0pIazNxZEJSQl9SOVNsV2J2aFdEUFViUDFITFpuamxmVUJDazExSmF1RS03RnNEZjBkWThpVktzQS1BcWFINFROQnNOMndHcTBmSUxjb0tkZWgyb0dDRnJOTzFneWRFY1JpR2xHeWJSVHJQM2RY0gGTAUFVX3lxTE9QWGxXVFZKWUs5VlpjeVNrVVJCd0Y1NngwcGgxTFlrQXZXbXBqM1dKdk9BRmJMWGpXcXJnZVB5QmZ5eEd1SE84U1VxR2EyV0k3eWFjSGJaYVMzWHRwN2VLQV81Ukc1SUlDeW5zblVWLWh4bUxVZy1ybE1OR3otQlBRNW9ydzZnNk9CQ2VKSlJuM3JnWQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:09:00+09:00",
+    "summary": "為替相場 15日（日本時間 3時） ｄメニューニュース"
+  },
+  {
+    "id": "0faecbb0cd52e7cf",
+    "title": "ＮＹ各市場 ３時台 ダウ平均は２６７ドル安 ナスダックもマイナス圏での推移 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE15VXZFQnU0NGtwV0V5a2JRU2x0REZ6UzRrWlFqalFCY2h1WC12TnBMMnlteUlDZGYtOHFnaWJycnBZY3lXZnJxSQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:05:29+09:00",
+    "summary": "ＮＹ各市場 ３時台 ダウ平均は２６７ドル安 ナスダックもマイナス圏での推移 みんかぶ FX/為替"
+  },
+  {
+    "id": "715d7e56b793365c",
+    "title": "為替相場 １５日（日本時間３時） - 大分合同新聞",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBldWdyV2Y2MFVfU29URVdFZmVYeC1OWGIxeUV5Q3dPaVozclVULVV5UWdpT0laelJPenltM2Z5SGJxc2ZIQUpxZHkzQkROdTN0OWFRU0lJZmN6OWhyTS02RDVCOEZmcmFibl9fZ3hNUUpDcUxKdGRrStIBhAFBVV95cUxQWE8tUVo1UDFoU19PSVBBOU5yYmVQZkE3YXg5Wk5nMUVVbklrd0VaQXNkVWpJaGVrS2JkcjNFZTVabDkxWmRYSnVTVmdfVG5MNllLTzVUNWRYYjhPN2VUOV9FaVNrX1o0NzBxNkhUblozWlJCUGYtQWhyTF95aWYxdWdRWnU?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:04:00+09:00",
+    "summary": "為替相場 １５日（日本時間３時） 大分合同新聞"
+  },
+  {
+    "id": "d9fc1ddbbcc96c7a",
+    "title": "為替相場 15日（日本時間 3時） - nippon.com",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9tXzBYck1xVUtzM2VjX3puVE5KdWhBaks4QmpWcWJFQWJZM3BzV3I4czlfa09jVHAwV1E3eTVVWnZPVUFKMFBxbGRyX1oyTVZwa25CdXAtWTRWUVFmV3c1X0FoSQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:01:32+09:00",
+    "summary": "為替相場 15日（日本時間 3時） nippon.com"
+  },
+  {
+    "id": "24f0d8c8ef7a85b5",
+    "title": "為替相場 １５日（日本時間 ３時） - 福井新聞社",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBDWXlyNmY5a0pWRmk5T1lISWV6NHlqSmhySWx5RmtYTGlaTnBxUzBvaExiQWV3cW92YnhXRUh0dG5CZjRrYTR1U0M3U20tNV9feEljVzJ4dC1JbVJOLUE?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 福井新聞社"
+  },
+  {
+    "id": "ad5fdea4bba06b1f",
+    "title": "為替相場 １５日（日本時間 ３時） - 中日新聞Web",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBmSE9SR1dyb1VTZVFmemg3eUl6enlvWGktNGsxUXllV0pyUUczOVN5bzBxQzVnSVprZ3otZmhPbV9wWkxTMHVBY0gxYjZBNm5aQzlUSw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 中日新聞Web"
+  },
+  {
+    "id": "ad43cecbd44042db",
+    "title": "為替相場 15日（日本時間 3時）（共同通信） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRjYxYXBrQVUtcGMwS0pNSWthWE5sMVRtMDVoREt1Z25JSkxvZkVwYVE3VkNqMFAtU2JQdFFXejJsaXpwcUJuaUJnSmpfSjBXZzZkU2FXTERoVi1MMkJVY0NDdTdockJmbTZ1bWh2T3U5a2ppVXNsSHpqbU10eEViN3Y4cFo3UXJCcmtWRjNB?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 15日（日本時間 3時）（共同通信） Yahoo!ニュース"
+  },
+  {
+    "id": "284aa09f0a6cbede",
+    "title": "為替相場 １５日（日本時間 ３時） - 沖縄タイムス社",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE14VnMxdmc3V1NsVjBWWlVsUXFtbnB2U19xU1FueTg0NjdnZkN3SkdaVU9xa2hRbFFGVFFLRC1ma1dGeWlQU3U1YUp2U3R3NVdkQmJ4UUM0dk1jY0JEeXc?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 沖縄タイムス社"
+  },
+  {
+    "id": "6df37ce7e4034065",
+    "title": "為替相場 15日（日本時間 3時） - 信濃毎日新聞デジタル",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5fYzZuaUk3U1UwcDk4bF9ERTdiUE1ZTTBEc3pjMERndmw3QmNKanVkRWVlYkJwYjYxcXNTb3NRUThmamt6TmRHdXlGdmdsc29ZaGtkNXdlSFY2TnlpQWpOS0RJa3pFWk02cXNj?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 15日（日本時間 3時） 信濃毎日新聞デジタル"
+  },
+  {
+    "id": "b147d7b5ffb26fd2",
+    "title": "為替相場 １５日（日本時間 ３時）｜全国のニュース｜Web東奥 - 東奥日報社",
+    "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFB4eGNZU2kzWlJiU0JDR0VFdkFVN2ZPVEd0UFhNSUY1R29DU1QyRWVhOHVnVDdYZHFmaWlCLTV3c1V4X0NkUWlHdXpCWUxFb0xsRXprdllmOWI?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時）｜全国のニュース｜Web東奥 東奥日報社"
+  },
+  {
+    "id": "5d3846fbc9d95819",
+    "title": "為替相場 １５日（日本時間 ３時） - 琉球新報デジタル",
+    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1CQzlLSi1OSVNzMk4yTE1aYVZNcHoxRXcySXVSQnZiSFhLaHN1azR2dkVuLVdfTlAzZTJJUHFhMGpXZVlsbzZhcmh3QVJ2VnIxX09ndWRvT2RoNkpK?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:46+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 琉球新報デジタル"
+  },
+  {
+    "id": "88b6c9782797f6b7",
+    "title": "為替相場 １５日（日本時間 ３時） - 高知新聞",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9rdDNoS0JSdnd6MFUxZExlVXE0ZGN0a2p1S21kdElaQXg2emlqLXZjS1VNRER3dGdsWUNyYXpUZ20tWDNZS3V2OHRsOWdNVUV4b2gzS1NWNngweHZ2VWN2R1FSd0g0YklzQzJVSDhKUWJ6Zw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:00+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 高知新聞"
+  },
+  {
+    "id": "f51936b9073b3e94",
+    "title": "為替相場 １５日（日本時間 ３時） - 埼玉新聞",
+    "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8zX2VrS085Q3ZDXzQ2TVBrcjV0MHY2aWpURGlLcVp1RGJiX1gxd1p1bGJBdGNVMkFaMlNXUkMzdVVfZmRvQ2RSTE04YThMRzh1MjUyNjB4WQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T03:00:00+09:00",
+    "summary": "為替相場 １５日（日本時間 ３時） 埼玉新聞"
+  },
+  {
+    "id": "087256be0703ad1a",
+    "title": "Putin Fights to Preserve Russia’s Fading Influence in Central Asia",
+    "link": "https://oilprice.com/Geopolitics/Asia/Putin-Fights-to-Preserve-Russias-Fading-Influence-in-Central-Asia.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T03:00:00+09:00",
+    "summary": "Back in 1991, the formation of the Commonwealth of Independent States placed the final nail in the Soviet Union’s coffin. Since then, the CI"
+  },
+  {
+    "id": "65ff737cf17f6cd1",
+    "title": "金は１．６６％安＝ＮＹ金終値 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBGNEViQWFUd2ZuM1YxeENPenk5M3NBSHoxdmxiaWVEM3Bua2ZHTGZDaE9QbUozWE9sS1ZoNlVVcVZMZDV1c29VeQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:49:28+09:00",
+    "summary": "金は１．６６％安＝ＮＹ金終値 みんかぶ FX/為替"
+  },
+  {
+    "id": "dcbd32218f535f64",
+    "title": "[通貨オプション]R/R、円コールスプレッド縮小｜FX・為替ニュース - ザイFX！",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1mR2xqRmpwMWZwZzR5UHYtWE9xbVQ2T19Yc0lhZUtnTThtRlFTYjd6V1B6Tk4tcTRJOUkwTWhuVW1zUTdrVFBYbkN1MFFjOElBR1E?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:49:00+09:00",
+    "summary": "[通貨オプション]R/R、円コールスプレッド縮小｜FX・為替ニュース ザイFX！"
+  },
+  {
+    "id": "4e03d805fae4721c",
+    "title": "英中銀ピル委員、市場が織り込む４回の利上げに懐疑的＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBPSEF1TjJIWHkyWDk0QVNMQ1oyN3J2a3ZpRkVkaVZtMzViOVJtN0s3bXlObVdVU3lxNFlqeFpOcGd0bVZ6S214Rg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:37:29+09:00",
+    "summary": "英中銀ピル委員、市場が織り込む４回の利上げに懐疑的＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "024e41cde4861e6d",
+    "title": "Houthis Vow More Attacks After Strike on Aramco Headquarters",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Houthis-Vow-More-Attacks-After-Strike-on-Aramco-Headquarters.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T02:30:00+09:00",
+    "summary": "Yemen's Houthis said Wednesday they will resume attacks on Saudi airports and oil facilities \"in the coming days,\" after Saudi authorities r"
+  },
+  {
+    "id": "85414278880bb099",
+    "title": "トランプ韓国500億ドル投資主張 台湾はアラスカLNG長期購入と出資計画示す - CHOSUNBIZ - Chosunbiz",
+    "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQU3FZeTJEbFlicVZLd2lnVlJramoxMFhRZER4RUFlRUNlVkZPNEJIOEZNNElNSnFhNkM1WjhYLTdpM1JneWpUSzdWeDJWaUJIbzVOVDZTU0V3dmhJV0NWVE1uNUdnYlFBRm5XbmRXaU5mU211dXBWQnVWaWhGMWpSM0FqSUsyVUll0gGcAUFVX3lxTE9lQlkzNVlSVE9oVUpYVjRlYnloNkJZSG5lUHlEMTZSV2dDWUdXWEtKMWZvZmZqZUpWek5OX1RaM05FT2dGMU94c2V4RkRiMkJ4SmpQSjFPLThjc3F3Wk5FdE5BNW42cVR0VHRuek9RelNIN19YZ2hyMjZJWWxReGNQZGxVbU1qYlBxMDhQQTl4amN6SWpyaGY4MDFWZA?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-10-15T02:27:00+09:00",
+    "summary": "トランプ韓国500億ドル投資主張 台湾はアラスカLNG長期購入と出資計画示す - CHOSUNBIZ Chosunbiz"
+  },
+  {
+    "id": "6f04842bdcac8ae1",
+    "title": "ニューヨーク外国為替市場概況・2時 ドル円、もみ合い(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTzZILXM2c3lOQ1lrSzlXeVp4Y29SMkVkV0FTeG5XNTYwb1d1cVFtWjFrMUFyeVh0T05iLVhKYUFoeVZsdEFRRHc0ZkdCeEtKSVVTN1dxalRhdDY2M1pWOFY3ckxzOW9tdHZDZ0pUaFd1eHdremM2VEd2ME9KZmNlMEFaOVJId2M?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:16:18+09:00",
+    "summary": "ニューヨーク外国為替市場概況・2時 ドル円、もみ合い(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "1972f7d68f8ba407",
+    "title": "ＮＹ各市場 ２時台 ダウ平均は１７５ドル安 ナスダックは１．６％の大幅安 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBldEVyNWUwUHU4X0ZfSmRJc3dSZk5FSjVIc21zZUVLQVpYR2dLQjV0eXl0SmlwQUxnZ0pNRkVOUklQUno3elhPZg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:06:29+09:00",
+    "summary": "ＮＹ各市場 ２時台 ダウ平均は１７５ドル安 ナスダックは１．６％の大幅安 みんかぶ FX/為替"
+  },
+  {
+    "id": "5fce8adc4e9010b2",
+    "title": "iFreeETF 先進国エネルギー上流企業株【659A】：株価・株式情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UdkJNRWtuTkoweDNGZXV0UWZBcmRDemhGdThRNDdSMDUwbF84SDV3ZTZ0dFRVekJqanpzRFRPUEZ3U18yRTdzZEIwQ2xna1FFZHc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T02:01:00+09:00",
+    "summary": "iFreeETF 先進国エネルギー上流企業株【659A】：株価・株式情報 Yahoo!ファイナンス"
+  },
+  {
+    "id": "0f873546ffafcbc6",
+    "title": "為替相場 15日（日本時間 2時） - 47NEWS",
+    "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5wY2dyTW45cWNWUmZsdzZHYjNLSHU2LXFIV2pOck1jc2puR2VWVTJMUExJVENyd3VMUWdTX2VGcFJteGZfY0Vxc3Y1WQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T02:00:00+09:00",
+    "summary": "為替相場 15日（日本時間 2時） 47NEWS"
+  },
+  {
+    "id": "3e18f907b390ef5e",
+    "title": "5 Challenges Facing South America’s Copper Boom",
+    "link": "https://oilprice.com/Metals/Commodities/5-Challenges-Facing-South-Americas-Copper-Boom.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T02:00:00+09:00",
+    "summary": "Supervisors at BHP’s Escondida, the world’s largest copper mine, said they would strike at 8 a.m. local time Wednesday after government-led "
+  },
+  {
+    "id": "9f342f4107d3449d",
+    "title": "エネルギー価格がCPIを押し上げ、賃金に潜む懸念：IMFが米国の財政難局に警告 - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOVk1RndJbk10NFBYdUMyS2xrZEUyUUV3ZGpHc05zdE9Yc09DNXJWdmtpd1ZDOWU5c0Nobkc2NHJJWDVkSGFhNmllOGZ2UHZrMkxLalpKSGRueVl0NFdjZWJIc2Fld2FuNzJ6Ty1kQVNqcTN3WlN4c2J4WDhxU29mZHB5U0NwQVdjN1MtRWo3UVZGcjRLRDEzQTEwa1U0cGxfaXl2bHRKUQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T01:59:55+09:00",
+    "summary": "エネルギー価格がCPIを押し上げ、賃金に潜む懸念：IMFが米国の財政難局に警告 Moomoo"
+  },
+  {
+    "id": "48b7a75f29f24dc6",
+    "title": "投資家が織り込んでいるユーロ圏の急速な利上げ見通しは後退する可能性＝ＮＹ為替 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBUR0YxeU93dlBWSEJkaE1jQmV3WTNPTFVvTDNoN3N5YTVoX2x5VTVnQzZNc0RmaUVTcFJXZWtibFM5VkJwTkhSeQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T01:59:29+09:00",
+    "summary": "投資家が織り込んでいるユーロ圏の急速な利上げ見通しは後退する可能性＝ＮＹ為替 みんかぶ FX/為替"
+  },
+  {
+    "id": "9199906013da4548",
+    "title": "欧州株 終値 揃って上昇 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBKbkxzTmhkR3dpNWo1ZEJ2TkFkeWc0NFR5UlJSWmdaWk5qUFh5Y1Jadk02b3RROTNPUUIxMU5JblpBbDJuZ01XRw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T01:36:29+09:00",
+    "summary": "欧州株 終値 揃って上昇 みんかぶ FX/為替"
+  },
+  {
+    "id": "59e6910d08117add",
+    "title": "Novak Calls U.S. Diesel Deal a 'Positive Signal' for Russia's Economy",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Novak-Calls-US-Diesel-Deal-a-Positive-Signal-for-Russias-Economy.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T01:30:00+09:00",
+    "summary": "Russian Deputy Prime Minister Alexander Novak said on Wednesday that the diesel agreement with the United States is linked to higher Russian"
+  },
+  {
+    "id": "e41f7df550aa0c5e",
+    "title": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBDTjlOZzdQUEdTdXdtbG1meUpMcWtGZmZhdmhuYkhadW1qbURDdkpYMTB2TWF6cWYwSzdTQVlpZ0pXbzZuVl9QMnlFRlFHRC1wMTZydw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T01:17:07+09:00",
+    "summary": "インベスコ 世界厳選株式オープン＜為替ヘッジなし＞(毎月決算型)【18312991】：基準価格・投資信託情報 Yahoo!ファイナンス"
+  },
+  {
+    "id": "6264330c4299a136",
+    "title": "産業貿易省は、グリーン成長を目指し、エネルギー効率の向上を推進している。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOGphZHlKbzg0aVRzMGJSWnhNQnRZVElBOXJnOHRQdm9ybk5uVUtGeDh1UDhkVVdaUWlCazlBbW1LSVFqQUQ1enZza21UemlFMTF4LWlCRDMxY2FGNlhXSHFGZl8tajNLNDZRVmxHMlpjS2Q3djNsbk9OVnNvQXA0VTJjcTVTeVZpbTN4YmdwM21ER3A4cldJVDdMajZBMmFHQTJvWUdETQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T01:11:22+09:00",
+    "summary": "産業貿易省は、グリーン成長を目指し、エネルギー効率の向上を推進している。 Vietnam.vn"
+  },
+  {
+    "id": "0da9298bd1a273f4",
+    "title": "Big Tech Pushes Back Against Paying for America's Aging Power Grid",
+    "link": "https://oilprice.com/Energy/Energy-General/Big-Tech-Pushes-Back-Against-Paying-for-Americas-Aging-Power-Grid.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T01:00:00+09:00",
+    "summary": "When Big Tech signed President Trump's Ratepayer Protection Pledge in March, promising to pay for all the new grid infrastructure upgrades r"
+  },
+  {
+    "id": "d21a270482438a7b",
+    "title": "世界最大の石油会社の本社ビルが、フーシ派の銃撃を受け、甚大な被害を受けた。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQQnJWd3lBM2FSNUppN2RCZGJIc011NTBNQ0lvVC1SS0ZtU016bDBPV25McTJpdFBCM0NjcVdld0QwSV9QdVhEQ1BnUW1CRzUwTFJybjU4M3VQRlo3REpzQTNXLUk2aml5X1I0a0x6TDVtaVR4RXdQeUI1WGpEN3o3dFh2M002R3BZSGt0eHdRbGYweUZxNUw2Y0xvc0lJb3Nqd1JkMDZ6ZlZqQ0hnSzJ5eVJiaG41SGZQM2VFbTNzUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-15T00:56:51+09:00",
+    "summary": "世界最大の石油会社の本社ビルが、フーシ派の銃撃を受け、甚大な被害を受けた。 Vietnam.vn"
+  },
+  {
+    "id": "36b4a6b48c3f85e1",
+    "title": "安全保障の緊張が続く中、日本とロシアの関係においてエネルギー協力が依然として重要 - アラブニュース",
+    "link": "https://news.google.com/rss/articles/CBMiowRBVV95cUxNZzMzMHhPRkVDZFdEeEFKNERLc2ZfUS1EOU1qbGJFdF9ONk4xMTkxZW13N0ZNU2xxRk51U09PTUxSbUlVR01RZnBMVy1oWkMxeU1ZR0FYWUdRMmk0RWhpeW5lZEtIbXctQlhJNlRSWDIwd2Y0el9BbVRIbTJ4WjVPdFRoeDkzQzJ1clVxR3lvUXpVTmZDeE5yWEJtOTl2N3d3VGpXUlhuVW5QbFM1UWdsZGhkOGY2SHFSN1JoUHZaRVAzQWlJSThFQ3ltdGg3WGY5TVlmQTJhYTdiZGYzQi1haFI5RVZRbVNTaUc0SHZwWDNhS2ZLOXhFeTZLQ2pJdG9fSXB3NG5RVHNtdy1WVGJJNFBmcHlMQzF0dGNFa09IdlZSa3lyaWRac2pveE5FVXVGckVVWXVzSndUazlrbEFQcnFySU1wT3JNa3FIX3JtYk1sUGJKZWVwbGMzRUdMd1QtYlhuelVXOHRUYUVjNWNfRFBXdWxxSFM4amlfMFJnd2xuUG9VNHBNYXYyRkFwODVQSmE1ekp2eVlwXy1QNlZHMk9mLVViQmdlSzJXTDV4aE16djYwRE1rcmtUYVFvMzdBcGFsbmhQOW1fRzJCOWg4MEtYNU9rWW5lY2xiUmdrMklUcnkxSjVQb0hVREQ3ZWhFTGY4UmlXZDk0ZUI0WFM3WDh4a0ZNd1F2bWIyTkhpTWp0QXRrSk9XaHgyX3RKNV9qQjBv?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T00:42:35+09:00",
+    "summary": "安全保障の緊張が続く中、日本とロシアの関係においてエネルギー協力が依然として重要 アラブニュース"
+  },
+  {
+    "id": "faad606f9481d411",
+    "title": "China's Coal Imports Fall 6% as Prices Hit Nearly 3-Year High",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Chinas-Coal-Imports-Fall-6-as-Prices-Hit-Nearly-3-Year-High.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T00:30:00+09:00",
+    "summary": "China’s imports of coal fell in September by 6% from a year earlier, customs data showed on Wednesday, as Chinese inventories remain robust,"
+  },
+  {
+    "id": "2b7f4a3e54691c7c",
+    "title": "ホーチミン市は、液化天然ガス（LNG）発電を含む電力の直接取引メカニズムを拡大する。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxONEx5cUdzVEs4bEo3N1ZxNTJtVlVQNVdsR0VaRnpmN0hVTE1UaGRMZVdyRzZCc1BXWnJJV05Ub3R2MkdQSW54T0p4QTZDMEZBZldhRGNQazFnZU5Sc05pa1Y5YVF1MmtjeEI2eTFmNzRPVmx2U042cGR2anJYWTV1YnNHQmdaaXlCcmhzbU5SejlBVWl4UHBQbEZ0dnhMaWNXZmVj?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-10-15T00:28:40+09:00",
+    "summary": "ホーチミン市は、液化天然ガス（LNG）発電を含む電力の直接取引メカニズムを拡大する。 Vietnam.vn"
+  },
+  {
+    "id": "1f9d0f02a79c0e05",
+    "title": "ベトナムとラオスは、運輸部門とエネルギー部門を結びつけるプロジェクトを加速させている。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOUmJnOGtEZnFPekhHdHByVEVISWFueDh3VUE4dVJxU2FBXzFDSUxCUmxXQVJmbE8tNWYtUHFYVzhkYWUxd0lMNHB5WER1OFNiaVRWYVJtQXUxMFJ5SmdJZHdma2xUNGowdWZ3X3JZVWVxUDNiRFNtOXJ1TGJYUXpzMmRYT1JQa25nVVB3N0xDLXZJdw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T00:14:17+09:00",
+    "summary": "ベトナムとラオスは、運輸部門とエネルギー部門を結びつけるプロジェクトを加速させている。 Vietnam.vn"
+  },
+  {
+    "id": "96abe477a2e145b2",
+    "title": "[シンポジウム] GXを支える電力供給基盤をどう作るか：DC・電化などの電力需要に自然エネルギーが応える | イベント - 自然エネルギー財団",
+    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUTGJ1VnRRUzhCTmx0bmctV3h0Ulp0SFR2QmRXVXVoV0NwMm1ydUw4RkIxU2l3VlUzVkJSS2FjXzlSQWVWZVRRN3BhV25CUDltRXpvczNQYkE4ZGZ1X1hYWEk4cHI5MGQ4cUVn?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-15T00:09:59+09:00",
+    "summary": "[シンポジウム] GXを支える電力供給基盤をどう作るか：DC・電化などの電力需要に自然エネルギーが応える | イベント 自然エネルギー財団"
+  },
+  {
+    "id": "ddb4079a7909fa7f",
+    "title": "ＮＹ各市場 ０時台 ダウ平均は８５ドル安 ナスダックもマイナス圏での推移 - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1ycEJhN3dHSU44bmpGVHNWMF9uTHpYSEg1MUExZzZhUVRjalk3TW9oQU9oenhiQXg5QWhodEc2VUFKcTVKWFFiSw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T00:06:29+09:00",
+    "summary": "ＮＹ各市場 ０時台 ダウ平均は８５ドル安 ナスダックもマイナス圏での推移 みんかぶ FX/為替"
+  },
+  {
+    "id": "5a6b2e5520fde1fe",
+    "title": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPX0x1Nkd2R1ZCZWw4VnBwaEZUbTVFZVNxUDJhcURHNndyNWc3ZDcyOGMzaFg3dWJ3MGswVHI4Q2dNRjJsNEo4ZFRJaUhrNTFmTDV5MDRXZGFPcW9YRUh6aG9KQnNGS0tQZmVmekJwRlUtX0lNZ05EcG5ScGVrc1ZGT2FsSkt5cEk?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-15T00:05:04+09:00",
+    "summary": "ニューヨーク外国為替市場概況・24時 ドル円、伸び悩み(トレーダーズ・ウェブ) Yahoo!ファイナンス"
+  },
+  {
+    "id": "2da521f7e1f84dbb",
+    "title": "中油、アラスカＬＮＧ開発に最大44億ドル出資 - NNAアジア",
+    "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9OWmNxWEZrZHh2akJpSUpfa0NTNEFscnQzckViMWdQa3oyWDdRNUFqZFpsRldENHMwTTQtYjk3MC1QbjQwN1E?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-10-15T00:00:00+09:00",
+    "summary": "中油、アラスカＬＮＧ開発に最大44億ドル出資 NNAアジア"
+  },
+  {
+    "id": "7ccbb0d0bf1da751",
+    "title": "Power Prices Top $1,000 on PJM as Heat Collides With Fall Plant Maintenance",
+    "link": "https://oilprice.com/Energy/Energy-General/Power-Prices-Top-1000-on-PJM-as-Heat-Collides-With-Fall-Plant-Maintenance.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-15T00:00:00+09:00",
+    "summary": "An unseasonable heat blast across the Midwest and Mid-Atlantic has landed in the middle of PJM Interconnection’s fall maintenance season, an"
+  },
+  {
+    "id": "d94c992c297d117c",
+    "title": "フーシ派はサウジアラビアの空港と石油施設を標的とした大規模攻撃を開始した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcWczdU5vSUw1SENuZUo4Q01wNzVXSlJXN0tHTWVjUmpibDd1SDBVekRJR3hNbi1YSUFMeHVULV85bTVVSkJHQ292VWRlZ0pCTWxpSW91NXQ1aWRVMnlaWTFvb1VXU1k2NkJpc2ptLUFUNjJxZ0JNcDM2MW5VanEtY1Zha2UtWVhCNDl0WG85SlBnQTdrTHBJMW9nVnJjbnRZbHBYTA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-14T23:34:56+09:00",
+    "summary": "フーシ派はサウジアラビアの空港と石油施設を標的とした大規模攻撃を開始した。 Vietnam.vn"
+  },
+  {
+    "id": "98835818826e4d84",
+    "title": "ロシアはウクライナ全土のエネルギー施設に対し、激しい攻撃を開始した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUTZodXN4WE81c1BBMG5OZXFncENBWHA1eFdwM3NvYTJpUDd0NFFrbnZoeUZTWXhhU3I3aFFubkdkR1JiMm1iQkxhbEtTa05TODltanpBUjdOcjR1RDlkRWRVTWUxaVVaQzllNlp2Mk5kNUN2Wkc4NjhxMjBOdkN6TGRYdlplUQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-14T23:34:55+09:00",
+    "summary": "ロシアはウクライナ全土のエネルギー施設に対し、激しい攻撃を開始した。 Vietnam.vn"
+  },
+  {
+    "id": "d187f64d3a0181d8",
+    "title": "米国はグリーンランドでの石油、天然ガス、鉱物資源の探査準備を進めている。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPWmhwVXBxVEJXWGNIVzJIYmNMVG4yS2VsQVA1MExSc2FlM2RubGYyWTloZHJkQVAtaUl2Q0tIU0t2RHVWSURRV0lSNV9jZlFXRkg5S2kyaWt3ZEVnaXYwdGRVVjJMSU1kYzdxX085V04xb3lxRy1iZVVLNnBZcFkyazNZOFlhb0R6NEVIaVRHaGtZZw?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-10-14T23:34:55+09:00",
+    "summary": "米国はグリーンランドでの石油、天然ガス、鉱物資源の探査準備を進めている。 Vietnam.vn"
+  },
+  {
+    "id": "7e5a727f6a5ef8ba",
+    "title": "ロシアがウクライナのエネルギー施設を大規模攻撃 60万人が停電被害 「エネルギー停戦」発表後も攻撃続く - FNNプライムオンライン",
+    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBLOXB3TUpzNThRV2RveHVtQU5KTmkxWG9CSDdENGdTSTNTdFV5VFFmWlhFOUxNeUhrTGNsM3pTakZuZWtlWWJrSkhvT3k5UQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-14T23:31:00+09:00",
+    "summary": "ロシアがウクライナのエネルギー施設を大規模攻撃 60万人が停電被害 「エネルギー停戦」発表後も攻撃続く FNNプライムオンライン"
+  },
+  {
+    "id": "4ada108fa6915060",
+    "title": "2026年世界標準デー：「手頃な価格でクリーンエネルギーを」 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNFNEVEtHYXFPV1ljRkFBb3dsNlN5emhEYWJVMTF4OGpoRDJ0czhKcXd4MnVfcGV5V3ByME5fUFZESEJFcXBndzBYUFZ6WXZkMzFVMEdCdUdzWnFHNTJCOUNLVGhNc0VPYlhkUGhLVC1TdkM2UVVFeS1sSFEwd2QtbG13NmkwbXNTbFZINE1xVEVLX3hSeW1pTjJWV1o?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-10-14T23:30:02+09:00",
+    "summary": "2026年世界標準デー：「手頃な価格でクリーンエネルギーを」 Vietnam.vn"
+  },
+  {
+    "id": "8a5ffa3a84d91eff",
+    "title": "India’s Gas Demand Drops as Iran War Hikes LNG Spot Prices",
+    "link": "https://oilprice.com/Latest-Energy-News/World-News/Indias-Gas-Demand-Drops-as-Iran-War-Hikes-LNG-Spot-Prices.html",
+    "source": "OilPrice.com",
+    "published": "2026-10-14T23:30:00+09:00",
+    "summary": "India’s natural gas demand has declined by 1.5 million tons so far this year as the Iran war choked LNG supplies from the Middle East, hiked"
+  },
+  {
+    "id": "02cdda533c709649",
+    "title": "米ドル/円【USDJPY】株価・チャート - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxQRjQ4TjIxQ19BQWdXRGVNcTJYQVhJdUdfdERsMHVrN1VHOS0yYzNSdlFjbTRuUzVqMkxRT2dHQTZscUxFNU8wY2kyQ0xueXZIYm5lR2JJeHZjMU9ScVFfYmpPQTFOemdtTkUyWHh3MFVCZGZ3dFpOOWxsYkh3NWxfTUozWjJoTjFiTURBdGtNRDI2RkJ2Tlk0OVNjd3c1UjR2NkNISE5WcVZFbHlZV0UwYWZrSHYzVWhJTXpFcmlSTUp2dlhmR1dVU2hVT1RpOF9aMi1WRG5LNm1DX2FqZks2VktYZEVESXVrRGJodFJLV002bEhvdEZKR3JZRTlNUTNwQm1vZWVxOUtJNmZvSV9YWWRQU1VXRFVmenF3bUZQeHJOV01wLXRWLTVjZWZlZUFqSnRrbEJRMTJ2dw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-14T23:29:00+09:00",
+    "summary": "米ドル/円【USDJPY】株価・チャート Moomoo"
+  },
+  {
+    "id": "c8d5ed509bfbe64c",
+    "title": "【為替見通し】ユーロ安が進行する背景 - テレ東BIZ",
+    "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5Qc05VNmVMOU56c3ZFMHVtTDVfcExRYVoyV0tIV01YVnpvakhzSzMtTVZHOWU2OEg2Rk5nT3EtNXVUMngzLW5oSTRfZTZqOW5sQzJyYkhMb01zek9BbTRsRg?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-14T23:04:33+09:00",
+    "summary": "【為替見通し】ユーロ安が進行する背景 テレ東BIZ"
+  },
+  {
+    "id": "f17ad1ff4def528b",
+    "title": "為替相場 14日（日本時間23時）（共同通信） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMmJZSFNER1NTcmNwY1Itd1dVTktUeFJzcWI0SGJ2QkFnZ2JjNUlocGN6ZUtNRk1ON1U4dEpYQ2gzelhOblVoOVhHOFNubkNqR2hBY3hCcnNmbTBwYVg5ODV1dnVOWm1rTnRYaHVPTm0zYU5UeDFJOG9TRFV5S1U?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-10-14T23:00:39+09:00",
+    "summary": "為替相場 14日（日本時間23時）（共同通信） Yahoo!ニュース"
+  },
+  {
     "id": "fd47dc0d5e54f1a4",
     "title": "Monthly wind generation in ISO-NE is about 68% higher than last year",
     "link": "https://www.eia.gov/todayinenergy/detail.php?id=68304",
@@ -24,459 +472,11 @@
     "summary": "ハノイは電力不足を許容する余裕はなく、今後の電力需要増加に備えてインフラを積極的に整備する必要がある。 Vietnam.vn"
   },
   {
-    "id": "99b15e672915a6f7",
-    "title": "〔NY石油〕WTI堅調、95ドル台（14日午前）(時事通信) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQOWZ0WkZmWFZldmFSX29YNUZrY3poVHpJZXRLM2hsUXA0NVNLR0JRNWhvSVY0RmFFRWU4Z3o4cTR1XzlPRHNIbnI0Qml5WEFjQWVNTzlIZ2tDeFQ3STlWbFlyUm5TblJiQlZ0YmVEcGpPaGJJd2l4eTR1eTFDQURBcFBJdnRvNVk?oc=5",
+    "id": "43cf2b6d89fa3dc8",
+    "title": "IEA報告書が石油市場の「赤字」継続を予測し、原油価格が上昇 - Moomoo",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSGMxV2U4SkE2dVVJQXF0dENLMm0zN19wOXpuaXYzV1Q4YWVseFJqYnRCb2VfdkgyX1d6M3pLS2ZhM0QzZjRfZVB3WlFqdlJpdTlVdWlxS29UUHFKZ1dQQWg1UVRWSUItUzFhal9ZMjNRSzRiLUdlVWNkeXl6cVBXZkVWMTFpbGNvNHd3MVluclNpeGcwV19rclZxVFlQRXJZREdKalA3UXpmQQ?oc=5",
     "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T22:45:36+09:00",
-    "summary": "〔NY石油〕WTI堅調、95ドル台（14日午前）(時事通信) Yahoo!ファイナンス"
-  },
-  {
-    "id": "3cf84a7ed17ee94f",
-    "title": "Russian Strikes Cut Power to 600,000 Ukrainians Days After U.S. Diesel Deal",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Russian-Strikes-Cut-Power-to-600000-Ukrainians-Days-After-US-Diesel-Deal.html",
-    "source": "OilPrice.com",
-    "published": "2026-10-14T22:30:00+09:00",
-    "summary": "Russian strikes on October 13 and 14 cut power to at least 600,000 people in Ukraine, Zelenskyy said, four days after the Trump administrati"
-  },
-  {
-    "id": "0d34d09cb31fcdb4",
-    "title": "米ＣＰＩ受けドル高が強まる ドル円は再び２００日線を上回る＝ＮＹ為替序盤 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9sVk04Rzg2Tk41RGRSdUJzNUZQZWhyZkRrMWZsVnJwQklmRF9jR1drVXNxZEg5QU5WaW56WUU5dUJvS3Y1UXpneQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T22:24:28+09:00",
-    "summary": "米ＣＰＩ受けドル高が強まる ドル円は再び２００日線を上回る＝ＮＹ為替序盤 みんかぶ FX/為替"
-  },
-  {
-    "id": "25d98e8221a2b809",
-    "title": "電気代、毎月払っているのに…基本8問の全問正解は366人中たった3人 4割が使用量の単位を「kW」と勘違い【366人調査】 - Infoseek",
-    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9paUUtTHpFZEJLTHR3M1F2SzBDUjAzOUlDZDU0azlJQXh3cl9yWjViZlFhOUEtUFViYjlleU1NMmRnNU8tZjgydEI1b1NTOWdibzE3RzVjMTI3Q0ttY2k1TU5XaVNqM1lxb2Q4ODdWQ1g1UQ?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-10-14T22:10:02+09:00",
-    "summary": "電気代、毎月払っているのに…基本8問の全問正解は366人中たった3人 4割が使用量の単位を「kW」と勘違い【366人調査】 Infoseek"
-  },
-  {
-    "id": "ec516c487c12e652",
-    "title": "欧州外国為替市場概況・22時 ドル円、上昇(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTUZYd19NLXFuUHNKQXJ4QjRhdjczUEJuRjFyUzlRek5XUDlIQU1Uam1CWXBaME1NWklzaWxTMHZxbUNjN3ZjZXRnN2k1RGdZQWlkdHM5ZXZWMWtuMHA1VVFmOGZwdkFEU1hOZXM5S1NLQjFTNGg0a3hfa3duNWlUQWxTdjBYQm8?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T22:04:47+09:00",
-    "summary": "欧州外国為替市場概況・22時 ドル円、上昇(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "65e55a711237b007",
-    "title": "9月の米消費者物価、3．7％上昇 原油高で伸び加速（時事通信） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBNTkFnVUN4a2ppQU5Zam5hZGpJOFNxVUtHZ2VOLVI2U1hwWWNla0ZCM19WVzFiSW4tTzNHZGQwU0dXUlZUQi1vM0JzTVk4RDJsazM4NHA5Qms2TjFvSE5kdlFYT1B4cWMzREhBaWhleGFyTTIwcUltNURSU3pzSGs?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T21:49:15+09:00",
-    "summary": "9月の米消費者物価、3．7％上昇 原油高で伸び加速（時事通信） Yahoo!ニュース"
-  },
-  {
-    "id": "0a30a8389facc238",
-    "title": "原油は９５ドル台後半で始まる＝ＮＹ原油オープン - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBJZW93Nk4wWUk0U1JWOEhKUlBFWXBiUnlEYlZYb2FCcWthaE5QUzZoNWN0clphWmVaUlQ0WFlGaEpqSHFxNVkwSA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T21:45:29+09:00",
-    "summary": "原油は９５ドル台後半で始まる＝ＮＹ原油オープン みんかぶ FX/為替"
-  },
-  {
-    "id": "670c704d5b9b0803",
-    "title": "フーシ激しくサウジ越境攻撃、石油施設で火災・住宅地に迎撃ミサイル残骸落下…トランプ氏「ひどい振る舞い」 - 読売新聞",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFAtLU5zbXVrS0RxNXRRMGdpUHNadzVEeXlhS1ZvSElDSTFMUmdQcUhVbkhXUy1XYUxqUFBPTkh4MTYzZ244cGdaSE5VcFpZMExULU5OTmxzMzlNVS0wbDBaMWRB?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T21:45:00+09:00",
-    "summary": "フーシ激しくサウジ越境攻撃、石油施設で火災・住宅地に迎撃ミサイル残骸落下…トランプ氏「ひどい振る舞い」 読売新聞"
-  },
-  {
-    "id": "820d4bd3d0bffbaa",
-    "title": "標準化は、新技術の開発に先行し、それを主導するものでなければならない。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcXdzaFdYZDRGTTd4LWE0QUhoUjVZVmJfX0doSFNvUUI5TnJjR0RrbGw2anU2UmZMdmFxRGxBbzJZSDZaYVBPaUdtR0NQWk9WT0duV2pYTjVBLWc3S1pMRE43VUo2QzJ1TkRvTF9tdk5JM2dfc1U2RnNFclcwdWRKdHFDQWQ0ZzBQV1AxWVBvZTc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T21:44:32+09:00",
-    "summary": "標準化は、新技術の開発に先行し、それを主導するものでなければならない。 Vietnam.vn"
-  },
-  {
-    "id": "f9d4d854e4d96fae",
-    "title": "WisdomTree 天然ガス上場投信【1689】：株価・株式情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBCSjI5d3ZRWW95NlZyVE5kZmVycWlkSlNEOGxQWmVwekJQLU1CVC1JU0lZNXBtN0hub09EdmJWRjdOc2dWaEdGNm1oU1hKLTEyekE?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-10-14T21:42:35+09:00",
-    "summary": "WisdomTree 天然ガス上場投信【1689】：株価・株式情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "a6221344f12011ed",
-    "title": "米１０年債利回りは５．２９７％で始まる＝ＮＹ債券オープン - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1KdzloankyWkg4a29VOUhjZHgzemNWNGdMWkFWUGpKV3loWVN3N0lId21Kbmp0R2tIVEhuNkFRZ1ExckVHNFFUag?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T21:41:29+09:00",
-    "summary": "米１０年債利回りは５．２９７％で始まる＝ＮＹ債券オープン みんかぶ FX/為替"
-  },
-  {
-    "id": "abac8929d16727f4",
-    "title": "ドル買い反応、米ＣＰＩが予想上回る伸びで＝ＮＹ為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1NQXRLeFJaNFotaldxSmx1QVg5bFJfdklSSUlwWHNyUm1YZnh6c1R0RUdnWlBFOU1hWHhqNV9jczFVSFo2aFZ5WQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T21:38:29+09:00",
-    "summary": "ドル買い反応、米ＣＰＩが予想上回る伸びで＝ＮＹ為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "2fc90cb937083a4b",
-    "title": "トランプ氏は、グリーンランドにおける大規模な石油、ガス、鉱物資源の探査計画を発表した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT0FuVnd4YldZekpPNFl0Nkhid016SXZ5N1RSSWszYjM4TnF3UUNZeXdfQmwyT2V4Y0VMYVJfaVF3NEl5dnc2bUtxa1V4QUpzZ0EwZU9FSWZEa0NzWlFtZzlGdXUzSlg1QjN6LTlYOWlCWUJud3ZUS2QyamN2TnJlZ0dwOWlFN2UyaEZDWGdaVTdzSEMzWGNxUkRtQzB1dV9CZkY1STNR?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T21:36:28+09:00",
-    "summary": "トランプ氏は、グリーンランドにおける大規模な石油、ガス、鉱物資源の探査計画を発表した。 Vietnam.vn"
-  },
-  {
-    "id": "ebff6d9b4427b790",
-    "title": "ロシアはウクライナのエネルギーおよび鉄道インフラに対し、大規模な攻撃を開始した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQeHZKd3dqME9RTDAxZDdyVnN5OXNQeUFFcV9QSUtWWnhZNlIwUVI4R2Z1TUVZUjVOUGJaUkVYdU5Td25iTnFmZHR0WkhLeEtfdndsUWNHUUJHcTJyd2FETHF6anBQMzM3M2NMU1ptYjRsdkQyMFFLWjQ0a0FkZTdQMjN3QnZTTnR2MHhGSEdSaFkxZzhnMllB?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T21:36:26+09:00",
-    "summary": "ロシアはウクライナのエネルギーおよび鉄道インフラに対し、大規模な攻撃を開始した。 Vietnam.vn"
-  },
-  {
-    "id": "8d4554911ebce0c0",
-    "title": "フーシ派、サウジへの攻撃継続を表明 アラムコ本社に大きな被害 - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSVBKTlpSSjl6UnhvYnkxWklRWEUybnNuT1VXX1o3ZGFDdDZ1bmFIczMyMGlyV245MlhET3RsMUFCU1JrN0QxNE56VDk2aWlYX1dSSEhWekRIZGN0b1R0YnMwaTBMd2ZwVHhwbVo0SnhVQ3ExSEdFNHVsYUR6UVFZRVdmNF8yZWs?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T21:33:41+09:00",
-    "summary": "フーシ派、サウジへの攻撃継続を表明 アラムコ本社に大きな被害 Reuters"
-  },
-  {
-    "id": "fba88c9d15d51db6",
-    "title": "米経済指標【消費者物価指数（CPI）】 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBYa1dWaXFreDZ3ZVkzVi1tUWRPcnJ5RjRBV0dxaHpOVmlONklmMEM4OHdKaFd6T0VVT0xDX1E2eUhtNGxFN3YzYg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T21:31:29+09:00",
-    "summary": "米経済指標【消費者物価指数（CPI）】 みんかぶ FX/為替"
-  },
-  {
-    "id": "35c0e82a7e1a1e19",
-    "title": "Aramco’s New Chinese JV Refinery Gets First Saudi Crude Cargo",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Aramcos-New-Chinese-JV-Refinery-Gets-First-Saudi-Crude-Cargo.html",
-    "source": "OilPrice.com",
-    "published": "2026-10-14T21:30:00+09:00",
-    "summary": "Saudi Aramco’s newest joint venture refinery in China has received its first cargo of Arab crude as it prepares for start-up, the Saudi oil "
-  },
-  {
-    "id": "c79c894c0eb33dd9",
-    "title": "欧州為替：ユーロ安でドル・円は158円台半ばに伸び悩み - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5tYkh6RGFaaUJIaU1COW5pNnJUMTR5VXA4TThCRVFqTGRlY2xrUC1FOUpUSUNWNXJTVklHMFozRWtxNzRsdkFqeE4zMk1uTk15SUtNSE1aU2dHcEI4UGhLbUNkREFUcjBXR1VXbWZhRWFtalRU?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T21:25:00+09:00",
-    "summary": "欧州為替：ユーロ安でドル・円は158円台半ばに伸び悩み BigGo ファイナンス"
-  },
-  {
-    "id": "07637bd68ea2a196",
-    "title": "アルベマールが上昇、みずほ証券がエネルギー貯蔵需要急増を受け格上げ 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9DV0RiS3g5VkhHYWpUYjRQQllvVnpjUnZyVjE1bHNhcllONGVkd25zektrQmVDZUhHUEpSTHp2Yng0ZzJmTk5OM2dRWThldTlUMmlheWd2d1ltU2ljYnhvb0I3UXFlb0wxZVN0VUtsYTY?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T21:23:00+09:00",
-    "summary": "アルベマールが上昇、みずほ証券がエネルギー貯蔵需要急増を受け格上げ 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "4626e7d99a6fd3d1",
-    "title": "ＮＹ市場 この後のイベント - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9XMl9SMFBWT2dpTmVNYzZ3MkNENXI2Zmg0U09LeGJmLUxoN3FsZ1FvalVjUXVaTTg0UklOMmhJQk5CWVRSSE10Xw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T21:00:28+09:00",
-    "summary": "ＮＹ市場 この後のイベント みんかぶ FX/為替"
-  },
-  {
-    "id": "367e9ca41fdd7092",
-    "title": "太陽光発電は発電量を増加させ、LNGプロジェクトへの投資を促進する。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOaFVQZzhsd3NOUTFoTW9jbVB2dzJlQW5ZNlNGQkxpM3ZHWXFmVUxSOWgyYTljZ1VPM3FZRWU0b2NHbUZwVHg3cnRQdzRuUnJUaEtjYjdXRjhjVDZNTGpRb2phVnRma1ZQcTBuOG9mN2ZDdTBUQTd3TVRVUTZHR3ZuV1hlVEtfM0FQWWZXUXpDRDVGRlVmNlE?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-10-14T20:57:19+09:00",
-    "summary": "太陽光発電は発電量を増加させ、LNGプロジェクトへの投資を促進する。 Vietnam.vn"
-  },
-  {
-    "id": "fbf86018e250a397",
-    "title": "株式会社クラシェルジュ、ChatGPTで電気料金・光回線を比較できるアプリを公開 - ニコニコニュース",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KN3NVM2FEc3V2aGt6a3h5QU83eVdyb21wNHZJQXF1OUFqVXBUVTdYV19KNWplbGhEUXhFbU56UEJBX0JPMFdPS1E4ODZteDdzYTdNMm8zNDJqeE81Vk1uV3Z2RnUxWlRfNHJPUTJGU3RUX281SzVWMnN2dw?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-10-14T20:51:13+09:00",
-    "summary": "株式会社クラシェルジュ、ChatGPTで電気料金・光回線を比較できるアプリを公開 ニコニコニュース"
-  },
-  {
-    "id": "e158022479dfab01",
-    "title": "欧州エネルギー危機：ガス価格だけでなく、ガソリンとディーゼル燃料の価格もEU全域で過去最高値を記録した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbWh2STZMNjJqSXRCeXBmcVpnNHNfamljYU5FRE95UVZVYjNXWm81WnVNZ0J0dGhlZEp5UFE5aVZSdzkxOVhKODZ4b0JoWjhsYlFPTkY3WG05dHpocWI3TXVNS09vTnV0SFRzTWQxWTZiRWtIT29SZ0QwekZJRHBuNklIWFdVRkNDc3laTkQ1UlE0SklRUlV4NGlBT3Z4VDBRSV9GdExFMEJ2MHZqV3M2R204NVFkMS1HZ3dlOUYzbXJDRlE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T20:45:13+09:00",
-    "summary": "欧州エネルギー危機：ガス価格だけでなく、ガソリンとディーゼル燃料の価格もEU全域で過去最高値を記録した。 Vietnam.vn"
-  },
-  {
-    "id": "8b6df64cabc5c5dc",
-    "title": "世界最大の石油・ガス会社の本社が攻撃された。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPaFY1d2FFcTNqNUk5UlZDeXo1NDF6UUpBTG5XLTNNZHRiaHdyVGJnLWE3MnZVdXM4WmJqSGJ4QlpWMGRJRWI0SEZsZ3pzQ19yaWJtWl9CREczMGlwRE5hU1VzR3Z6RVE4UG5FTENkaEtxc3dGd21LT2I4azA3VzVqTzd6VWtTZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T20:45:10+09:00",
-    "summary": "世界最大の石油・ガス会社の本社が攻撃された。 Vietnam.vn"
-  },
-  {
-    "id": "5f744c6d8c63708d",
-    "title": "米金融当局者は米ＣＰＩのコア前月比を注視との声も＝ロンドン為替 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yUGtSVGlTeDlwUXQtN0c5akxFbGlYNTQ2SWlPZ0hsREgwRHg0dElnRWZhYnpSdDZHSkZET09ERmtOU0lfWnVSdQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:42:28+09:00",
-    "summary": "米金融当局者は米ＣＰＩのコア前月比を注視との声も＝ロンドン為替 みんかぶ FX/為替"
-  },
-  {
-    "id": "2c921dd931a1297b",
-    "title": "余剰電力を「岩石蓄熱」 新東海製紙島田工場でプラント実証運転開始 エネルギーの地産地消と脱炭素推進 - 静岡新聞DIGITAL",
-    "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5iZ3U4RGJVR3c2UGVuaWhRMm1uVElsMzM1ZEJjS2o1a0w4aEFFeFNJMmtNckJ4MUdhMS1zczNKdktwQ2swMThwWERoUzYwQQ?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T20:40:00+09:00",
-    "summary": "余剰電力を「岩石蓄熱」 新東海製紙島田工場でプラント実証運転開始 エネルギーの地産地消と脱炭素推進 静岡新聞DIGITAL"
-  },
-  {
-    "id": "6f79337df0e84417",
-    "title": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zckZSdHVvbExXV2xBc3Qtdk51MGlVVU9UNHZWeVRPMnRTNFJ6RTlfMjByUlZ6UEc4WGhvVURYd2RIRW5Oa0hXeXVMd0xETDdqamdPZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:35:53+09:00",
-    "summary": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "db04916cc88dd2b1",
-    "title": "本日のＮＹオプション期限・主要行使価格と規模 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9ndDZuT19FbXRla1RwS0NzVF84V2p2enZORU9pTGVrQTBrSUVlZHBvZnZNR1BVYTlmSEI3dmhaVUdVNHBMd0JTWQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:30:29+09:00",
-    "summary": "本日のＮＹオプション期限・主要行使価格と規模 みんかぶ FX/為替"
-  },
-  {
-    "id": "260c6a186cb19951",
-    "title": "Oman Overtakes U.S. as India's Top LNG Supplier in September",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Oman-Overtakes-US-as-Indias-Top-LNG-Supplier-in-September.html",
-    "source": "OilPrice.com",
-    "published": "2026-10-14T20:30:00+09:00",
-    "summary": "Oman was India’s single biggest LNG supplier in September, toppling the United States that held the top spot for months after the Iran war b"
-  },
-  {
-    "id": "94eda70c93c67357",
-    "title": "サウジ国有石油本社に攻撃 フーシ派、報復主張：時事ドットコム - 時事ドットコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9LWEFrLWQyaHl2dGhIUHlQVThBM0pUWnpZM1hyRDdWQTdDYV9heW05cFBvcl9HVWhIcTBVLTVsajFEc0IyeEhSSGltY09mc3V4eTg3RUV4VE05RHFpMzE1UnUyMA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T20:26:00+09:00",
-    "summary": "サウジ国有石油本社に攻撃 フーシ派、報復主張：時事ドットコム 時事ドットコム"
-  },
-  {
-    "id": "3be1b3e9e67c885f",
-    "title": "ドル・円はやや失速、ユーロ・円が下押し｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE83azJ5azB5c2JFNUZVOHNkenVzQmNNdDRaZ25VYk95TEE3UldNRGpudU01QTF4ZDFuWHhFSjVLdmZpaUs1U0VUYjdONU5pSWdfTWc?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:19:00+09:00",
-    "summary": "ドル・円はやや失速、ユーロ・円が下押し｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "f81e7ebb769fd07b",
-    "title": "欧州為替：ドル・円はやや失速、ユーロ・円が下押し 執筆： Fisco - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5NOU1QV0R2TzJXaHdUTzZXd1RMZGZ2emFkX003Z1NQOVhJWm03LUZYQV9IVXRKZWtIaktSVGN1ZVprdHpidVAwQTEzZUhSbGpnTWliZllXOWdvY1BDOVp1T3l6MEVmejQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:15:00+09:00",
-    "summary": "欧州為替：ドル・円はやや失速、ユーロ・円が下押し 執筆： Fisco Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "7aca891546bc8c0c",
-    "title": "頼・総統：グリーンエネルギー設備容量25GWに、10年前と比べ4倍に - Rti 中央廣播電臺",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4xbEliM0h2ZVlNZUNfMnd3MGVHM2h6VUZoeWFMVGg0X0U1MVROQXdUUkF6bUtyY3dYUzhXVVBmQ3EwejRvMFZkOHdTMEJJMnl3dXNlWkMxa3g2SUE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T20:12:22+09:00",
-    "summary": "頼・総統：グリーンエネルギー設備容量25GWに、10年前と比べ4倍に Rti 中央廣播電臺"
-  },
-  {
-    "id": "0f01c73e2eb93eb1",
-    "title": "次世代のエネルギーは“アンモニア!?” ダイハツが初公開したエンジンの新たな選択 現状の課題は“臭い”と“インフラ” - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBvZkF2eE9NeE1DN21rLTd6UTJYZlpscjJkZlFEd0NYWjRxYmNKNjIxTURKNVRCQkZCNWJDSk9LMm8wUHFjM2FxMHppZ0dFV2dCNlNuZnNWZjROTndUak44Z1dTZmU0SFBXRmtXSk5SNGFhc1U0b2JKMUVtUExjQjg?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T20:12:00+09:00",
-    "summary": "次世代のエネルギーは“アンモニア!?” ダイハツが初公開したエンジンの新たな選択 現状の課題は“臭い”と“インフラ” Yahoo!ニュース"
-  },
-  {
-    "id": "f3fe1ba399fae081",
-    "title": "欧州為替：ドル・円はやや失速、ユーロ・円が下押し - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNRnFnM3l3LVpwMGpUWGZ2UzJjX2dTSVZhVEdNOHFwcHJLcjlWYnl4VXR2MHNGVWdjcHRRTEZnYXNqOTZfUXgwN0tGOHF5Yy1nSmFfZ3ZZMVpDX0M0dHlZZGwwTzBMY3ZkQlNVM3lZQnBPdGFSdVBBLTNtemFnYlA5cG5EU2V6S3phcjlMOdIBjAFBVV95cUxNRnFnM3l3LVpwMGpUWGZ2UzJjX2dTSVZhVEdNOHFwcHJLcjlWYnl4VXR2MHNGVWdjcHRRTEZnYXNqOTZfUXgwN0tGOHF5Yy1nSmFfZ3ZZMVpDX0M0dHlZZGwwTzBMY3ZkQlNVM3lZQnBPdGFSdVBBLTNtemFnYlA5cG5EU2V6S3phcjlMOQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:09:00+09:00",
-    "summary": "欧州為替：ドル・円はやや失速、ユーロ・円が下押し ｄメニューニュース"
-  },
-  {
-    "id": "daaac1b65278523f",
-    "title": "欧州外国為替市場概況・20時 ドル円、底堅い(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOaHVkay1TTW9FMHlQckVBNUU4MXozMEZSa2VIdlBLRm5WU1pqN3Z0dTlRMUhGd0VRaDd2NS1qMFg0eDhqRm9JeHpZMHdnQlZUM2QybU1VU0FjRHBGTXFicDZ2ZDlaQXhLcXcwaWF1dVl5ZXI0TmltQlIyMEYxS05TMDRZbk5CeUU?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T20:05:48+09:00",
-    "summary": "欧州外国為替市場概況・20時 ドル円、底堅い(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "54abb6c89c2d1c9b",
-    "title": "現代自動車、インドでエネルギー・AIへ事業拡大 - 조선일보",
-    "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPcHFsblU5UV9HNEZ6bzNOT3hNLUw3NnR1UGhDNDBRN3ZXVmg5UVcxT3Q5NlNsV3g3Z09peTRpeWlBc2V6UzZ6SW11UDE0QWtlby1vbEVlQlJqanJLVVZiYTJzUTlGNFVzeUluZ0JDSXh5d3B3Z0hMMHJkMUdTNHg5RA?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T20:04:00+09:00",
-    "summary": "現代自動車、インドでエネルギー・AIへ事業拡大 조선일보"
-  },
-  {
-    "id": "4d498fdb5f173a58",
-    "title": "フーシ派、サウジの空港・石油施設への攻撃継続を表明（ロイター） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5fRFdxc2ttWGZaS3dCbGRyUWhuNmJwMTY2dURZUTZYazFoX1FwQmUxdkgxLS14bGNvcEhQckNZV3NoWTNQdHd0cmVEZTJJbzBabWVmenRDNjExTUxpVWNRbEQ4Qy1DbGJfMWd1bDhzZUVtSmpCVFVCcmYxSkd6ZlU?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T19:59:19+09:00",
-    "summary": "フーシ派、サウジの空港・石油施設への攻撃継続を表明（ロイター） Yahoo!ニュース"
-  },
-  {
-    "id": "6d94d84103336545",
-    "title": "フーシ派、サウジの空港・石油施設への攻撃継続を表明 - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5NaGFFcEhXNjAwTEczeGNHVGtuUklGVE1wcXpBUGhiSFljWWF2c3paeXNKb29jZm5XQmhRVG1kbl91SVREZHJ3Qk9jalRfWmxJWk44VjRoVnFCQQ?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T19:59:00+09:00",
-    "summary": "フーシ派、サウジの空港・石油施設への攻撃継続を表明 ニューズウィーク日本版"
-  },
-  {
-    "id": "28c0c5d8b9b0d3c2",
-    "title": "UBSがテクニップ・エナジーズを強気に転換、LNG活動の拡大を市場が見落としと指摘 執筆 - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
-    "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBWSXRUOW1aTjRQcXFTNy1BbUdVWFBSQWV1cjF3b2g5WEhiWVNaRUZpcGMxREs1R3hzZnJYQzhCUFVncXFQbWNFNFBHTGdTMlVYcFNwc3NKMF80NGNHT2VJcDJGUksyRGl2dlZqQ0NGNEU?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-10-14T19:59:00+09:00",
-    "summary": "UBSがテクニップ・エナジーズを強気に転換、LNG活動の拡大を市場が見落としと指摘 執筆 Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース"
-  },
-  {
-    "id": "b578627d6025f1c7",
-    "title": "DM三井製糖 新スポーツブランド「Zq」 持久系アスリートのエネルギー源 - 千葉テレビ放送株式会社",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE41c2dqZFFvbzhnaS1xUVo5eURncHVFY1NpOVhVNmNjMjJuVU1iR2c4c2dabGNCYmhaclZOdVRTSGJJVEZJemNHMUx6alpRaXUyY21zLTg2X0R3ZFFhREl3?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:55:11+09:00",
-    "summary": "DM三井製糖 新スポーツブランド「Zq」 持久系アスリートのエネルギー源 千葉テレビ放送株式会社"
-  },
-  {
-    "id": "b9a5ea6e0fe1fa96",
-    "title": "ややドル高の動きも、米ＣＰＩ発表控えて限定的 ドル円１５８円台前半＝ロンドン為替概況 - - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1pdG1jNE9PcWp3R1pOLW1CMHN6VkJnbkJtUHctblgtMTJfeUhaUEduTFJmdXc2ZHdEMlFna3lfOW1qN21hR25SQw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T19:53:29+09:00",
-    "summary": "ややドル高の動きも、米ＣＰＩ発表控えて限定的 ドル円１５８円台前半＝ロンドン為替概況 - みんかぶ FX/為替"
-  },
-  {
-    "id": "ca4b33ca9d24cdf5",
-    "title": "「燃料費でキャッシュアウトがない世界を」水素エネルギーの国際会議 普及に向け山梨の長崎知事・東京の小池知事ら議論 - TBS NEWS DIG",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBxRGxvQlhiSzlRbVU4ZjJjd1RzM05MSzZYM3dWWU9UU2FOcEYwLVRuU0hnTDA3bzZXODNTbk1TSFRPdWtzdzlvVzE3alYxNWstWDdYaGJjakNZQQ?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:51:00+09:00",
-    "summary": "「燃料費でキャッシュアウトがない世界を」水素エネルギーの国際会議 普及に向け山梨の長崎知事・東京の小池知事ら議論 TBS NEWS DIG"
-  },
-  {
-    "id": "d18506180e65b0fb",
-    "title": "14日外国為替市況（日銀公表分）(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY0pOUk1LcTZjVmw3V3ZZS0RIRkNTcXJaNHZtczRxcmVDMGU2cW9XZkQ1WFkwM3BWYV8zY3ViNlA1TlNMOUFHa1VwNXhpZ0NRQjhoaTJXMkx0Q1pPSHFJWWxQVTlZaF84QmxZSG5pa1RGb0VVblUyVXE2czJWeGtTeGVBQWNqaGs?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T19:50:04+09:00",
-    "summary": "14日外国為替市況（日銀公表分）(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "28b96f62e038f7a4",
-    "title": "エネルギー・資源・ユーティリティ業界に関する調査結果ハイライト - トレンド | 日本タタ・コンサルタンシー・サービシズ - Tata Consultancy Services",
-    "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVzhCXzhkRVdTc1ozczM5WERTajVwdUJvMVI2dWZSNnRfYUxrMXUyeEdSWFNRMFFwZmpEclBVVnU2aG1CTktaSTk4RTMxZ2tmaTQ4RzFtbm9LT2hNMDFmWGdLcFBES3FkUUtRTmFGTHFfQlhBdEhhZHFtN2FhLWxMOTBQUQ?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:48:41+09:00",
-    "summary": "エネルギー・資源・ユーティリティ業界に関する調査結果ハイライト - トレンド | 日本タタ・コンサルタンシー・サービシズ Tata Consultancy Services"
-  },
-  {
-    "id": "0c329bda90e8bcbf",
-    "title": "ドル・円は伸び悩み、クロス円が重石に｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1FYmYycEdGZDdYMXV1N0pFN0J5TmY5b0p1U0RiZU9OMFBJUHZHTmEtVTdoYTFnQVFqcGRSVEFLZnNjSUdYUUNSRWFMbmRlWEpvREE?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T19:47:00+09:00",
-    "summary": "ドル・円は伸び悩み、クロス円が重石に｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "c7a7ee2858d4433c",
-    "title": "ホルムズ海峡での船舶攻撃を受け、アジアの原油価格が上昇した。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNWXNRX0RsMTN3Rmc1UGZ3TGhYbTY3VkFSSU1pbGJwdzhabWtDaVl2U0w4TFZfRlkwZTh5bzhRUkVIU2lCSXo4RW4xM0hSb0NQN0pXbm43VFhBaFFMa3gxdFBtbU8xcEs3WW9PWllhd1pDdmh1Ykl2dGt1bzRlQmVfTVVkY2ZVSnVLUVU0OVJJODJtRDds?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T19:46:59+09:00",
-    "summary": "ホルムズ海峡での船舶攻撃を受け、アジアの原油価格が上昇した。 Vietnam.vn"
-  },
-  {
-    "id": "4a7f213ea3a65b2f",
-    "title": "DM三井製糖 新スポーツブランド「Zq」 持久系アスリートのエネルギー源｜Infoseekニュース - Infoseek",
-    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5XenRlVkY3Rk5LVkkxTkZRc005c1dhSnFPWXZUblI3aE9IanYxZUhTTDRQRnA3Tk9EZUVDWFo0NndvaXFVZjV1a2pfUkdZMkJxZzY1YVlTSnFaZ3lYTXZfM2Rn?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:45:25+09:00",
-    "summary": "DM三井製糖 新スポーツブランド「Zq」 持久系アスリートのエネルギー源｜Infoseekニュース Infoseek"
-  },
-  {
-    "id": "397a1171d984d4fe",
-    "title": "エネルギー安全保障を確保するための多様なインフラ。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1ILUI4X2lhS3JMWlF4YzJzOHQ2Q1NiN2Y2ckNiZE1Ia3ZiaERJMTNhdERrTmFRZHhLWW41c2I2ZEZtNS1hakwyTk9DUU9vUkxUOWQ5ci1xWHJGc1V2UGpRNlhJcGk3WEZLZXRoOUwzbXM2TndGS0pjX2drcw?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:42:37+09:00",
-    "summary": "エネルギー安全保障を確保するための多様なインフラ。 Vietnam.vn"
-  },
-  {
-    "id": "0d07cf67b3e22f33",
-    "title": "NY為替見通し＝9月米CPI結果が相場を大きく左右、考えられる3つのシナリオ(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUjBMMmQ3QnZzVXNBYWtmbzd2eWxmTUs4N2loUmZJQk9hWXFka19oZVp3bnRGSzh5Tlo3UnduQU5heUJLc1UtbkFzY0tFd3lRWTZiUUI2Z0p1NV85UjVyTWxDX3pJVm9RNVBCQURNM1ZydjNMSVlaSWdFUHVYbmZ1SGd6VkpCUTA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T19:36:04+09:00",
-    "summary": "NY為替見通し＝9月米CPI結果が相場を大きく左右、考えられる3つのシナリオ(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "a6f3543132031901",
-    "title": "高市首相 簗氏の後任農相はあす、お伝えしたい - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBNc0tma1d4U3FnR0pIYjZES1hLQjlCVjhDOWxQbkVHQURVT3hTRWVRU1htOXNGRkdMYmdlbGRfV1d6X0ZRaEF4YQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-10-14T19:34:28+09:00",
-    "summary": "高市首相 簗氏の後任農相はあす、お伝えしたい みんかぶ FX/為替"
-  },
-  {
-    "id": "68205cb4a005b147",
-    "title": "台湾、アラスカLNG開発に最大44億ドル投資 年600万トン購入へ - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aa1p4MzVGVDZBaGNkNU82Y1gxaVRPX2phbkxDb1Z3UGdSNkp5TzE2NkpOTDJYSTk0V3JtRUFpOXdhTEFfTW5fSFc0UF9QdkZ4YklYNGFMQ0FCaVh1anBCOEZBRjZKZVdzLVpVbA?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-10-14T19:32:45+09:00",
-    "summary": "台湾、アラスカLNG開発に最大44億ドル投資 年600万トン購入へ 日本経済新聞"
-  },
-  {
-    "id": "1b8fee02f0648661",
-    "title": "Trump Announces “Massive” Greenland Oil Exploration Plans",
-    "link": "https://oilprice.com/Latest-Energy-News/World-News/Trump-Announces-Massive-Greenland-Oil-Exploration-Plans.html",
-    "source": "OilPrice.com",
-    "published": "2026-10-14T19:30:00+09:00",
-    "summary": "“Massive” oil, gas, and minerals exploration will soon begin in Greenland, U.S. President Donald Trump said on Wednesday, claiming that the "
-  },
-  {
-    "id": "31010adfe2c296c1",
-    "title": "岩石に熱エネルギーを蓄え活用する実証実験が始まる 蓄える熱の量は国内最大規模 静岡・島田市（静岡朝日テレビ） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBiZV9objNaZURBMTZ5aV9rQkxjTVlEZGM2aDN5V3lBRnpJY0UzNmZJYnNmUUhpcmhQVi10SlB4eDVpaHY1MHNycXpjQmx6TVI1em9XbmVUencxcXd5RDZQRS00c2tTdTlEVVpoTEp2UUYzTXVBa1dDT1laX2hVOWc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:26:17+09:00",
-    "summary": "岩石に熱エネルギーを蓄え活用する実証実験が始まる 蓄える熱の量は国内最大規模 静岡・島田市（静岡朝日テレビ） Yahoo!ニュース"
-  },
-  {
-    "id": "2bfc470967911178",
-    "title": "中部9県の実質域内総生産を0.18％押し下げ 原油高で 中部社研が試算：ニュース - 中日BIZナビ",
-    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1Ra0VJdzlscFI1TldTd2NHS1p4UWowWFdDMnJ3T0JKNWZzSnVaSzFjLWFsWUFLWm9sU2Q4aVc0bkt4SzZFT3ktMEw1REJjeGVXaHV1VW1PVV9udERfd2hB?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-10-14T19:25:26+09:00",
-    "summary": "中部9県の実質域内総生産を0.18％押し下げ 原油高で 中部社研が試算：ニュース 中日BIZナビ"
-  },
-  {
-    "id": "3aed1cf8d91d9f8c",
-    "title": "トランプ氏、グリーンランドで大規模な資源探査を準備と表明 石油・天然ガス・鉱物が対象 - NOVAIST",
-    "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1pNTF5VVV4ZTZ2NVAxcmNfYTNjUlNEOE5UU01xQ2NvdnVWc1Yxc1dfSUI2VnRRYUZtc25SOU1RNF9BMVNpS3FtNnQ0UUxRM2NSRjB3QlRKTDlMbWljclpKT0hnZWVLQlFqLVZJ?oc=5",
-    "source": "Googleニュース｜LNG・天然ガス",
-    "published": "2026-10-14T19:23:31+09:00",
-    "summary": "トランプ氏、グリーンランドで大規模な資源探査を準備と表明 石油・天然ガス・鉱物が対象 NOVAIST"
-  },
-  {
-    "id": "6afd5054e0fed0af",
-    "title": "性行為はエネルギーを消費するが、運動の代わりになるだろうか？ - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQjFPQ3VxYVV2RG9qRzU2OHpJX2ZNdnh2cGM5UDFJTjVJZWNucUNTUUJHR0YyQ0lmblAwamVkdVZxN19rOXpSRHlCeGlPLXpJOGFQcTFla0VwT1JHVmQwNW44NmFFQTZFVm1NTGhwcnF0WTRyNE5VZVdfTFBIekxfRHI0VW9XcnA2V1NyT3BxdjZXeldqdlBkYUFwSWpNcWJJbG0w?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-10-14T19:19:59+09:00",
-    "summary": "性行為はエネルギーを消費するが、運動の代わりになるだろうか？ Vietnam.vn"
+    "published": "2026-10-14T22:52:19+09:00",
+    "summary": "IEA報告書が石油市場の「赤字」継続を予測し、原油価格が上昇 Moomoo"
   }
 ]
