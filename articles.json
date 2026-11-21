@@ -1,5 +1,381 @@
 [
   {
+    "id": "4ada70fa30f1d5bf",
+    "title": "Category 2 Hurricane Isaias nears landfall, leading to production shut-ins",
+    "link": "https://www.eia.gov/todayinenergy/detail.php?id=68284",
+    "source": "EIA Today in Energy (米エネルギー情報局)",
+    "published": "2026-11-21T19:23:26.102105+09:00",
+    "summary": "As of 4:00 a.m. central time on October 9, the National Oceanic and Atmospheric Administration expects Hurricane Isaias to make landfall on "
+  },
+  {
+    "id": "d02b4e096c4666d9",
+    "title": "【社説】アジアのエネルギー安全保障 日本主導の構想、具体化早急に - 朝日新聞",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1jVzBFRzhuZFNidHQxWGZYZ0xFS1lxRDRtaUM3c21pVXg5THRWNEhvWWJRaHBRX3FzdXhJV3gtTE5xcGZ3SFlXVkpNQkhvNC0wYU9DZktZbU9kX0U2ZENpcTdrVHFRQ28?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T19:01:00+09:00",
+    "summary": "【社説】アジアのエネルギー安全保障 日本主導の構想、具体化早急に 朝日新聞"
+  },
+  {
+    "id": "b28b2dbe3cc20660",
+    "title": "ベッセント財務長官、米国がイラン経済を引き続き圧迫することを主張 - アラブニュース",
+    "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxON01mNmZPcm5DSWlFd0hIV1lsY0NvMTZ6VDR6UkdNd3pyX2RsWWZlem1ZYWh4OFRWOEVha045ODRsU3ZWNVdSRTZGbjNjaWZsVkZnaHM4Zk5jdTk4WlRCUnZoc1VzX0xjMmNMdGZBTWxUa3F5Rk5aNkFDRldnTmRiM1dEdU55YXhLZDJPY2wzNEw5bk1pZEJ0OE9TbklLMW9NdXVBQko5NkVzVXdxcHJPV3Y4aWc0V01WM1BoS2FQV1dhMVpTejNZQUpJMXV1RGJvZ2wwWnZMaE00Sm1WVU0zVGtZR2ExWFhwTm9GeVFVeHNCaEFSUTJRTlBSczJ0MUtod3NlakZaTDlUbGxkTDFObldDTXNXQkJwLVFPaUkwa0ZyN3FQTTB1SjFTb05qY19YREJNZEhnWk14ZWF5YWNRbDRoVFM2Z2xjUnZxX2lBc1hieFgwdTRUX2J2OEFUaUc4d0hDSWxwUlRlSkdTdDQwdGtHSk5KQkttSFljSG43Zmtza01ZOHJzMWdId2dINDRlRWFGZzZmdzFvWE1uNWQzSmtZckZHc2d6VTA5QW1XU2hGMUdDSVZOZjJGcThrM24yUm5sSEd3M3phRlU?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T18:53:19+09:00",
+    "summary": "ベッセント財務長官、米国がイラン経済を引き続き圧迫することを主張 アラブニュース"
+  },
+  {
+    "id": "92de210d4514b4bd",
+    "title": "家庭用電気料金は時間単位で計算されますが、人々は何を知っておくべきでしょうか？ - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdwdXlCcWpEMVVNODRxeWhja05jdUw0NWJMYUp2NUthTERvVV9rc3JnVWFpeVIycGd6QXRWUTBDWmtNMFRVdGJDOFAwVVVHa0JfZnp0dUl3TkRCVlU0ci0ta3dYSVRzZWR5SVVFRnl0OGlYcEk1ODNoZ0NuZzNtZUZLWmNhLUk?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T18:26:28+09:00",
+    "summary": "家庭用電気料金は時間単位で計算されますが、人々は何を知っておくべきでしょうか？ Vietnam.vn"
+  },
+  {
+    "id": "943798a23ba22d0f",
+    "title": "「ヨウ素」埋蔵量世界一 千葉に“次世代エネルギー”資源 - テレ朝NEWS",
+    "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE02ODF2VEJiWWVhYWhWVnBrSHlBaXRsXzNac1VBYXg3WHhRZ0xRNzlobzJMT3oxWm0xWFMzVWMzVWtSRldITlNuc0dYSVZXc1FFWVZDcWFUdTNuR1YwYW1SUTFOR2s2QTJHV2NEMF9MYXhwUQ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T18:06:56+09:00",
+    "summary": "「ヨウ素」埋蔵量世界一 千葉に“次世代エネルギー”資源 テレ朝NEWS"
+  },
+  {
+    "id": "ac465e0e24be8513",
+    "title": "ベトナムとアゼルバイジャンの企業が石油、ガス、エネルギー分野で合弁事業を設立することを奨励する。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcnR5bXYtcVZHMXRfY0E1WlpoRkNSdVp0aHFiTHJvM1ZXbktSNTJIbUt6aUc2WGtGUjNMdURYbl8tclpfbnloaVhXQ0htZzhqTXZhelRiVXRrWG0tc2I2RDdIM3NySGVmOV8yVVlvUlN5N0YwQkdyNU00QkY2dUQ5TVliRU13a0hWU2t2ZlYzc0p5Y09xNUI0aVZnelpfS3Y5SVNManhJc3o?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T17:46:13+09:00",
+    "summary": "ベトナムとアゼルバイジャンの企業が石油、ガス、エネルギー分野で合弁事業を設立することを奨励する。 Vietnam.vn"
+  },
+  {
+    "id": "fdfc3e057e905828",
+    "title": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も - 千葉テレビ放送株式会社",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1GNjJHN3h2X2wwNkZIN295WlVtdGdmVXViczdBdEpBZVBpYklWSVBJUXliXzhKQnF6ejVmMGxSckNZdHcyNmFkS0ZrSTVWekhiTjRzaGhJVFJlaVJ5UWhB?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T17:03:31+09:00",
+    "summary": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も 千葉テレビ放送株式会社"
+  },
+  {
+    "id": "ab25f60ec8915e0d",
+    "title": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も - Excite エキサイト",
+    "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBXZ243bTI0Z2VPMUxJbHVlT3ZFTFByY1VzdkhCZlNYazJaS0ZLQUNJRFZHWkxGbXZtSHlCQXM5Wi1jTExtOXJtQXYwR1ZzNXY3QmFub0FGeHVJV1FKZ29vaFpLcl9xVHIwMHVScWpVMGlaWWM4cUl3?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T17:03:00+09:00",
+    "summary": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も Excite エキサイト"
+  },
+  {
+    "id": "0ea87b4fe005c5c5",
+    "title": "【来週の注目材料】米物価統計は伸びが強まる見込み - みんかぶ FX/為替",
+    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1OWEUwUGprTDRxMDA3V0wzV1pmdklVNmNWbEd2SkREYUJrMHM0ZDAwMTdlRzktQXQ4V24ydVNZaWx4UFFiSUhYeQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-11-21T17:00:50+09:00",
+    "summary": "【来週の注目材料】米物価統計は伸びが強まる見込み みんかぶ FX/為替"
+  },
+  {
+    "id": "58a74c2c10d53341",
+    "title": "韓国はアンモニア混焼に決別 環境相「炭素削減に向けた道ではない」 - 朝日新聞",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE53R09nM2M2bkhlMm1LcjgyUUdWUk1SeVJjckZYNWFNdl9MQ1pqQTZVZUd1R0FmNEt0SUM3NHEwbG9jWm1IT3BMRWk0ZHd6am5JNUZMQzhpU1JQLU9CRVZJcjJQeWdJMzg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T17:00:00+09:00",
+    "summary": "韓国はアンモニア混焼に決別 環境相「炭素削減に向けた道ではない」 朝日新聞"
+  },
+  {
+    "id": "f2281c6733c98437",
+    "title": "800隻目のLNG船が到着 中国・青島市 - au Webポータル",
+    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1nZnpfOWdHZUxXbGk1YnlQZnVBMFVVYmF3MGdLN3RmMzZESEd2UE1jcExPRVp4cGZhbWV0UGdndFRabkM4T0ROWkZseUZESURkS0p0d0o0RkR5Tk82WGdEWDdPTmVoelN3LUozUEFn?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T16:43:15+09:00",
+    "summary": "800隻目のLNG船が到着 中国・青島市 au Webポータル"
+  },
+  {
+    "id": "7cfa4909d0c5a95e",
+    "title": "800隻目のLNG船が到着 中国・青島市 (2026年11月21日掲載) - ライブドアニュース",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5GRXhKX0V3RnlpMGhPUGppTndIcHJSNG5NWHhEbWJWamthdzJSUEppVEJMMm40THE4dC1NbGlnRjU5Zmh2ZlBMbXVFd3B3czhDS25XUUp1VmNpMUpndGc?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T16:43:15+09:00",
+    "summary": "800隻目のLNG船が到着 中国・青島市 (2026年11月21日掲載) ライブドアニュース"
+  },
+  {
+    "id": "1c2670b429bbbf4c",
+    "title": "800隻目のLNG船が到着 中国・青島市 - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPa0lVTWEyYl9GRExsdUFCVEFKQmwzM3ZGV3lEQkE0cUE2c2FBaTZtdmF4UVJ3NEdwbzd3QXE5VE1DTy12N2MxR2E1WDJDbTF4MkxERmcyaGdtbnl4a3FnTWVkMlZDdDZSWk5UWjJWT3NmRjVhT0U5WUJaczZ5X1NBMzFUc0xZaG5iOFlZ0gGQAUFVX3lxTE51TmVIbkNNSG9WajY1YjQza3ZYOVRpbU1oSHpPellrZFMwR3huN1VkUnlzeWtDTG53X1pvR1JOemczMU5RNjBXNkhuSjJXZl9taFFiWWdSODlWU2tUUlAzVlp1ZFk0M0RiZ09hbThSMUFCWVEzYmhZZW55ZHI1Y0I4bmtJakxSanBKcWRNSFl0Zw?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T16:43:00+09:00",
+    "summary": "800隻目のLNG船が到着 中国・青島市 ｄメニューニュース"
+  },
+  {
+    "id": "48f493f4389c7610",
+    "title": "ドイツ銀行、チップマネーがペトロダラーに代わりアジアの余剰資金が米国株へ流入と指摘 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9vLVBHeVBzSFQ5MUJPRUxDWlZ4WDlsakFTNUdtWFQ5UXZqRkFoRGlTWmluYjlnS2gzWEZQVC13TGp3azhMenAwRlRkWXk3VzZaUzZEQkN2b3lFSVM3SjRTQnFiSmJGWEQ1ZFU5VWhndU1QMDY2?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T16:35:00+09:00",
+    "summary": "ドイツ銀行、チップマネーがペトロダラーに代わりアジアの余剰資金が米国株へ流入と指摘 BigGo ファイナンス"
+  },
+  {
+    "id": "a2092fa0f31e4389",
+    "title": "原油価格50%超の急騰でも増産せず 米シェール油企業、第3四半期に株主へ2,400億台湾ドル還元 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJaE1zZDZSN3hLRTQwS0NvbTU1SmtncUZwOXdjdm1jYWdsUUZLaDJGR1ZpSlFfdE9hbkl2Mmo2dHNxbVZKMXNRSm9nLWN2VUl6eHNtSmJjSDh3UnMxSzZRdktTclZtWERoeklaYU1YQzQ4Y1Rv?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T16:25:00+09:00",
+    "summary": "原油価格50%超の急騰でも増産せず 米シェール油企業、第3四半期に株主へ2,400億台湾ドル還元 BigGo ファイナンス"
+  },
+  {
+    "id": "9ae44d87149e3a21",
+    "title": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBJR2c2cVFlUTJqNTNpeFpHRmhlaWM1aEYwZ04xYV9VNlpBMW9PdWNmY3JXMHRmY1kxaG0xdHNZYzk1WjN4UTBTSV9NdW8zOHh0R2c?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T16:03:45+09:00",
+    "summary": "WTI原油価格連動型上場投信【1671】：株価・株式情報（夜間PTS含む） Yahoo!ファイナンス"
+  },
+  {
+    "id": "f144f2b4eb2902f0",
+    "title": "AIの進化でUBIは実現するか 電気代消滅やGDP30%超の試算 (2026年11月21日掲載) - ライブドアニュース",
+    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1YM0ZfbWtWdWpNX0x5Z1VzVmRmXzhJWWN4R2x1Qm04LVZxeEdaT0NZNmJ5UEVwd25uVnZUeVFwU281VlJoakhGRExJSVg4RlktU3hUY09hM0NCdVlpdUE?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T16:00:08+09:00",
+    "summary": "AIの進化でUBIは実現するか 電気代消滅やGDP30%超の試算 (2026年11月21日掲載) ライブドアニュース"
+  },
+  {
+    "id": "2e4c1d3c987f001f",
+    "title": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も - ｄメニューニュース",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE92N3pTZ29NY1M1NDJOSGdRbWhMYlc4SkFxUWJPekRGamhyYUM5R2RlVzNtTTJuU1hBRjBaOHNTaE1vNHhoTjBMZGgwNy1XQ0tQTjFaZzcydjFWV1gtN0tFQ2dCOE9FYXZhOXJQaVV3OUpWd3gwbVhJYjYwRG11d9IBgwFBVV95cUxPZnNYc0hQNy1TLVJnRTVpbzNWTVU2dHNaZXhIN2c3d3dIMkUtdlBWUWsxZmloV2tiVWt5WXNKcDFPcklWMmxmRVNqNUtPZE14RktkLXlScTg2Sk1ENUZRSW85UlhlY2c5WV92cnRJdzJjMjdnR0FUN09IT05JazZGRGt5RQ?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T16:00:00+09:00",
+    "summary": "AIの進化で「ベーシックインカム」は実現するか…電気代という概念が消滅し、GDP成長率が30％を超える予測も ｄメニューニュース"
+  },
+  {
+    "id": "6f79337df0e84417",
+    "title": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 - Yahoo!ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE1zckZSdHVvbExXV2xBc3Qtdk51MGlVVU9UNHZWeVRPMnRTNFJ6RTlfMjByUlZ6UEc4WGhvVURYd2RIRW5Oa0hXeXVMd0xETDdqamdPZw?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-11-21T15:58:59+09:00",
+    "summary": "アライアンス･バーンスタイン･米国成長株投信Dコース毎月決算型(為替ヘッジなし)予想分配金提示型の基準価額・投資信託情報 Yahoo!ファイナンス"
+  },
+  {
+    "id": "7d54366f95f2d2aa",
+    "title": "米ガソリン価格、3月以来の安値―27日連続で下落 - 財経新聞",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBzeDhPLWNiOUtCbzFVNlQ5dTRmUlBodEtCWjN4UjN0d3FSQW04Tm16eTJBSWpGZ3c0TXkzOTVKckc3ejJ4SXhxUThIYkRpREYtZVR4UTc2S2RGNlFNZTl2a09R0gFoQVVfeXFMTWxFOHJpWUtXUVcyM2JpUTZDcU5GR1ZSTzJtd2R3V2Z2bjRqbV9pZ2lMLTJwc09URkZVNHBFZ3hYLWZlSVM4QmoxU1dZaTR5aGJYN0lWOURDelhjVGZDRlE2LWpXQ2ppTGs?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T15:37:37+09:00",
+    "summary": "米ガソリン価格、3月以来の安値―27日連続で下落 財経新聞"
+  },
+  {
+    "id": "aab5a8bcc7107f70",
+    "title": "米上院、AIデータセンターに送電網費用の負担求める法案可決―10年で約8.8兆円 - 財経新聞",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE13cmtQZ3V1SDJpOWxhdmpxRWwzLUdoRVM4cTFyUk0tbzBkcjVjOHkwQ1VPMHJTaWxkLTY2WWNRNXNvZWNDQXFpUEh0bldIUzNSWEE1WWhhanpHTHZDNm5ENWdnVdIBaEFVX3lxTE1NUkYzTWw0eFR1Rm9mRm8waVh6OElpeS13dW5VeWdLQW1jV2NRSVpIa0t3bnNXX3NtT1NKZ0c3eWctdUFZcXRoNGZGXzJId0FiRldlTGhwSFROVk5pOFBTV1pkZWQ4RmJ5?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T15:19:40+09:00",
+    "summary": "米上院、AIデータセンターに送電網費用の負担求める法案可決―10年で約8.8兆円 財経新聞"
+  },
+  {
+    "id": "1284ec323c486760",
+    "title": "世界の原油価格は、供給過剰による圧力から3週連続で下落した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVlNWcGJPRUwtTDZ5MEZES0draEFQSktOSXhqNTBnalRfMkdYSkNmOTFmSFFNMWtLMjM2Vk1zMTZqS3ZYYnZpUUlwSXMwQy1VVEpUTlplMmJHVFd0QV90M204NE42R2FSaDY2dEMwOEktQVU3M2g0X0I2UjFXRGxBMmgyWXN1dHhkQTh4OTk5bDFudkNh?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T14:48:27+09:00",
+    "summary": "世界の原油価格は、供給過剰による圧力から3週連続で下落した。 Vietnam.vn"
+  },
+  {
+    "id": "1774bd7884fd6bdc",
+    "title": "【通貨】 為替週間見通し：伸び悩みか、米利上げ期待も為替介入への警戒が重し - 株探",
+    "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE50WG5KZmt1YTJLcmVhaE1nZ1dtTG9keFpETUpWSGJPbUdPa0FMNUVDQ2J5UUxqdlNUSHJYWjd2TWpacWNKS0Fid04wdnNHd0JyRUxGUi1pSm5lT1ZWRjltdzR3?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-11-21T14:32:42+09:00",
+    "summary": "【通貨】 為替週間見通し：伸び悩みか、米利上げ期待も為替介入への警戒が重し 株探"
+  },
+  {
+    "id": "9073567a9bdd32a0",
+    "title": "エネルギー分野における科学、技術、デジタル変革の原動力：ギーソン製油所・石油化学プラントの事例研究。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNdHpIYnpOdlR3bkJzODlBNURRR2xCZTlCdk8wQWRYUE1YUk9LdkJXRWQwdUQ4X1FTM3lUX2dXSDV6aXhJNmdabm9YYm5YMU85M2w0RWlfZldWYU9DTkVmd0E2NlptckJIVE1nMjYzVXdiWVIxWndZMXVKOXhUMnVocktkcWhuWWtKNzBZb0s1cWUtSXNCLUN0Z3p6ei1SSmR4VEhqdWM2RVQ3Vk1rNGViTDAtSVpqUDR0MS1kYk5oT0h0Q0ZGQ0ZuaGl3?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T14:30:21+09:00",
+    "summary": "エネルギー分野における科学、技術、デジタル変革の原動力：ギーソン製油所・石油化学プラントの事例研究。 Vietnam.vn"
+  },
+  {
+    "id": "e6c38242a0b86805",
+    "title": "電気料金の相互補助を段階的に廃止し、市場原理に基づく価格決定メカニズムを完成させる。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV0stc3l6QUxJZTRsR2ZlX05wS1E5XzF4RzZFWkM0NzR1TDdqNno0RlpreXVBRVlqU25sN2p3RFBvM0wzWHgwYWVJYjd5dzZuREV3ZXZnelRla0M0Q2JMRnlmUE0xVUNTQnRyeFFsRVlPLU5rUGlTdmVhNmdmZDlLRTBsZWt3c1QtWHdGMG16SXJjUXM2ZGpxQU5wLVM3UQ?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T14:29:17+09:00",
+    "summary": "電気料金の相互補助を段階的に廃止し、市場原理に基づく価格決定メカニズムを完成させる。 Vietnam.vn"
+  },
+  {
+    "id": "73714764c2e0e9fd",
+    "title": "国民議会は、ピーク時間帯とオフピーク時間帯の電力料金制度導入に向けたロードマップを承認した。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWUFJU2hHYTlZY0RhOGZ3NC1OZWlwSW9pc1REYmFPSGZsdjJrWDY4SnREWlFXMTVLQ3ppcnI0ZW1XQmxuRm9tNlJTNzZlLXp5alJlWGtqQlB6cDdXdERZME95ZnN0Sml1Y3VRY0FsUUl1OWl2MGNxVld4SHk1UXhHbXFtS1RFRS1NbC1MNlFCLUhRUXlobk9WRQ?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T14:26:11+09:00",
+    "summary": "国民議会は、ピーク時間帯とオフピーク時間帯の電力料金制度導入に向けたロードマップを承認した。 Vietnam.vn"
+  },
+  {
+    "id": "af8d04089cae0f7f",
+    "title": "カインホア省は、カナLNGプロジェクトから1,500MWの電力を追加する準備を進めている。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxObTRhYWRDbjZ3d1JLSjlNUWxnTXJRVmtXdmVrZkVLQTNLQkQ0S1dXYVYyRXVfWndrR1pPM1NWa0NOZS1JcGFXdWpiQUhEZHdzTDVSUjhIeFY0ZE1aaXk5eml5SGFmWjhobGx2c3dkMFRiWGMyQVQtYlduN1RCNjJJQnZSLUtuSFVubUlSdkdiakdFTXRSZXc?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T14:24:59+09:00",
+    "summary": "カインホア省は、カナLNGプロジェクトから1,500MWの電力を追加する準備を進めている。 Vietnam.vn"
+  },
+  {
+    "id": "cbf8e2b8c7ec263b",
+    "title": "118年の歴史を持つ学校の伝統を、現代の若者のエネルギーで守り続ける。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaTRrUkNOMVhTZ0taM0F6SUVIaDJKbGZkY0RvbFZYbFFIS0hFRDBQYl93ZFduU2l6WFFST2pfeXlRSUJydC1VODdwSExIY0JJenpXc19yZHBFa2ZLZGhDVmpxRWpPYmYtZmJ0bUdfMlJpaHlRSDI5ZjVSS2N0ejNydmNzSS1vS1ZnQVZEczZRcndnVEJs?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T14:24:10+09:00",
+    "summary": "118年の歴史を持つ学校の伝統を、現代の若者のエネルギーで守り続ける。 Vietnam.vn"
+  },
+  {
+    "id": "066ea5d97ea074fc",
+    "title": "改正電力法：計画策定から電気料金まで、7つの主要な変更点。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOS1DRlkzOHVuTE1vd3ZOVDZ1UXluXzBVUzlSZWlWeXpEallaZXVhS2VXRnVQbmZIZzlPRm1aZlVUVmc0TktuOXpxbkZUbDB6V1IwalJMRDZ0YWxRQUxGT3lKbTVaNUdhS3hVblNDWmVVdE5ZMW1jUHRXUkpJQjFmNDZHZUZBWW5LWFphSG5rbkdGU29BVDBvaEcxMA?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T14:22:15+09:00",
+    "summary": "改正電力法：計画策定から電気料金まで、7つの主要な変更点。 Vietnam.vn"
+  },
+  {
+    "id": "503845bac96a1eda",
+    "title": "楽天が仙台で野球教室を開催 小中学生約150人が対象 早川「自分もエネルギーをもらえる」（スポニチアネックス） - Yahoo!ニュース",
+    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5oLVRvUTNDblVkcjllSWNpVkl1eDFLSHNfelJsNlVSVng3UWVXRk8xd0NJUk9SSGdhbjRRNTBHejM4UU1xcHhJVzlUMnlZQUJoQ0dhbDFYckhXdXFTTk1lX0M3T3BrejNzRWhYWU9PWGxYOWFUZjFOeVhCX3UyRlk?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T13:42:46+09:00",
+    "summary": "楽天が仙台で野球教室を開催 小中学生約150人が対象 早川「自分もエネルギーをもらえる」（スポニチアネックス） Yahoo!ニュース"
+  },
+  {
+    "id": "c6e597afa50d9013",
+    "title": "2026年11月21日現在のガソリンおよびディーゼル価格：今週最大5％下落。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Pelg4S3kzM25PUEFOWG1RY0xYOGFPVkNjYUw1OTZIakZ3YXF0WE5IcGFLSV94dTNSZWJuNE9JMW5HNU40Vi1YMFZ6LVo4NEY4Q2hOdGoyTVBrV1hWZ05UbzY2YkZEZkIwU3owVzN3Qkh2LWQwaGpqaFhRYWpiUQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T13:24:12+09:00",
+    "summary": "2026年11月21日現在のガソリンおよびディーゼル価格：今週最大5％下落。 Vietnam.vn"
+  },
+  {
+    "id": "cb6cc4f924e7738b",
+    "title": "決議70はエネルギー削減を奨励：工場は電気料金の引き下げを競い合う。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZnhQUWJwUkZPNDFkcUx6Nm5NdXgyS1hzV0szZ2VNNWVsSnlFMVVZNUZuWGZVTnZIQkgxR25hMDAwM3UtUGxxUTk0aklaOV9KckFyRFpEZ090MHJmUzgyWk9Ud2ZIWEw4aDFjTy1PcENmcUlvTFpkNmphdXpDaFlqaFhTUU9oWEVMNktsRDB1a3BaazFx?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T13:13:47+09:00",
+    "summary": "決議70はエネルギー削減を奨励：工場は電気料金の引き下げを競い合う。 Vietnam.vn"
+  },
+  {
+    "id": "68b7b86d64c7919f",
+    "title": "2026年11月21日現在のガソリンとディーゼルの価格：世界の原油価格は若干変動する。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQb1ZFaFkzWGVJWWVlVFNBcDAzQXhYWmpLUnlZanhycGRxM2tyOUpCbm9HSkJhNnloQTZOTUp6SE9SOEJmZm9vakJ1NHdQZVdMazhJWlRkRDhlVF9sTFppc3RjRi1VSWFGdDFjbW1uaXd3Sm5zMUJWdUpDVkM5SHFtOTA2ai1uOF93b2NEYQ?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T13:08:29+09:00",
+    "summary": "2026年11月21日現在のガソリンとディーゼルの価格：世界の原油価格は若干変動する。 Vietnam.vn"
+  },
+  {
+    "id": "8679e05ba1f00220",
+    "title": "ガスタービン用熱回収蒸気発生器の世界市場（2026年～2032年）、市場規模（50MW以下、50MW～100MW）・分析レポートを発表 - アットプレス",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTFAwUDBZcVh1eExIc2VIdnFyazhzdkhxMWxEUWI1UHMwa0hJdGFkWUViYjA2eUp2WGhzMVY1eFJwcW9sNTJZU0pGRjlRRzRDWTg?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T13:00:00+09:00",
+    "summary": "ガスタービン用熱回収蒸気発生器の世界市場（2026年～2032年）、市場規模（50MW以下、50MW～100MW）・分析レポートを発表 アットプレス"
+  },
+  {
+    "id": "e95019bd4a575975",
+    "title": "為替相場 ２０日（日本時間 ２時） - 佐賀新聞",
+    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rN0sxbGt3UDd6WUlRLUE3aF9iaHpEeUpoQkpmQ1NYWWFObngtMHRobWhyNUNMVnhFZm5zckpHN2ktRW1ITFFMcWxySVN1MS0tUUZBMnNB?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-11-21T12:56:30+09:00",
+    "summary": "為替相場 ２０日（日本時間 ２時） 佐賀新聞"
+  },
+  {
+    "id": "83b3647a98b316d3",
+    "title": "国会は、家庭用電気料金をピーク時間帯とオフピーク時間帯に基づいて算出することを正式に認めた。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTDV3c1hsQmw2cW9fR3BIM3BsaXRDVGdfb0xROTcwZHFIX0RlUVZKSUlIVzNrU3U4Tkhwdi1VNjR0QjUtZ3kzc29vXzBYdXpLRUhxbXVDUkJpMjhTR0VkYnBPbVo4VFRXalFSbFdjSTRwd1ppYVJiaFZzZEFSQkE3VDFobTZPbWxQcV9la1ZXYXJEdUpIS2E2WmRfa2RGVXBfYkM2cm5KaVd0UQ?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T12:55:09+09:00",
+    "summary": "国会は、家庭用電気料金をピーク時間帯とオフピーク時間帯に基づいて算出することを正式に認めた。 Vietnam.vn"
+  },
+  {
+    "id": "7ba598db59db49c1",
+    "title": "ホーチミン市：電力開発計画VIIIに、エネルギープロジェクトから23,177MWを超える電力を追加する提案。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdVJBV0lmQlJFblB5bTZGWUxKQTVjbU45Y2RDUUUtcXl6VlpOb24zeDdjRmtEWUxYLUJ2S1J5a01GNGVFQ0c3czNhNVZSVUhxb0dBVEg3QU9tZkJRREp3bHlQdk5DNXJrc3NpR3h3MFdxN1Nucjl2QUN0MnB3UkZjS2pVM0MtT0xYM3QtbkN1UENQQWhSWmgtSnExY3VhQWpqSjhSZ1VrVThuOEI1blp1dl8wQW9OeVRn?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T12:05:29+09:00",
+    "summary": "ホーチミン市：電力開発計画VIIIに、エネルギープロジェクトから23,177MWを超える電力を追加する提案。 Vietnam.vn"
+  },
+  {
+    "id": "13c9d2886676b0fb",
+    "title": "FRB利上げ観測とドル高が重石 ニューヨーク金価格が1日で約5%急落、3550ドル割れ - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8zUS13eUNuUnNSbDJCUGRpMnBkY0IxWVlOZUg4d3ctZDdYbWZFbHJsQVF1elJ0WnpBWk1aeHctRWtqMjJDR2pEMW93MXRLdElGQWkxdUp3V0tQS3Y4aVBIM2JESzEtNzFGZFBpZXVXYWEwTmdD?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T12:05:00+09:00",
+    "summary": "FRB利上げ観測とドル高が重石 ニューヨーク金価格が1日で約5%急落、3550ドル割れ BigGo ファイナンス"
+  },
+  {
+    "id": "fe4cf08761430756",
+    "title": "ピーク時とオフピーク時の家庭用電気料金の計算ロードマップを策定 - Laodong.vn",
+    "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRnlkRkd3UTNweUNkVFVDOE1CWFd2TGhWWTlwcVlVbjZuajM0OXF4SWlpeVhFRDR3bFdtdUE4TGlZYzBnWmF0eW9XbWxPb0djZ1haUlpsOU1DRTdjLXZvalhpeDdLbHhVWlkyWGtHX1NDaWN4dlpXTFlZdnV3U3BYNVNyT0pZN0V4NXgtRDdNbEdHd2ZUekptblZaTHJBekZJdnp1dzA4ejQwbjhFSmZZcA?oc=5",
+    "source": "Googleニュース｜電気料金・電力",
+    "published": "2026-11-21T11:55:12+09:00",
+    "summary": "ピーク時とオフピーク時の家庭用電気料金の計算ロードマップを策定 Laodong.vn"
+  },
+  {
+    "id": "601899e75cd1fb64",
+    "title": "チュンナムグループがCa Na LNG発電所向けタービン購入契約を締結。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZlFuUlVtQW5Fazd1YVpjbE5zcndOZlAwMzJra3dDNV9Yd1NqZDYtbDNmQ3hUTkdYbWsyLVVnR3psWE5ScnM2cFcyVkoteXNoMUhMZnZkSUtpMThzWW1uWUg2dXh4cmEyZmZEMFRETUVyUlVYekFOMU4zbHJ1Q1Ria2RhalpaR3FfTklSUVdJdw?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T11:52:13+09:00",
+    "summary": "チュンナムグループがCa Na LNG発電所向けタービン購入契約を締結。 Vietnam.vn"
+  },
+  {
+    "id": "766a5ce2d9c0c6f8",
+    "title": "イタリアのパートナー企業が、Ca Na LNG発電所向けにガスタービンを供給。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObjlmdVFuR3hsS3F5NjFjX0dKcTBYTThPSGR6RzFSaXNMVGhOQWIzd3d1a2Y0RFZMQnU3YjQyX0JTRFVoOWp6WTFpb3VzeVVTdDFBZy10RHJlRmw1eUNhWDRBRGZRMlVrV0dBMHU4LVBLMjZ4MzhhRlhqaGdWRGJuaU5uWEJTWnp1UkNyUDFYNA?oc=5",
+    "source": "Googleニュース｜LNG・天然ガス",
+    "published": "2026-11-21T11:51:30+09:00",
+    "summary": "イタリアのパートナー企業が、Ca Na LNG発電所向けにガスタービンを供給。 Vietnam.vn"
+  },
+  {
+    "id": "3015fe01f0a0d120",
+    "title": "世界の二酸化炭素市場、2035年に187億7,862万米ドルへ拡大予測｜CAGR5.23％の成長を背景に、食品加工・産業ガス・炭素回収技術が企業の新たな投資戦略を左右 - Newscast.jp",
+    "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5tMlpXQS1IWkxxWXRvUGpKMDVvUS1IUk9LOEtkQ0FDTDUza1h6Q1BDRm1ESDZfV2FmeDJ4ekc1WHFjZHRlX0lPNDN5QkY4UXc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T11:51:00+09:00",
+    "summary": "世界の二酸化炭素市場、2035年に187億7,862万米ドルへ拡大予測｜CAGR5.23％の成長を背景に、食品加工・産業ガス・炭素回収技術が企業の新たな投資戦略を左右 Newscast.jp"
+  },
+  {
+    "id": "cd20ce0b8f6c4ae0",
+    "title": "米上院、エネルギー許認可改革を可決 大規模データセンターに数十億ドルの送電網費用負担を要求 - BigGo ファイナンス",
+    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB5SFA2QUdodGl3aXlKXzNVV2pObXVhemp0dVl1NHRnanlNOENGWC14dGhxdUNFd2FKS1N1MzdLeUZudmdOTlZlbEo5UFFnc1ZTbkVmN2xwUWpJdEdIYk1ENTdKOXJIMGpGVEYyMXJ2a2FEOXM5?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T11:25:00+09:00",
+    "summary": "米上院、エネルギー許認可改革を可決 大規模データセンターに数十億ドルの送電網費用負担を要求 BigGo ファイナンス"
+  },
+  {
+    "id": "86d701344146d5c1",
+    "title": "平和はネットワークに支えられている――防空、エネルギー、計算資源の管理が主権の条件となった理由 - Mezha.net",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1zZUdBazZjZ1JMXzZvZGV3eWNOMzNnLVQ0ZTFkVThLOTNxd3EwVmpMWWhremc5cnBqLWRxb0FBNW10VHo0MGFNRnZnLVpaR000TTFzS3hha09lUkFMQkJ3djZzdw?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T11:16:00+09:00",
+    "summary": "平和はネットワークに支えられている――防空、エネルギー、計算資源の管理が主権の条件となった理由 Mezha.net"
+  },
+  {
+    "id": "186d2df41e21b7fe",
+    "title": "イランは米海軍による海上封鎖を突破する準備を進めている。 - Vietnam.vn",
+    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1wSklPaEZjeE05Slg3ZHlBdUEzV2VCVEdnWjhuYUVSVFBVU2NRNFRuei1zaEFTUWdpWTg3WnhIX2tPRkFLNkxIaWhvUjRMNkIxS1haRHhKN0diZFdneWhOUUh3YjJYUlBaQkZsVFh4UWZzYXNGcG43Tg?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T11:12:25+09:00",
+    "summary": "イランは米海軍による海上封鎖を突破する準備を進めている。 Vietnam.vn"
+  },
+  {
+    "id": "1fcfdf5b67e00558",
+    "title": "世界の原油輸出最大に、1日4700万バレル ホルムズ迂回・代替で回復 - 日本経済新聞",
+    "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9WSFdxVTdHaDd6T2dBQVdWN2p6VlJNUjd4TVZJMnVxR2NOUkg1UUd1QUtETEhVNlFWSE51dm9BZzRoSmF5YURyUVJpTjlCd29BQ2JVVGVzV1ZrU1BydW1IY0JOdFZFQ3NLZDg4UA?oc=5",
+    "source": "Googleニュース｜原油・石油",
+    "published": "2026-11-21T11:00:00+09:00",
+    "summary": "世界の原油輸出最大に、1日4700万バレル ホルムズ迂回・代替で回復 日本経済新聞"
+  },
+  {
+    "id": "fb54cf3f75fa1d6a",
+    "title": "冬は体を内側からも温める！寒さでエネルギーが下がる季節の薬膳の考え方とは【眠れなくなるほど面白い 図解 薬膳の話】 - 千葉テレビ放送株式会社",
+    "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE94dEp0bHl6eDRTRWhiRUFObWtfTGdjSi1mdkZfVnZPOWNQQlgyYmtUTGRpU2tkMlJ5aXVTNUJ3eXJ5WlpETF92WkVBM2ZxWGltWVh2SV9tRUU3ZkdOR3dJ?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T10:47:26+09:00",
+    "summary": "冬は体を内側からも温める！寒さでエネルギーが下がる季節の薬膳の考え方とは【眠れなくなるほど面白い 図解 薬膳の話】 千葉テレビ放送株式会社"
+  },
+  {
     "id": "03e5120240f0c0f6",
     "title": "UBSは商品投資の堅調な見通しを維持、原油供給プレミアムの緩和にもかかわらず - Investing.com - FX | 株式市場 | ファイナンス | 金融ニュース",
     "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9laVg4OUU3LTUyQWx5MVloaEJ1di1VNjhMMGp6Y1RXd00wWjYzT0hZUVgzcG0wdkxDV1BCRVlwb2VuZExDcTc2eDFKZ3Q1QnRYTTNJekVqNWhOTDZOVE9OSkU5SHNyd1ZfZUlYMzRybUo?oc=5",
@@ -48,6 +424,22 @@
     "summary": "クルマ製造工場が出すCO2、じつは半分以上が「塗装」!? ホンダが挑む業界初のクリーンエネルギーによる「電化工場」に潜入した WEB CARTOP"
   },
   {
+    "id": "e596faa8448b9982",
+    "title": "東急不動産計画の風力発電、中止を 気仙沼市民が経産省に要望書 [宮城県] - 朝日新聞",
+    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1iQU1uSkZnVjVldlFZOFlaV09kX3BTbTdLMXZRLUplN0FaWWVRTk9XalczVnNRZGxjRW44d1Z5LXU3UFJ1Y1hndWdJTFNSU3hPek12eE5kSGdwb3ZGMHdKaHU2aV9veXc?oc=5",
+    "source": "Googleニュース｜エネルギー",
+    "published": "2026-11-21T10:00:00+09:00",
+    "summary": "東急不動産計画の風力発電、中止を 気仙沼市民が経産省に要望書 [宮城県] 朝日新聞"
+  },
+  {
+    "id": "6c95b828e87657e8",
+    "title": "プライベート・クレジットは2027年の金融不安のトリガーとなるか？デフォルト率が悪化、ドル円相場への影響は！？ 2026年11月21日 - 外為どっとコム",
+    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE95dmZZSEg5MlVmRl9iYXdpX2Itck4tQkc2M3RqVGdYREQwYTF3UFNiZ2hMcnl4Tk56R1R2Mi1YWGl5M3RjMV96VVMwOHEzUzFDZldqOHhyd0Q1bHdkNEs2a1JKVQ?oc=5",
+    "source": "Googleニュース｜為替・円相場",
+    "published": "2026-11-21T10:00:00+09:00",
+    "summary": "プライベート・クレジットは2027年の金融不安のトリガーとなるか？デフォルト率が悪化、ドル円相場への影響は！？ 2026年11月21日 外為どっとコム"
+  },
+  {
     "id": "d1dd9bc3fe23d52b",
     "title": "イランは米国の封鎖を無視し、14隻の船舶を組み立てた。 - Vietnam.vn",
     "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNV21pSlJZRE5Qb2RqdjVaWWZNaVJqSTRLeHNJZ0NNOFRmVjJnOHZ6a1NrbXA3eGI3TC0xM0txd2lZUUtBUWZDQ0stZndNUzRQMzFUX0ZobFFpYUdwb0hDMEFoMll1M05yS2NmT2lwOG5wdnpPbUc3TFRRTFVBbVJMOXFYcjg?oc=5",
@@ -86,397 +478,5 @@
     "source": "OilPrice.com",
     "published": "2026-11-21T09:00:00+09:00",
     "summary": "Oil prices have traded in a narrow range over the past few sessions as forecasts of a coming surplus collide with continued attacks and stal"
-  },
-  {
-    "id": "8cc01d6d36b15a26",
-    "title": "本日の燃料価格（11月21日）：世界の原油価格が上昇。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5LRHZIX0pEM3ZFM2E4VTVWUTlHTDY4TDl3bUQ2X1lKT1k1TUdGa3UxRW1pNW9QVFljeEhsZ1hPdmVkTlVvQ3ZtTGQ4blJqd0lIS19tOUt5TUMwUHhMUmVxRnNUaHNyeTRTbmY2YzJtOXZXMFdXV1ZCa1VINEtYazA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T08:54:57+09:00",
-    "summary": "本日の燃料価格（11月21日）：世界の原油価格が上昇。 Vietnam.vn"
-  },
-  {
-    "id": "051479a199ad85bf",
-    "title": "【Amazonセール】TORRAS iPhone 17 Pro 用ケース Ostand O3 Fitness エネルギー・オレンジ - AppBank",
-    "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFB2R2Q1WEpEa2M5V1IwV213cXRvNnZMaFRqYzdnNE1NMFhia2tYNkZrMjAxWEk0UXQ4M3M3Qm55b1VselZWQTFtenFfM1o5SUhxZ3E0MnVHd3BuTDlmZFdFM0NMS3c0RFplZ2c?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T08:53:09+09:00",
-    "summary": "【Amazonセール】TORRAS iPhone 17 Pro 用ケース Ostand O3 Fitness エネルギー・オレンジ AppBank"
-  },
-  {
-    "id": "85cd8be221ce488b",
-    "title": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBQa1U5NTk2aS1xRjBZb0dxSzJocWtGel9GdVBUTEx4TVhJY0R1cHB1aGlFZnltb1dpQ3lYVmd2M09TUnMxXzV2cE1GR1kxbGhHWXNGUQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T08:47:58+09:00",
-    "summary": "アメリカ ドル / 日本 円【USDJPY=X】：為替レート・相場 Yahoo!ファイナンス"
-  },
-  {
-    "id": "67caf3e2c8721da7",
-    "title": "売り場には人だかり！カーキはすでに\"在庫切れ\"【ワークマン】「電気代ゼロで防寒」「朝6時でも暖けぇ～!!」\"こたつ\"級着用レポ - ヨムーノ",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTFBaRnhwcHNsU1o3bGJQeTJSZXFhYWxUT3FsQ1RicDBHVFZtSHV6ZENROVF1eWZiaTRZN2FPY1Z5UnlidGRH?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-11-21T08:34:38+09:00",
-    "summary": "売り場には人だかり！カーキはすでに\"在庫切れ\"【ワークマン】「電気代ゼロで防寒」「朝6時でも暖けぇ～!!」\"こたつ\"級着用レポ ヨムーノ"
-  },
-  {
-    "id": "1955c4970856fb23",
-    "title": "不動産会社がエネルギー分野に殺到している。 - Vietnam.vn",
-    "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6QWt1RUoyakFmWVJQaTFfT2NvU3l4Vno4V0pzcmFzLWJTYmZNOV9kNkJRVjBfZXVNRjR1c3RXdW01R2dtTXVIQ1k0Sjk5NkdvTlBLTFNVQ2ZpYmpiUG42T0FLTS11alFQNkdaTXQwLU1HOTVFN0kxZE42MlY?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T08:23:56+09:00",
-    "summary": "不動産会社がエネルギー分野に殺到している。 Vietnam.vn"
-  },
-  {
-    "id": "d77f7f1aa921f21e",
-    "title": "ドル円、１５８円台半ばまで下落 リスク回避の円高が強まる＝ＮＹ為替概況 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8xV21HYjBmOU5ya0t6bzFCVEdRamlkbEdQWTRacGVWZHdTYlkxckhDUHFBMzVSM2dlem5lYXJKUGhhOUZkQ0Z0ZQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T08:21:17+09:00",
-    "summary": "ドル円、１５８円台半ばまで下落 リスク回避の円高が強まる＝ＮＹ為替概況 みんかぶ FX/為替"
-  },
-  {
-    "id": "4704ec3908ef8347",
-    "title": "ブルーム・エネルギー【BE】：株価・株式情報 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9QZkpXWjRsNlpuandIYXZCdVEydktuMEVPUGVnbUl5V1FQcllDRlBFQ2FhaFVUWkFCcWJNTEVGa2VYZTdWUjJTN2g4RUs?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T08:11:33+09:00",
-    "summary": "ブルーム・エネルギー【BE】：株価・株式情報 Yahoo!ファイナンス"
-  },
-  {
-    "id": "db1358720e3175d8",
-    "title": "【荒木麻美のパリ生活】身近なところにあったエネルギー資源。パリ郊外の石油採掘と地熱利用の現場へ - トラベル Watch",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9YY0RoN3VtbEwyZGxveVV3dWZPY0ItN00xNnZmSnVRRC00MDEtZlB5a3phLTRUSmJrVWE1ZGhGV25pWk4wUFJJYTNoZ19RWEVOMGwzR2ZBWjBwaTZ6TDJib3JFT3g3VUcxc0RvSTBYekFSOE0?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T08:00:00+09:00",
-    "summary": "【荒木麻美のパリ生活】身近なところにあったエネルギー資源。パリ郊外の石油採掘と地熱利用の現場へ トラベル Watch"
-  },
-  {
-    "id": "b9ab583304ce3a7b",
-    "title": "NY為替：米11月ミシガン大学消費者信頼感指数確報値が予想を下回る(フィスコ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOR3lDcnFDZ1BPTDh5WmVJZU5mWEEyNnc0ek1NSnpqTWtXRDlsQnhXT1B3Ul9LX1BETGl2SjVkQTN5U2tiYWpMVWpzaERtOU5SWk5rM1ZIV2gtN2dBWGQyY1VrQXB3SkpyZGt1WnI4d1hWZnFKNWZ6V1FwbDVQbjJSMUtYX0gxWE0?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:58:57+09:00",
-    "summary": "NY為替：米11月ミシガン大学消費者信頼感指数確報値が予想を下回る(フィスコ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "6de1a58b25a03c0a",
-    "title": "為替相場まとめ１１月１６日から１１月２０日の週 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9KR2hmR3hGYXB6TFIwcVE1UXhYY1hIbVBkQ1JQMkdIeF9sMFVXa3gtRm9zUzl4bWNVeUoxQnVXdTRJZVJ6OUFDeA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:50:50+09:00",
-    "summary": "為替相場まとめ１１月１６日から１１月２０日の週 みんかぶ FX/為替"
-  },
-  {
-    "id": "57c21f810a864251",
-    "title": "来週の中国主要企業決算 シャオミに美団、理想汽車も - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE8zYW9YaUduaXlnZS1ZYi14MlJmNjN2Q3J6d1VxTWlVVXRTSzZuaXZodGNrbjdRN0lDeDhpR0xzYXJ3MWZXQTFwVw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:36:51+09:00",
-    "summary": "来週の中国主要企業決算 シャオミに美団、理想汽車も みんかぶ FX/為替"
-  },
-  {
-    "id": "819288ed1ddcfc61",
-    "title": "NY原油が3日ぶり反発、83ドル台 イラン再攻撃警戒で買い戻し - BigGo ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBhUEc3WThwRTNOUzJ2dDZqNWI2WmRHM1Y5YUZxQVNwQndtTkFFWkROVFQ5akFzaXJDd1dXcEV4TUxCNUtjbzJna2dfQjVaS0dhcVdrSHg4QlBlV1RMRDEtbzR1dzRRaDR0M3hNWVJWeVR4VzZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T07:35:00+09:00",
-    "summary": "NY原油が3日ぶり反発、83ドル台 イラン再攻撃警戒で買い戻し BigGo ファイナンス"
-  },
-  {
-    "id": "01ec0c47bafe3b7d",
-    "title": "サウジが日本国内で備蓄する原油量、3倍に拡大へ－両国合意 - TBS NEWS DIG",
-    "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BMGU5SHVhZWlycHh6OEJaYlgzQmh3QXNIT3FNcFVtRm9PWExuOWtBRERScGY5TF9NWmhiUFJXcnR4WXV4eXdtdGVnYmZxeVdzUEkyUVVLQUVHUHdlVWpmQVBtRHRsZjg?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T07:30:00+09:00",
-    "summary": "サウジが日本国内で備蓄する原油量、3倍に拡大へ－両国合意 TBS NEWS DIG"
-  },
-  {
-    "id": "2cbd551a11cc888d",
-    "title": "ＮＹ原油反発、終値８３ドル台 - 大分合同新聞",
-    "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE42VGtyLUNzc0w4RHdwUTV3RTY0Mnc1Z2tlSVAwTU1zT3c2RE5TNmhqZ2Rka2VBVDJvM2hoNEhsM2NqUk83SnVfUlBJLVR6STh3R2RhZmdhVTJ3a05VLWp5NkhnMDJ1WVctdjdQSTRFZEhaSnc0YmtHTNIBhAFBVV95cUxQanljRWpwemkyNUREX0pCVW1jM0R6ZzlDUlk3N0g3TFNwR0Rtb3RwYUYyWlpaTF9yeTZsTVRIRDFEZ2lhVTRMVUVESmV6dkl4eUJ2U0ZITmJnQWhPdjVUZVN4WVlYQUNkNVA5bEdiN0pwNWxZYzkwb3h0eDZHTGxtVWo2c1M?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T07:25:51+09:00",
-    "summary": "ＮＹ原油反発、終値８３ドル台 大分合同新聞"
-  },
-  {
-    "id": "f826ef2e8a7e085a",
-    "title": "豪ドル/円【AUDJPY】：外国為替相場FXレート・チャートをリアルタイム表示 - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE05OFVuTURyMlFlNEM3WUpGTUFMWE92YU5yYjBSNm9Pc3NkeHplX0diaU9mVm5IRFIteUN6dzJOU1lFRXByX1BfVFhUdVh0YUdlbExySm5B?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:19:13+09:00",
-    "summary": "豪ドル/円【AUDJPY】：外国為替相場FXレート・チャートをリアルタイム表示 Yahoo!ファイナンス"
-  },
-  {
-    "id": "f5afc4c5e381cc67",
-    "title": "２０日の為替市場の四本値（ポンド円・豪ドル円・カナダ円） - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBBZFkteV8xNnY5OFFtUGZGZ0FkZURMcldBSnlDVWpMay1GaVlmUkRBRXNFWl9rc1Y5c1RwWXZfZzRGam1KMG14Sw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:11:51+09:00",
-    "summary": "２０日の為替市場の四本値（ポンド円・豪ドル円・カナダ円） みんかぶ FX/為替"
-  },
-  {
-    "id": "1cc9a176fa9c44de",
-    "title": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円） - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1COWFoaDc4YkhOMDdpM2I0emJwMFBsdm8xUHNlamFCVWpxb21FVmhGU2l1b19kZkM3YjE4UG1wQ2RoRVlWejY1MQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:10:50+09:00",
-    "summary": "２０日の為替市場の四本値（ドル円・ユーロドル・ユーロ円） みんかぶ FX/為替"
-  },
-  {
-    "id": "3a8c5c9df1798bcf",
-    "title": "ニューヨーク外国為替市場概況・20日 ドル円、反落(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
-    "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc014MGN6QlEzODBqNGZEcTBQNzBCd1l3UERIaF9MOGJ2dXJFSFdDX0lfcjdqb3gtV2wxenJFT244dGZwTTVEOEtOUXlhcjFLOVRlRjBCQjVKSW5ZaWFLSEtrTWF3amRGanYzWkZHYnVYRDR0b3BjOXRmUG1JOWNaNXZYYmUwcWs?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T07:03:47+09:00",
-    "summary": "ニューヨーク外国為替市場概況・20日 ドル円、反落(トレーダーズ・ウェブ) Yahoo!ファイナンス"
-  },
-  {
-    "id": "72978d26200368c8",
-    "title": "1945年の石油危機：自称・保守政治家に「知識の欠如」 石破氏が語る令和の石油危機 - 毎日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12WGRtMnNoU0l3TjNCLTd3MVRoSzRfRGRCeVptcmFEVHFieXg0bjBiWjhUUi0xYnVLRkd5Y05PQmtWaElkeTEwaWJlbGFTdEYwS2NUbHlpelVUVUpJSURoQkUtMWk2YlRF?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T07:00:00+09:00",
-    "summary": "1945年の石油危機：自称・保守政治家に「知識の欠如」 石破氏が語る令和の石油危機 毎日新聞"
-  },
-  {
-    "id": "6b89bb8d9bd866f9",
-    "title": "Argentine Energy Firms Rush to Sell Bonds Before the 2027 Election",
-    "link": "https://oilprice.com/Energy/Energy-General/Argentine-Energy-Firms-Rush-to-Sell-Bonds-Before-the-2027-Election.html",
-    "source": "OilPrice.com",
-    "published": "2026-11-21T07:00:00+09:00",
-    "summary": "Argentina’s energy sector is having a banner year. The first half of 2026 saw the South American nation’s best energy trade balance in half "
-  },
-  {
-    "id": "e7566a494e8f4aad",
-    "title": "NY原油反発、終値83ドル台 イラン再攻撃警戒で買い - ｄメニューニュース",
-    "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVTZEdWo1Mmp2MEJuY2hsVERoYzdYMC1faTEtZ25rTVNibkx2cEZ1dC1nbGVhTTBMeFlzdExNMGFwMXFxR0NzS0JXYjFIYmRZMEhPYXhLWWxsbHctTlVyODNVSEpGak9ncTFrcFZ6RlhTTGxiRkdaaFd5b1BZREIwS3dyeHpMWHRybGtSamdn0gGTAUFVX3lxTFB0R1B4a1VDZDJtZzM4SlJtcHpGQXlCQlJ6YUF3Y3B4eS1uZU5MSktNcWhZQVpRckRJblNoOGR1cEJWVGNVTVhSeVRVVlBEbmowWVFDeWQ2R2R1by1fU2hMT2kwVUszdUY5V0Jsa0JXcFpVLWkza0lVOW9LaERZc0M0a2M4b25Iclpkc1Bua0NoV3hGYw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:54:51+09:00",
-    "summary": "NY原油反発、終値83ドル台 イラン再攻撃警戒で買い ｄメニューニュース"
-  },
-  {
-    "id": "665d8b86a4c8b417",
-    "title": "ＮＹ原油反発、終値８３ドル台 イラン再攻撃警戒で買い - 沖縄タイムス社",
-    "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBtZGp0a0dBSWhneWRiVzg4Nkotelk5LTBCQ21UaHY4RF9FcEdiT3M0NTMzZkVJOFIyaUhXOHRLXzhsUktoeFUydmtLVkcwYlJwVzJfODVMbmZjUDJlR2c?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:48:50+09:00",
-    "summary": "ＮＹ原油反発、終値８３ドル台 イラン再攻撃警戒で買い 沖縄タイムス社"
-  },
-  {
-    "id": "b364d5cac1dce1e0",
-    "title": "ＮＹ原油反発、終値８３ドル台 - 中国新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDVmppM2g3U2FNNEdSYmY3bVFUR25PYmR5UkhZWnVuem5MTzJKQnA0NUJYN3BjZzlsQWVmMl9pNENpZG4zVS15NENxek5kS1hVek5jX0g1S1JrZw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:48:50+09:00",
-    "summary": "ＮＹ原油反発、終値８３ドル台 中国新聞デジタル"
-  },
-  {
-    "id": "79c27b280992317e",
-    "title": "ＮＹ原油反発、終値８３ドル台 - 京都新聞デジタル",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBWWnkxRFZrbzJoRGxsWGJUdFZOd2QxbjJmbk1Sam40NjRQclZjMmt4ekJkajlsd2RWWmxZSjBNc2xNQ0k3U2N2SXpHWlJjZ24tUEpXVWlQdzQ4WHM?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:48:49+09:00",
-    "summary": "ＮＹ原油反発、終値８３ドル台 京都新聞デジタル"
-  },
-  {
-    "id": "ed78f14a91d2dcd5",
-    "title": "ＮＹ原油反発、終値８３ドル台 イラン再攻撃警戒で買い | | 全国のニュース - 佐賀新聞",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBFZFJaYlQ0WGIyeG9fckprQUJ0ZXRLclRNdHozdjdwblhhUk12Q19YUllzWmZtQTlmT0NidDJBNWRtY05zT3hTZnFleFlHdnBpUFZVSUhn?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:48:00+09:00",
-    "summary": "ＮＹ原油反発、終値８３ドル台 イラン再攻撃警戒で買い | | 全国のニュース 佐賀新聞"
-  },
-  {
-    "id": "25227431bf184d0e",
-    "title": "米１０年債利回りは大幅低下 リスク回避が続き逃避買い＝ＮＹ債券 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9wZzB1dGppSXlRZkdnWHpRZ2kxbVE5X3l0R1cyTHl6SnJPUTNMZHN0ck9FTDJZWDlTTDZmNVR4MmtPNmd4TWFtWQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:31:51+09:00",
-    "summary": "米１０年債利回りは大幅低下 リスク回避が続き逃避買い＝ＮＹ債券 みんかぶ FX/為替"
-  },
-  {
-    "id": "a2432d85e7e878dd",
-    "title": "【恐怖指数】警戒感は急上昇 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE9qbmp0X3ZCRDF5WHE4SmlVLUFISnUzUVRJUzJ4Mlpzd05sNW9DMU9mcUdOZy1rVUUyYnM0LU1ZcG9wYk9XR2FOZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:28:50+09:00",
-    "summary": "【恐怖指数】警戒感は急上昇 みんかぶ FX/為替"
-  },
-  {
-    "id": "f6b1e4571714cd52",
-    "title": "【来週の為替予想】「注目のFX週間イベント 来週のドル/円はどう動く？」11/23～11/29 - 外為どっとコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE90a1dPeHdwU1JtOGdrT0RpUzZlaklTZGJBeGx2emUyMWlHVGZsV3lkTXlOVEtkR3E3YlZIS2diWnB6ZklKVzBVU3pYdE9MRDQyR19TMXlaZVpiS2Z3UUJranRCSQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:12:01+09:00",
-    "summary": "【来週の為替予想】「注目のFX週間イベント 来週のドル/円はどう動く？」11/23～11/29 外為どっとコム"
-  },
-  {
-    "id": "e16114bc916bedb3",
-    "title": "ＣＦＴＣ建玉報告 資源国通貨 豪ドルの売り越し増加 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBsTGZGSVg5NnVvMUprT0hTSC1zUEJRWjQtUU9CV2hSZUpoWVNyUktSSXFnSTduNTVfbkJtX2J3el8zT1ZBM1BOdg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:07:51+09:00",
-    "summary": "ＣＦＴＣ建玉報告 資源国通貨 豪ドルの売り越し増加 みんかぶ FX/為替"
-  },
-  {
-    "id": "0289a3dddd248aeb",
-    "title": "ＣＦＴＣ建玉報告 主要通貨 円の買い越し減少 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2WXNVRTBXTEx6RkNNdzRZb1lyZlhiN25yUTBQOVBtcTBJaUFLbjRVNEpBa1VYS3NBSkpiZ25KckhlQ2ZBV2pNVw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:06:51+09:00",
-    "summary": "ＣＦＴＣ建玉報告 主要通貨 円の買い越し減少 みんかぶ FX/為替"
-  },
-  {
-    "id": "25c7ca193e142388",
-    "title": "来週の為替予想（ユーロ/円 ポンド/円）感謝祭前に株価大幅下落の波乱！リスク回避の波でユーロ円・ポンド円の行方は ハロンズFX 2026/11/21 - 外為どっとコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBYSWdlNkRaMFEtN1NjUjFmdi1wcWF0RjlpNjVwbHJwMU1qY1ZlQU9FaDB5Q25IZzVvOFd5UVQ4UkVPRmJhQVVMcXphbmpaQUtjUEFGSUtKcXlBMDU3VVV6UDRmSQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:06:45+09:00",
-    "summary": "来週の為替予想（ユーロ/円 ポンド/円）感謝祭前に株価大幅下落の波乱！リスク回避の波でユーロ円・ポンド円の行方は ハロンズFX 2026/11/21 外為どっとコム"
-  },
-  {
-    "id": "951a21a8792ea4a1",
-    "title": "来週の為替予想（米ドル/円）株安で円買いが息を吹き返す！逃避先がドルから円へ移れば157円も ハロンズFX 2026/11/21 - 外為どっとコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5aQVMzLW1vN2NlRjdXclBmUXpONFBxbi1ONzVzckE0QXZOMWdmWm94UlVJd3NZeC1HWWVJZnNpdWVLcTNnT3BVcWRGUmRqN19XMng1aTNjbUswQkQtVk9xc1RRMA?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:02:52+09:00",
-    "summary": "来週の為替予想（米ドル/円）株安で円買いが息を吹き返す！逃避先がドルから円へ移れば157円も ハロンズFX 2026/11/21 外為どっとコム"
-  },
-  {
-    "id": "4285f2d6015c2160",
-    "title": "来週の為替予想（豪ドル/円 NZドル/円）「豪CPIが鈍化ならRBAが来年前半に利下げ！？」ハロンズ FX 2026/11/21 - 外為どっとコム",
-    "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE94TjE0YnZtalU1ZjRrSFFBc25Gb2oxMVMwLVNSazRzZVZMNDg1bUd4T3IwWHc5eG5MX2x6NVRrblI1eFAydXlTTEYyTTBGR3UySlU1Uk9ZeUdVV2R3OXM4NkJrTQ?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:01:43+09:00",
-    "summary": "来週の為替予想（豪ドル/円 NZドル/円）「豪CPIが鈍化ならRBAが来年前半に利下げ！？」ハロンズ FX 2026/11/21 外為どっとコム"
-  },
-  {
-    "id": "6dc43b1969e54fdd",
-    "title": "ＮＹ時間に伝わった発言・ニュース - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE4zNUtFMFFtTld6NTdVZUZpSHpSbHVOSHNIYWp1aDJ3ZUpfNFZyMGtTMlJDUTBPZEg4Tk5vTDZ5V2JsM01IcGZ3Mg?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T06:00:50+09:00",
-    "summary": "ＮＹ時間に伝わった発言・ニュース みんかぶ FX/為替"
-  },
-  {
-    "id": "4c7036892b70e5c6",
-    "title": "【原油ウォッチ】世界の原油市場、イラン戦争後で初めて「供給過剰」に、それでも戦争プレミアムで高値が続く(1/3) - JBpress",
-    "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5rYnpzUWJHNWNpYXlkQS1xR1h3OFpjY25JUms3Sjh5UXJjQ3lkREx6dXFOTzlNM3l2aHZrUm1BTlBHTldaMEdoQ1FTQVVWRDZwUW5JQi1R?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T06:00:00+09:00",
-    "summary": "【原油ウォッチ】世界の原油市場、イラン戦争後で初めて「供給過剰」に、それでも戦争プレミアムで高値が続く(1/3) JBpress"
-  },
-  {
-    "id": "8e90ac5123861a76",
-    "title": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで - Reuters",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5rclVqU0VMcEswY29wdE1lbzYzWkVWbkVuRE9TUS00RlRVVTdiQkY5ejlaYlVWbDZ3OGNYSGJQaEhWV1kwVG5EWDBUQnlMNnNqZzdramNmNDlKdE1ndGlUM3ZpQ3V1VkpVd09pUkhXRldPS0d2M3hkakhPN2doSGc?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:59:51+09:00",
-    "summary": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで Reuters"
-  },
-  {
-    "id": "079851634c67d9d3",
-    "title": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで（ロイター） - Yahoo!ニュース",
-    "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9MMGYzMTQwdVVkU0tVRXJLdGRnUE1EbkNPX2tId3J5UDg0WGRINnBXU0UxRjhYLUhzbDFrbWJBTjNfc0ZoNE9oYmJ4WFRFdTBjMmlLbzUtQmYxenA5ZzlDdkhISFZ6T2prdHRuQ1otc1pNa0t2eTVtRTNBLW9yQms?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:59:20+09:00",
-    "summary": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで（ロイター） Yahoo!ニュース"
-  },
-  {
-    "id": "5138b6ce953e6b3e",
-    "title": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで - Infoseek",
-    "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5VbzNWdXJ5aHV0NHREVEtRcjBOX19SeWVPUjI5MEhQckJZNDFCU1p0MlVZdzVuS3hldTE3b3ZfbUw5MVRVVFdmTXFNbVl4TENhWE9xaXc4cDRqT3MxcGhXazNsTFFfTk00eDNDYk93?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:59:20+09:00",
-    "summary": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで Infoseek"
-  },
-  {
-    "id": "d73119b4b291feef",
-    "title": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで - ニューズウィーク日本版",
-    "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VMHVvcWx2STNBQkhSdnRGdlR6VjVqVTdoeGx2eFBqWHQ5WEdXSDN6eGRtcDRnOFhmZENHQ2JESWVzQzAydTRTaDhVS3lwMWpZelRRM0pyUTg3Zw?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:59:00+09:00",
-    "summary": "米原油先物が上昇、イラン巡る懸念再燃と感謝祭前の買いで ニューズウィーク日本版"
-  },
-  {
-    "id": "0cab358460d15ad0",
-    "title": "11月20日のNY為替・原油概況｜FX・為替ニュース - ザイFX！",
-    "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE44ZHM3ZkxGczlZTFFJcW1JNHZyVTkwc0pWalFiY09nY3U5RmMwYlhkU1d1eVMwX3J4YmxXenR2NGdNY3VuRjJ3UEZCMjluaC04c0E?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:55:00+09:00",
-    "summary": "11月20日のNY為替・原油概況｜FX・為替ニュース ザイFX！"
-  },
-  {
-    "id": "06fbae3b58b7682c",
-    "title": "続伸、下振れのあと地政学的リスクで戻す＝ＮＹ原油概況 - みんかぶ FX/為替",
-    "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE1FbXB1RVhBUS1ZQ29jdmlqb0RQdWlOM3lhU2xCSlRubk5JZlh0M0FoS09JTElNMjJ4QUZ6RzdRNk9ocTlDSWNUWA?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:31:50+09:00",
-    "summary": "続伸、下振れのあと地政学的リスクで戻す＝ＮＹ原油概況 みんかぶ FX/為替"
-  },
-  {
-    "id": "adcc65ac027f7026",
-    "title": "もう『こたつ』いらないかも！「一度使ったら手放せない！」「電気代の節約に」「家中で使える」おひとり様用あったか系2選 - ヨムーノ",
-    "link": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9pWlR4ci03VTZLQ3BsRVIwUVVqT2lxZGowcWRYRWw1N0M4N0pyQ0s2aFNCNXJlOUxoWVlsY2U4SkwwX2dV?oc=5",
-    "source": "Googleニュース｜電気料金・電力",
-    "published": "2026-11-21T05:05:10+09:00",
-    "summary": "もう『こたつ』いらないかも！「一度使ったら手放せない！」「電気代の節約に」「家中で使える」おひとり様用あったか系2選 ヨムーノ"
-  },
-  {
-    "id": "5aca21e53e8353de",
-    "title": "総合エネルギー業のマルエイ 創作料理店あす開業 女性のランチ需要狙う - 中部経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE16Szh1WExickxDWDlxVUEyMFZXek5GY2ZiUnV0Sm5iTTdsMDRfNkZ1MVludTZZUlZxNzBEWTZvS05lX0dTb2dSUGxfRWxJdjM1bVFTTlI0VGJOZllqSWlRUlZhV3ZEVGlNa3JXQ0JLYXVQdGc?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "総合エネルギー業のマルエイ 創作料理店あす開業 女性のランチ需要狙う 中部経済新聞"
-  },
-  {
-    "id": "909e179501c79ce6",
-    "title": "岩手・北上の水力発電所が営業運転再開 東北自然エネルギー - 河北新報オンライン",
-    "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE14czBMSUsybHluZ3VZTWJzbWc4Y3hhUU44Smw4azRzcFcxWWNkakFoZXB0VkVFck5mRG9MR1VpMG9qWEtNbE5EOEJvQ19EaEV3RTNRbmhnbWJIdFE?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "岩手・北上の水力発電所が営業運転再開 東北自然エネルギー 河北新報オンライン"
-  },
-  {
-    "id": "9829902be163f1f4",
-    "title": "ＪＥＲＡの碧南火力 来夏、タンク１基目完成 脱炭素へアンモニア混焼 - 中部経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhR1hkUXU4WjZQX0FsT2VPRTJoNFhFU3U2WW42NnpjaXpVOUJhbG1YcHBKZHZlR1RGN0RmWTg5YVdfSkN5OXEtQm85U3dxZDVnWkhuS29QZnJkamhMWTB3MFBXNVlvZGJTTzNQSU5FalZyQ1U?oc=5",
-    "source": "Googleニュース｜エネルギー",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "ＪＥＲＡの碧南火力 来夏、タンク１基目完成 脱炭素へアンモニア混焼 中部経済新聞"
-  },
-  {
-    "id": "7544121b273ea61d",
-    "title": "原油「脱ホルムズ」、コストは国民に？ 事業者の納付金、年最大９００億円 - 朝日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1objBLYXRxSGNSUUZNZnpBdTFxM0RfMldMTVNzeTFzaXg5UE1aMUpvbDlHQWV3TFhXbmZqdTQ3MnhvMGlMa0s0T3dHOTdqaW9KRTk5eC1kd2pweWhU?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "原油「脱ホルムズ」、コストは国民に？ 事業者の納付金、年最大９００億円 朝日新聞"
-  },
-  {
-    "id": "27434ed206345311",
-    "title": "（慢性円安）介入しても、個人投資家円売り 「マーケットは見透かしている」 - 朝日新聞",
-    "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBKQ0dvWHNxdkJfLUZ6TFRQME80Ym1tUURsdEtZZFVLcDNxbWdRMDUyY0l1cnh3bjFQT2p1TERyalNhX1l0a2VQMmVETmdmeUw0aGRwdzlkekcxZ2Mw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "（慢性円安）介入しても、個人投資家円売り 「マーケットは見透かしている」 朝日新聞"
-  },
-  {
-    "id": "902a21cba54dae43",
-    "title": "25日の米PCE、FRBの利上げ占う 円安に傾けば再び介入の議論も - 日本経済新聞",
-    "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfcUI0SjZwS09YNFFjRGZkUHY5ZnpUeUFFVm5HdjZPOWdQeERDXzl1aFF2ZzFpOHhaSTNMUnkzM2NDaEVzRk9IRUxSLTJYSlhBdllwN21BNXo0OWFfZTFSc0tBc0JvelpOdXdwaHJ6b3M2S0JPQWpIYllGeW5rZw?oc=5",
-    "source": "Googleニュース｜為替・円相場",
-    "published": "2026-11-21T05:00:00+09:00",
-    "summary": "25日の米PCE、FRBの利上げ占う 円安に傾けば再び介入の議論も 日本経済新聞"
-  },
-  {
-    "id": "87964d8a14bda86c",
-    "title": "ホルムズ海峡と原油調達はもはや市場の懸念にならず、米著名投資家が日本への「追い風」を見いだす理由 - ダイヤモンド・オンライン",
-    "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE9GUDZZd3gtOFQ4c0FPY21JZ2hzUXk1bVBrQWRRdWwzYUhDbk41SDh6Q2RRbk40MFozNjZQMjNYeHJLYkJMY200TlhXS0I?oc=5",
-    "source": "Googleニュース｜原油・石油",
-    "published": "2026-11-21T04:55:00+09:00",
-    "summary": "ホルムズ海峡と原油調達はもはや市場の懸念にならず、米著名投資家が日本への「追い風」を見いだす理由 ダイヤモンド・オンライン"
   }
 ]
